@@ -21,3 +21,4 @@ Por favor cualquier corrección, no dudar en hacerla llegar por pull request, en
 De momento, el software sólo está disponible con licencia GPLv2
 
 Cada imagen y pedazo de infomación está sujeta a su propia versión de Creative Commons, ver caso a caso.
+
