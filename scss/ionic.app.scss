@@ -15,9 +15,15 @@ $royal:                           #8a6de9 !default;
 $dark:                            #444 !default;
 */
 
+
+$light:                           #F5F4EB !default;//beige muy clarito
+$stable:                          #CFDBC4 !default;//verde muy claro
 $balanced:                        #409444 !default;//verde
+$calm:                            #6B9EAC !default;//azul claro
 $positive:                        #356673 !default;//azul
-$dark:                            #594C4B !default;//gris oscuro
+$energized:                       #D7AF39 !default;//amarillo
+$dark:                            #594C4B !default;//café-gris oscuro
+$royal:                           #4B5161 !default;//púrpura, gris piedra oscuro
 $assertive:                       #C72D2A !default;//rojo
 
 // The path for our ionicons font files, relative to the built CSS in www/css
@@ -27,3 +33,7 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
 @import "www/lib/ionic/scss/ionic";
 
 
+// Overwriting of Ionic styles 
+.pane, .view, .menu{
+	background-color: $light;
+}
