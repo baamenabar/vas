@@ -6443,3 +6443,6 @@ a.button {
 
 .pane, .view, .menu {
   background-color: #F5F4EB; }
+
+.padding.extra-nav-bar {
+  padding-top: 45px; }
