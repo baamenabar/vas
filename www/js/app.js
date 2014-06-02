@@ -70,5 +70,6 @@ angular.module('guiaVas', ['ionic','guiaVas.controllers'])
       }
     }
   });
+  //$urlRouterProvider.html5Mode(true);//no funciona, no sé por qué
   $urlRouterProvider.otherwise('/slidenav/flora-y-fauna');
 });

@@ -1,0 +1,89 @@
+{
+	"taxonType":"clade",
+	"nomine":"Angiospermae",
+	"synonymum":["Angiosperma","Magnoliophyta","Angiosperms"],
+	"proles":[
+		{
+			"taxonType":"clade",
+			"nomine":"Eudicots",
+			"synonymum":["Eudicotidae","Eudicotyledons"],
+			"proles":[
+				{
+					"taxonType":"clade",
+					"nomine":"Asterids",
+					"proles":[
+						{
+							"taxonType":"order",
+							"nomine":"Cornales",
+							"proles":[
+								{
+									"taxonType":"family",
+									"nomine":"Loasaceae",
+									"proles":[
+										{
+											"taxonType":"genus",
+											"nomine": "Loasa",
+											"proles":[
+												{
+													"taxonType":"specie",
+													"nomine":"triloba"
+												},
+												{
+													"taxonType":"specie",
+													"nomine":"tricolor"
+												},
+												{
+													"taxonType":"specie",
+													"nomine":"placei"
+												}
+											]
+										},
+										{
+											"taxonType":"genus",
+											"nomine": "Scyphanthus",
+											"proles":[
+												{
+													"taxonType":"specie",
+													"nomine":"stenocarpus"
+												},
+												{
+													"taxonType":"specie",
+													"nomine":"elegans"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"taxonType":"order",
+							"nomine":"Solanales",
+							"proles":[
+								{
+									"taxonType":"family",
+									"nomine":"Solanaceae",
+									"proles":[
+										{
+											"taxonType":"genus",
+											"nomine": "Solanum",
+											"proles":[
+												{
+													"taxonType":"specie",
+													"nomine":"crispum"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
+/*
+According to :  APG III (2009)
+*/
