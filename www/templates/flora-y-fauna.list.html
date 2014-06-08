@@ -1,12 +1,19 @@
 <ion-view title="{{category.label}}">
 	<ion-content class="has-header">
+		<div class="bar bar-dark item-input-inset">
+	      <label class="item-input-wrapper">
+	        <i class="icon ion-ios7-search placeholder-icon"></i>
+	        <input type="search" placeholder="Buscar">
+	      </label>
+	    </div>
 		
-		<h3>{{category.label}}</h3>
-		<p>Lorem ipsum y otras cosas.</p>
-		<p>The issue is that the nav bar is hidden even if I defined another one within ion-side-menus. So I removed the hide-nav-bar and it's working.</p>
+		<ion-list>
+			<ion-item ng-repeat="oneSpecie in categorySpecies">
+				<img ng-src="img/species/thumbs/{{oneSpecie.thumbnail}}">
+				<h2>{{oneSpecie.label}}</h2>
+				<h3>{{oneSpecie.sublabel}}</h3>
+			</ion-item>
+		</ion-list>
 
-<p>The one thing I don't understand is that I have a ion-nav-bar in index.html and one within the ion-side-menus and the one from index.html is not displayed. Could you explain why?</p>
-
-<p>In my list when I click on one item, I switch to the details state. On that state, the code is the following:</p>
 	</ion-content>
 </ion-view>

@@ -1,193 +1,191 @@
+[
 {
-	"objectData" : [
+	"identifier" : "1",
+	"template" : "planta",
+	"label" : "Colliguay",
+	"sublabel" : "Colliguaja odorifera",
+	"searchText" : "",
+	"images" : [
 		{
-			"identifier" : "1",
-			"template" : "planta",
-			"label" : "Colliguay",
-			"sublabel" : "Colliguaja odorifera",
-			"searchText" : "",
-			"images" : [
-				{
-					"credit" : "Agustín Amenabar L.",
-					"filename" : "Colliguaja odorifera - Colliguay (6).jpg",
-					"imageDescription" : "Colliguay en Flor",
-				},
-				{
-					"credit" : "Agustín Amenabar L.",
-					"filename" : "Colliguaja odorifera - Colliguay (2).jpg",
-					"imageDescription" : "Hojas, flores y frutos de Colliguay",
-				},
-				{
-					"credit" : "Agustín Amenabar L.",
-					"filename" : "Colliguaja odorifera - Colliguay (1).jpg",
-					"imageDescription" : "Agallas de Colliguay",
-				},
-				{
-					"credit" : "Agustín Amenabar L.",
-					"filename" : "Colliguaja odorifera - Colliguay (8).jpg",
-					"imageDescription" : "Hábito, individuo Colliguay",
-				},
-				{
-					"credit" : "Agustín Amenabar L.",
-					"filename" : "Colliguaja odorifera - Colliguay (5).jpg",
-					"imageDescription" : "Flores y hojas de Colliguay",
-				},
-				{
-					"credit" : "Agustín Amenabar L.",
-					"filename" : "Colliguaja odorifera - Colliguay (4).jpg",
-					"imageDescription" : "Semilla tricoca",
-				},
-				{
-					"credit" : "Agustín Amenabar L.",
-					"filename" : "Colliguaja odorifera - Colliguay (1).jpg",
-					"imageDescription" : "Colliguay en Flor",
-				},
-				{
-					"credit" : "Agustín Amenabar L.",
-					"filename" : "Colliguaja odorifera - Colliguay (1).jpg",
-					"imageDescription" : "Colliguay en Flor",
-				}
-			],
-			"thumbnail" :  "Colliguaja odorifera - Colliguay -th.jpg",
-			"group" : "planta",
-			"subgroup" : "shrub",
-			"details" : {
-				"genus" : "Colliguaja",
-				"specie": "odorifera",
-				"commonNames" : ["Colliguay"],
-				"biology" : "Es un arbusto siempreverde de hasta 2 m. La corteza es café-pardo y se desprende fácilmente, liberando látex de color blanco si se lo tala. Sus hojas son pecioladas, de color verde claro, oblongas a elípticas, opuestas, de ápice redondeado, mucronado o agudo. Los bordes son aserrados y glandulosos. Las medidas de la lámina son de 15 a 45 mm de longitud, con un ancho de 8 a 20 mm.<br>Posee inflorescencias terminales unisexuales en tonos de amarillo a rojizo. Las flores femeninas muestran un estigma trífido, siendo más gruesas que las masculinas, estas últimas contienen de 8 a 12 estambres, y se ubican en lo más alto de la espiga. Su fruto es una cápsula tricoca con un diámetro 20 mm. Al terminar de madurar, se abre violentamente, lanzando las semillas que contenía su interior a varios metros de distancia, evitando de esta manera la competencia con la planta madre.<br>Su corona radical posee una inflamación como protección del tallo contra la destrucción del fuego, llamada lignotúber. La corona contiene yemas de las cuáles nuevos tallos pueden brotar, y una suficiente provisión de nutrientes para apoyar un período de crecimiento en la ausencia de fotosíntesis.",
-				"identifyingCharacteristics" : "Hojas ovaladas de borde serreado.",
-				"use": "Ornamental. En medicina popular se utiliza contra el dolor de muelas. La corteza se utiliza como jabón.",
-				"flower":[5,6,7,8,9,10,11,12],
-				"fruit":[1,7,8,9,10,11,12],
-				"Etimologia": "<strong>Colliguaja</strong>, nombre indígena de la planta. <strong>Odorifera</strong>, debido a la fragancia que expele la madera",
-				"distribution" : "Endémico de Chile y crece entre Antofagasta y Linares",
-				"habitat" : "Habita sitios pedregosos y áridos, hasta los 1.200 m s.n.m.",
-				"nativeStatus" : "Endémico a Chile",
-				"conservacion" : ["LC"],
-				"descripted" : "Juan Ignacio Molina, 1810",
-				"synonymum":["Colliguaja triquetra","Colliguaja obtusa", "Croton colliguay"],
-				"fuentes": [
-					{
-						"nombre":"Wikipedia",
-						"link":"http://es.wikipedia.org/wiki/Colliguaja_odorifera",
-					},
-					{
-						"nombre":"Enciclopedia de la Flora Chilena",
-						"link":"http://museo.florachilena.cl/Niv_tax/Angiospermas/Ordenes/Malpighiales/Euphorbiaceae/Colliguaja/Colliguaja%20odorifera/Colliguaja%20odorifera.htm"
-					}
-				]
-			},
+			"credit" : "Agustín Amenabar L.",
+			"filename" : "Colliguaja odorifera - Colliguay (6).jpg",
+			"imageDescription" : "Colliguay en Flor"
 		},
 		{
-			"identifier" : "3",
-			"template" : "planta",
-			"label" : "Monjita",
-			"sublabel" : "Scyphanthus elegans",
-			"searchText" : "",
-			"images" : [
-				{
-					"credit" : "Agustín Amenabar L.",
-					"filename" : "Scyphanthus elegans - Monjita (2).JPG",
-					"imageDescription" : "Monjita en Flor",
-				},
-				{
-					"credit" : "Agustín Amenabar L.",
-					"filename" : "Scyphanthus elegans - Monjita (1).JPG",
-					"imageDescription" : "Monjita en Flor",
-				},
-				{
-					"credit" : "Agustín Amenabar L.",
-					"filename" : "Scyphanthus elegans - Monjita (3).JPG",
-					"imageDescription" : "Plantas",
-				}
-			],
-			"thumbnail" :  "Scyphanthus elegans - Monjita (3).JPG",
-			"group" : "planta",
-			"subgroup" : "herb",
-			"details" : {
-				"genus" : "Scyphanthus",
-				"specie": "elegans",
-				"commonNames" : ["Monjita"],
-				"biology" : "Planta herbácea, trepadora alcanza una altura de hasta 1m. Hojas compuestas opuestas de forma oblonga de 4-9cm, cubiertas de pelos. Flores amarillas, hermafroditas de 1,5-2cm de diámetro. 5 Sépalos y 5 pétalos. Estambres provistos de glándulas de color rojo intenso. El fruto es una cápsula con numerosas semillas en su interior.",
-				"identifyingCharacteristics" : "Hojas ovaladas de borde serreado.",
-				"use": "Ornamental.",
-				"flower":[1,11,12],
-				"fruit":[1,12],
-				"Etimologia": "",
-				"distribution" : "Monjita es endémica de Chile y crece entre Coquimbo y Cachapoal",
-				"habitat" : "",
-				"nativeStatus" : "Endémico a Chile",
-				"conservacion" : ["LC"],
-				"descripted" : "D.Don",
-				"synonymum":["Grammatocarpus volubilis","Loasa striata","Loasa peduncularis"],
-				"fuentes": [
-					{
-						"nombre":"Wikipedia",
-						"link":"http://es.wikipedia.org/wiki/Colliguaja_odorifera",
-					},
-					{
-						"nombre":"Enciclopedia de la Flora Chilena",
-						"link":"http://museo.florachilena.cl/Niv_tax/Angiospermas/Ordenes/Malpighiales/Euphorbiaceae/Colliguaja/Colliguaja%20odorifera/Colliguaja%20odorifera.htm"
-					}
-				],
-				"needInfo":["fecha floración","fecha frutos","foto hojas", "foto fruto", "etimología"]
-			},
+			"credit" : "Agustín Amenabar L.",
+			"filename" : "Colliguaja odorifera - Colliguay (2).jpg",
+			"imageDescription" : "Hojas, flores y frutos de Colliguay"
 		},
 		{
-			"identifier" : "2",
-			"template" : "animal",
-			"label" : "Araña Pollito",
-			"sublabel" : "Grammostola rosea",
-			"searchText" : "",
-			"images" : [
-				{
-					"credit" : "Agustín Amenabar L.",
-					"filename" : "Grammostola rosea - A. pollito (2).jpg",
-					"imageDesctiption" : "Adulto",
-				},
-				{
-					"credit" : "Agustín Amenabar L.",
-					"filename" : "Grammostola rosea - A. pollito (1).jpg",
-					"imageDesctiption" : "Macho en la hierba",
-				},
-				{
-					"credit" : "Agustín Amenabar L.",
-					"filename" : "Grammostola rosea - A. pollito (3).jpg",
-					"imageDesctiption" : "Macho en la hierba",
-				},
-				{
-					"credit" : "Agustín Amenabar L.",
-					"filename" : "Grammostola rosea - A. pollito (4).jpg",
-					"imageDesctiption" : "Juvenil",
-				}
-			],
-			"thumbnail" : "Grammostola rosea - A. pollito -th.jpg",
-			"group" : "arthropod",
-			"subgroup" : "aracnid",
-			"details" : {
-				"genus" : "Grammostola",
-				"species" : "rosea",
-				"commonNames" : ["Chilean rose", "Araña pollito"],
-				"biology" : "Es la especie más común y fácil de encontrar en los cerros de la zona centro sur de Chile. Tiene un rango de distribución muy amplio y cerca de zonas urbanas, lo que aumenta las probabilidades de su avistamiento en la naturaleza.<br> Es la especie más extendida en el hobby y originaria de Chile. Alcanza un tamaño medio, esto sumado a su gran resistencia, y adaptabilidad la hacen especial como mascota.<br>Las hembras adultas tienen una tonalidad marrón que predomina en todo su cuerpo. El abdomen presenta pelos café, grises y negros. El cefalotórax tiene el tono rosa brillante del cual deriva su nombre. Las patas tienen una coloración marrón con una base negra y pelos grises. <br>Los machos adultos presentan la misma coloración que las hembras, siendo el tono del prosoma mucho más brillante. Las patas de los machos son proporcionalmente más largas que en el caso de las hembras y el abdomen proporcionalmente más pequeño. Además los machos adultos presentan espolones tibiales en el primer par de patas y bulbos en los pedipalpos. <br> En el caso de ejemplares juveniles o subadultos el dimorfismo sexual es practicamente inexistente.<br> El tamaño máximo de las hembras ronda los 14-15cm de legspan, los machos son un poco más pequeños.",
-				"commonNames" : "Araña Pollito",
-				"behaviour" : "Es un animal nocturno, de carácter dócil y tranquilo.",
-				"dieta" : "Carnívoro",
-				"distinctive" : "Cuerpo peludo con tonos rojizos",
-				"identifyingCharacteristics" : "",
-				"distribution" : "Construye sus madrigueras en las laderas de los cerros presentes en la Cordillera de la Costa, Cordilleras Intermedias y Precordillera Central Andina, desde la V hasta la VI región, además de registros en Chubut y Punta Piaggio, Argentina (Rita D. Schiapelli y Berta S. Gerschman De Pikelin, 1963). Una gran población la encontramos en la cuenca sur del rio Maipo.",
-				"habitat" : "Esta región corresponde al tipo de clima mediterrario, es decir, inviernos frios y lluviosos con veranos cálidos y secos. Las temperaturas del mes más frío son mayores a los -3ºC, y la del mes más cálido menores a 38ºC, la amplitud térmica durante el verano es alta, y en invierno es baja. Las precipitaciones se registran especialmente en los meses de invierno, alcanzando en promedio los 300 mm, alternando con una sequía en verano que se prolonga por seis a ocho meses.<br>G. rosea habita en laderas y quebradas donde predominan los arbustos altos de hojas esclerófilas, pero también se encuentran arbustos bajos xerófitos, arbustos espinosos y suculentas. Es una especie oportunista que no desaprobechara usar como madriguera el espacio generado naturalmente entre una gran piedra y el suelo, o el generado entre 2 rocas. Con mayor frecuencia eso si, se le encuentra habitando madrigueras construidas por ella misma directamente en el suelo, estas madrigueras, en algunos casos, pueden llegar a los 30cm de profundidad. En algunas zonas como Lampa comparte territorio con Paraphysa parvula.<br>El tipo vegetacional predominante corresponde a Quillaja saponaria-Colliguaja odorifera (quillay-colliguay). Entre otras especies que destacan estan; espinos (Acasia caven), litre (Lithraea caustica), boldo (Peumus boldus) y algarrobo (Prosopis chilensis).<br>Una característica de esta especie es tener una distribución muy cercana a zonas urbanas. Es común encontrarlas en cerros que bordean la ciudad de Santiago. En época de apareamiento (Junio-agosto) es frecuente ver machos adultos caminando sobre las carreteras en busca de hembras.",
-				"conservacion" : ["LC"],
-				"nativeStatus" : "Nativa a Chile",
-				"descripted" : "Walckenaer, 1837",
-				"synonymum":["Grammostola cala", "Grammostola spatulata"],
-				"fuentes": [
-					{
-						"nombre":"Chile Tarántulas",
-						"link":"https://sites.google.com/site/chiletarantulas/grammostola-rosea-1",
-					}
-				]
-			},
+			"credit" : "Agustín Amenabar L.",
+			"filename" : "Colliguaja odorifera - Colliguay (1).jpg",
+			"imageDescription" : "Agallas de Colliguay"
 		},
-	]
+		{
+			"credit" : "Agustín Amenabar L.",
+			"filename" : "Colliguaja odorifera - Colliguay (8).jpg",
+			"imageDescription" : "Hábito, individuo Colliguay"
+		},
+		{
+			"credit" : "Agustín Amenabar L.",
+			"filename" : "Colliguaja odorifera - Colliguay (5).jpg",
+			"imageDescription" : "Flores y hojas de Colliguay"
+		},
+		{
+			"credit" : "Agustín Amenabar L.",
+			"filename" : "Colliguaja odorifera - Colliguay (4).jpg",
+			"imageDescription" : "Semilla tricoca"
+		},
+		{
+			"credit" : "Agustín Amenabar L.",
+			"filename" : "Colliguaja odorifera - Colliguay (1).jpg",
+			"imageDescription" : "Colliguay en Flor"
+		},
+		{
+			"credit" : "Agustín Amenabar L.",
+			"filename" : "Colliguaja odorifera - Colliguay (1).jpg",
+			"imageDescription" : "Colliguay en Flor"
+		}
+	],
+	"thumbnail" :  "Colliguaja odorifera - Colliguay -th.jpg",
+	"group" : "plant",
+	"subgroup" : "shrub",
+	"details" : {
+		"genus" : "Colliguaja",
+		"specie": "odorifera",
+		"commonNames" : ["Colliguay"],
+		"biology" : "Es un arbusto siempreverde de hasta 2 m. La corteza es café-pardo y se desprende fácilmente, liberando látex de color blanco si se lo tala. Sus hojas son pecioladas, de color verde claro, oblongas a elípticas, opuestas, de ápice redondeado, mucronado o agudo. Los bordes son aserrados y glandulosos. Las medidas de la lámina son de 15 a 45 mm de longitud, con un ancho de 8 a 20 mm.<br>Posee inflorescencias terminales unisexuales en tonos de amarillo a rojizo. Las flores femeninas muestran un estigma trífido, siendo más gruesas que las masculinas, estas últimas contienen de 8 a 12 estambres, y se ubican en lo más alto de la espiga. Su fruto es una cápsula tricoca con un diámetro 20 mm. Al terminar de madurar, se abre violentamente, lanzando las semillas que contenía su interior a varios metros de distancia, evitando de esta manera la competencia con la planta madre.<br>Su corona radical posee una inflamación como protección del tallo contra la destrucción del fuego, llamada lignotúber. La corona contiene yemas de las cuáles nuevos tallos pueden brotar, y una suficiente provisión de nutrientes para apoyar un período de crecimiento en la ausencia de fotosíntesis.",
+		"identifyingCharacteristics" : "Hojas ovaladas de borde serreado.",
+		"use": "Ornamental. En medicina popular se utiliza contra el dolor de muelas. La corteza se utiliza como jabón.",
+		"flower":[5,6,7,8,9,10,11,12],
+		"fruit":[1,7,8,9,10,11,12],
+		"Etimologia": "<strong>Colliguaja</strong>, nombre indígena de la planta. <strong>Odorifera</strong>, debido a la fragancia que expele la madera",
+		"distribution" : "Endémico de Chile y crece entre Antofagasta y Linares",
+		"habitat" : "Habita sitios pedregosos y áridos, hasta los 1.200 m s.n.m.",
+		"nativeStatus" : "Endémico a Chile",
+		"conservacion" : ["LC"],
+		"descripted" : "Juan Ignacio Molina, 1810",
+		"synonymum":["Colliguaja triquetra","Colliguaja obtusa", "Croton colliguay"],
+		"fuentes": [
+			{
+				"nombre":"Wikipedia",
+				"link":"http://es.wikipedia.org/wiki/Colliguaja_odorifera"
+			},
+			{
+				"nombre":"Enciclopedia de la Flora Chilena",
+				"link":"http://museo.florachilena.cl/Niv_tax/Angiospermas/Ordenes/Malpighiales/Euphorbiaceae/Colliguaja/Colliguaja%20odorifera/Colliguaja%20odorifera.htm"
+			}
+		]
+	}
+},
+{
+	"identifier" : "3",
+	"template" : "planta",
+	"label" : "Monjita",
+	"sublabel" : "Scyphanthus elegans",
+	"searchText" : "",
+	"images" : [
+		{
+			"credit" : "Agustín Amenabar L.",
+			"filename" : "Scyphanthus elegans - Monjita (2).JPG",
+			"imageDescription" : "Monjita en Flor"
+		},
+		{
+			"credit" : "Agustín Amenabar L.",
+			"filename" : "Scyphanthus elegans - Monjita (1).JPG",
+			"imageDescription" : "Monjita en Flor"
+		},
+		{
+			"credit" : "Agustín Amenabar L.",
+			"filename" : "Scyphanthus elegans - Monjita (3).JPG",
+			"imageDescription" : "Plantas"
+		}
+	],
+	"thumbnail" :  "Scyphanthus elegans - Monjita -th.JPG",
+	"group" : "plant",
+	"subgroup" : "herb",
+	"details" : {
+		"genus" : "Scyphanthus",
+		"specie": "elegans",
+		"commonNames" : ["Monjita"],
+		"biology" : "Planta herbácea, trepadora alcanza una altura de hasta 1m. Hojas compuestas opuestas de forma oblonga de 4-9cm, cubiertas de pelos. Flores amarillas, hermafroditas de 1,5-2cm de diámetro. 5 Sépalos y 5 pétalos. Estambres provistos de glándulas de color rojo intenso. El fruto es una cápsula con numerosas semillas en su interior.",
+		"identifyingCharacteristics" : "Hojas ovaladas de borde serreado.",
+		"use": "Ornamental.",
+		"flower":[1,11,12],
+		"fruit":[1,12],
+		"Etimologia": "",
+		"distribution" : "Monjita es endémica de Chile y crece entre Coquimbo y Cachapoal",
+		"habitat" : "",
+		"nativeStatus" : "Endémico a Chile",
+		"conservacion" : ["LC"],
+		"descripted" : "D.Don",
+		"synonymum":["Grammatocarpus volubilis","Loasa striata","Loasa peduncularis"],
+		"fuentes": [
+			{
+				"nombre":"Wikipedia",
+				"link":"http://es.wikipedia.org/wiki/Colliguaja_odorifera"
+			},
+			{
+				"nombre":"Enciclopedia de la Flora Chilena",
+				"link":"http://museo.florachilena.cl/Niv_tax/Angiospermas/Ordenes/Malpighiales/Euphorbiaceae/Colliguaja/Colliguaja%20odorifera/Colliguaja%20odorifera.htm"
+			}
+		],
+		"needInfo":["fecha floración","fecha frutos","foto hojas", "foto fruto", "etimología"]
+	}
+},
+{
+	"identifier" : "2",
+	"template" : "animal",
+	"label" : "Araña Pollito",
+	"sublabel" : "Grammostola rosea",
+	"searchText" : "",
+	"images" : [
+		{
+			"credit" : "Agustín Amenabar L.",
+			"filename" : "Grammostola rosea - A. pollito (2).jpg",
+			"imageDesctiption" : "Adulto"
+		},
+		{
+			"credit" : "Agustín Amenabar L.",
+			"filename" : "Grammostola rosea - A. pollito (1).jpg",
+			"imageDesctiption" : "Macho en la hierba"
+		},
+		{
+			"credit" : "Agustín Amenabar L.",
+			"filename" : "Grammostola rosea - A. pollito (3).jpg",
+			"imageDesctiption" : "Macho en la hierba"
+		},
+		{
+			"credit" : "Agustín Amenabar L.",
+			"filename" : "Grammostola rosea - A. pollito (4).jpg",
+			"imageDesctiption" : "Juvenil"
+		}
+	],
+	"thumbnail" : "Grammostola rosea - A. pollito -th.jpg",
+	"group" : "artropoda",
+	"subgroup" : "aracnid",
+	"details" : {
+		"genus" : "Grammostola",
+		"species" : "rosea",
+		"commonNames" : ["Chilean rose", "Araña pollito"],
+		"biology" : "Es la especie más común y fácil de encontrar en los cerros de la zona centro sur de Chile. Tiene un rango de distribución muy amplio y cerca de zonas urbanas, lo que aumenta las probabilidades de su avistamiento en la naturaleza.<br> Es la especie más extendida en el hobby y originaria de Chile. Alcanza un tamaño medio, esto sumado a su gran resistencia, y adaptabilidad la hacen especial como mascota.<br>Las hembras adultas tienen una tonalidad marrón que predomina en todo su cuerpo. El abdomen presenta pelos café, grises y negros. El cefalotórax tiene el tono rosa brillante del cual deriva su nombre. Las patas tienen una coloración marrón con una base negra y pelos grises. <br>Los machos adultos presentan la misma coloración que las hembras, siendo el tono del prosoma mucho más brillante. Las patas de los machos son proporcionalmente más largas que en el caso de las hembras y el abdomen proporcionalmente más pequeño. Además los machos adultos presentan espolones tibiales en el primer par de patas y bulbos en los pedipalpos. <br> En el caso de ejemplares juveniles o subadultos el dimorfismo sexual es practicamente inexistente.<br> El tamaño máximo de las hembras ronda los 14-15cm de legspan, los machos son un poco más pequeños.",
+		"commonNames" : "Araña Pollito",
+		"behaviour" : "Es un animal nocturno, de carácter dócil y tranquilo.",
+		"dieta" : "Carnívoro",
+		"distinctive" : "Cuerpo peludo con tonos rojizos",
+		"identifyingCharacteristics" : "",
+		"distribution" : "Construye sus madrigueras en las laderas de los cerros presentes en la Cordillera de la Costa, Cordilleras Intermedias y Precordillera Central Andina, desde la V hasta la VI región, además de registros en Chubut y Punta Piaggio, Argentina (Rita D. Schiapelli y Berta S. Gerschman De Pikelin, 1963). Una gran población la encontramos en la cuenca sur del rio Maipo.",
+		"habitat" : "Esta región corresponde al tipo de clima mediterrario, es decir, inviernos frios y lluviosos con veranos cálidos y secos. Las temperaturas del mes más frío son mayores a los -3ºC, y la del mes más cálido menores a 38ºC, la amplitud térmica durante el verano es alta, y en invierno es baja. Las precipitaciones se registran especialmente en los meses de invierno, alcanzando en promedio los 300 mm, alternando con una sequía en verano que se prolonga por seis a ocho meses.<br>G. rosea habita en laderas y quebradas donde predominan los arbustos altos de hojas esclerófilas, pero también se encuentran arbustos bajos xerófitos, arbustos espinosos y suculentas. Es una especie oportunista que no desaprobechara usar como madriguera el espacio generado naturalmente entre una gran piedra y el suelo, o el generado entre 2 rocas. Con mayor frecuencia eso si, se le encuentra habitando madrigueras construidas por ella misma directamente en el suelo, estas madrigueras, en algunos casos, pueden llegar a los 30cm de profundidad. En algunas zonas como Lampa comparte territorio con Paraphysa parvula.<br>El tipo vegetacional predominante corresponde a Quillaja saponaria-Colliguaja odorifera (quillay-colliguay). Entre otras especies que destacan estan; espinos (Acasia caven), litre (Lithraea caustica), boldo (Peumus boldus) y algarrobo (Prosopis chilensis).<br>Una característica de esta especie es tener una distribución muy cercana a zonas urbanas. Es común encontrarlas en cerros que bordean la ciudad de Santiago. En época de apareamiento (Junio-agosto) es frecuente ver machos adultos caminando sobre las carreteras en busca de hembras.",
+		"conservacion" : ["LC"],
+		"nativeStatus" : "Nativa a Chile",
+		"descripted" : "Walckenaer, 1837",
+		"synonymum":["Grammostola cala", "Grammostola spatulata"],
+		"fuentes": [
+			{
+				"nombre":"Chile Tarántulas",
+				"link":"https://sites.google.com/site/chiletarantulas/grammostola-rosea-1"
+			}
+		]
+	}
 }
+]
