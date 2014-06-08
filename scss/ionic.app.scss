@@ -66,7 +66,7 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
 .lista-calugas{
 	overflow: hidden;
 	padding-bottom: 15px;
-	button{
+	.button{
 		float: left;
 		width: 45%;//2
 		margin-left: 3.333%;
@@ -82,7 +82,7 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
 
 @media (min-width: 280px) {
 	.lista-calugas{
-		button{
+		.button{
 			width: 30%;//3
 			margin-left: 2.5%;
 			margin-top: 2.5%;
@@ -92,7 +92,7 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
 
 @media (min-width: 350px) {
 	.lista-calugas{
-		button{
+		.button{
 			width: 22.5%;//4
 			margin-left: 2%;
 			margin-top: 2%;
@@ -102,7 +102,7 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
 
 @media (min-width: 700px) {
 	.lista-calugas{
-		button{
+		.button{
 			width: 18%;//5
 			margin-left: 1.666%;
 			margin-top: 1.666%;
@@ -112,7 +112,7 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
 
 @media (min-width: 900px) {
 	.lista-calugas{
-		button{
+		.button{
 			width: 15%;//6
 			margin-left: 1.428%;
 			margin-top: 1.428%;

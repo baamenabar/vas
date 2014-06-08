@@ -1,0 +1,13 @@
+<ion-view title="Flora y Fauna">
+  <ion-content>
+<div class="bar bar-dark item-input-inset">
+	<h2 class="title">Selecciona una categoría</h2>
+</div>
+<div class="lista-calugas">
+	<a ng-repeat="category in categories" href="#/slidenav/flora-y-fauna/list/{{category.name}}" class="button button-energized">
+		<img ng-src="{{category.image}}">
+		<div>{{category.label}}</div>
+	</a>
+</div>
+</ion-content>
+</ion-view>

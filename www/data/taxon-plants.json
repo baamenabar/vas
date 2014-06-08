@@ -81,6 +81,35 @@
 					]
 				}
 			]
+		},
+		{
+			"taxonType":"clade",
+			"nomine":"Monocots",
+			"synonymum":["Monocotyledons"],
+			"proles":[
+				{
+					"taxonType":"order",
+					"nomine":"Asparagales",
+					"proles":[
+						{
+							"taxonType":"family",
+							"nomine":"Amaryllidaceae",
+							"proles":[
+								{
+									"taxonType":"genus",
+									"nomine": "Placea",
+									"proles":[
+										{
+											"taxonType":"specie",
+											"nomine":"arzae"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
 		}
 	]
 }

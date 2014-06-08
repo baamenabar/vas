@@ -6464,7 +6464,7 @@ a.button {
 .lista-calugas {
   overflow: hidden;
   padding-bottom: 15px; }
-  .lista-calugas button {
+  .lista-calugas .button {
     float: left;
     width: 45%;
     margin-left: 3.333%;
@@ -6476,25 +6476,25 @@ a.button {
     padding: 10px; }
 
 @media (min-width: 280px) {
-  .lista-calugas button {
+  .lista-calugas .button {
     width: 30%;
     margin-left: 2.5%;
     margin-top: 2.5%; } }
 
 @media (min-width: 350px) {
-  .lista-calugas button {
+  .lista-calugas .button {
     width: 22.5%;
     margin-left: 2%;
     margin-top: 2%; } }
 
 @media (min-width: 700px) {
-  .lista-calugas button {
+  .lista-calugas .button {
     width: 18%;
     margin-left: 1.666%;
     margin-top: 1.666%; } }
 
 @media (min-width: 900px) {
-  .lista-calugas button {
+  .lista-calugas .button {
     width: 15%;
     margin-left: 1.428%;
     margin-top: 1.428%; } }

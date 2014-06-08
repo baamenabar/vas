@@ -27,10 +27,28 @@ angular.module('guiaVas', ['ionic','guiaVas.controllers'])
   })
   .state('slidenav.florayfauna', {
     url: '/flora-y-fauna',
+    //abstract: true,
     views: {
       'contenidoDelMenuPpal': {
-        templateUrl: 'templates/flora-y-fauna.html'
-        //,controller: ''
+        templateUrl: 'templates/flora-y-fauna.html',
+        controller: 'calugasCtrl'
+      }
+    }
+  })
+  .state('slidenav.florayfauna.calugas', {
+    url: '/calugas',
+    views: {
+      'fyf@slidenav.florayfauna': {
+        templateUrl: 'templates/flora-y-fauna.calugas.html',
+      }
+    }
+  })
+  .state('slidenav.florayfauna.list', {
+    url: '/list/:name',
+    views: {
+      'fyf@slidenav.florayfauna': {
+        templateUrl: 'templates/flora-y-fauna.list.html',
+        controller: 'listCtrl'
       }
     }
   })
@@ -71,5 +89,5 @@ angular.module('guiaVas', ['ionic','guiaVas.controllers'])
     }
   });
   //$urlRouterProvider.html5Mode(true);//no funciona, no sé por qué
-  $urlRouterProvider.otherwise('/slidenav/flora-y-fauna');
+  $urlRouterProvider.otherwise('/slidenav/flora-y-fauna/calugas');
 });
