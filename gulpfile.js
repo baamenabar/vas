@@ -6,6 +6,9 @@ var sass = require('gulp-sass');
 var minifyCss = require('gulp-minify-css');
 var rename = require('gulp-rename');
 var sh = require('shelljs');
+var imageResize = require('gulp-image-resize');
+var imageMin = require('gulp-imagemin');
+var livereload = require('gulp-livereload');
 
 var paths = {
   sass: ['./scss/**/*.scss']
@@ -29,6 +32,10 @@ gulp.task('watch', function() {
   gulp.watch(paths.sass, ['sass']);
 });
 
+gulp.task('styles', function() {
+  gulp.watch('./scss/ionic.app.scss', ['sass']);
+});
+
 gulp.task('install', ['git-check'], function() {
   return bower.commands.install()
     .on('log', function(data) {
@@ -47,4 +54,39 @@ gulp.task('git-check', function(done) {
     process.exit(1);
   }
   done();
+});
+
+gulp.task('images',function(done) {
+  gulp.src('./src_data/imgs/**/*.*')
+  .pipe(imageResize({
+    width:770,
+    height:770,
+    imageMagick:true,
+    quality:0.7
+  }))
+  .pipe(imageMin({
+    progressive: true
+  }))
+  .pipe(gulp.dest('./www/img/species/770/'))
+  .pipe(imageResize({
+    width:640,
+    height:480,
+    imageMagick:true,
+    quality:0.7
+  }))
+  .pipe(imageMin({
+    progressive: true
+  }))
+  .pipe(gulp.dest('./www/img/species/640/'))
+  .pipe(imageResize({
+    width:320,
+    height:240,
+    imageMagick:true,
+    quality:0.7
+  }))
+  .pipe(imageMin({
+    progressive: true
+  }))
+  .pipe(gulp.dest('./www/img/species/320/'))
+  .on('end',done);
 });

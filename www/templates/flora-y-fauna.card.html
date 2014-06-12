@@ -1,0 +1,16 @@
+<ion-view title="{{oneItem.label}}">
+	<ion-content class="has-header">
+		<ion-slide-box class="images-slide">
+			<ion-slide ng-repeat="image in oneItem.images">
+				<img ng-src="img/species/320/{{image.filename}}">
+				<div class="label">
+					<p class="description">{{image.imageDescription}}</p>
+					<p class="credit">{{image.credit}}</p>
+				</div>
+			</ion-slide>
+		</ion-slide-box>
+		<h1>{{oneItem.label}}</h1>
+		<h2>{{oneItem.sublabel}}</h2>
+
+	</ion-content>
+</ion-view>

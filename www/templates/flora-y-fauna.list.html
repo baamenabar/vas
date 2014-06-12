@@ -7,11 +7,13 @@
 	      </label>
 	    </div>
 		
-		<ion-list>
-			<ion-item ng-repeat="oneSpecie in categorySpecies">
+		<ion-list class="species-list">
+			<ion-item ng-repeat="oneSpecie in categorySpecies" href="#/slidenav/card/{{oneSpecie._id}}">
 				<img ng-src="img/species/thumbs/{{oneSpecie.thumbnail}}">
-				<h2>{{oneSpecie.label}}</h2>
-				<h3>{{oneSpecie.sublabel}}</h3>
+				<div class="label">
+					<h2>{{oneSpecie.label}}</h2>
+					<h3>{{oneSpecie.sublabel}}</h3>
+				</div>
 			</ion-item>
 		</ion-list>
 

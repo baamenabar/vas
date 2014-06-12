@@ -1,6 +1,6 @@
 [
 {
-	"identifier" : "1",
+	"_id" : "1",
 	"template" : "planta",
 	"label" : "Colliguay",
 	"sublabel" : "Colliguaja odorifera",
@@ -35,16 +35,6 @@
 			"credit" : "Agustín Amenabar L.",
 			"filename" : "Colliguaja odorifera - Colliguay (4).jpg",
 			"imageDescription" : "Semilla tricoca"
-		},
-		{
-			"credit" : "Agustín Amenabar L.",
-			"filename" : "Colliguaja odorifera - Colliguay (1).jpg",
-			"imageDescription" : "Colliguay en Flor"
-		},
-		{
-			"credit" : "Agustín Amenabar L.",
-			"filename" : "Colliguaja odorifera - Colliguay (1).jpg",
-			"imageDescription" : "Colliguay en Flor"
 		}
 	],
 	"thumbnail" :  "Colliguaja odorifera - Colliguay -th.jpg",
@@ -79,7 +69,7 @@
 	}
 },
 {
-	"identifier" : "3",
+	"_id" : "3",
 	"template" : "planta",
 	"label" : "Monjita",
 	"sublabel" : "Scyphanthus elegans",
@@ -109,7 +99,7 @@
 		"specie": "elegans",
 		"commonNames" : ["Monjita"],
 		"biology" : "Planta herbácea, trepadora alcanza una altura de hasta 1m. Hojas compuestas opuestas de forma oblonga de 4-9cm, cubiertas de pelos. Flores amarillas, hermafroditas de 1,5-2cm de diámetro. 5 Sépalos y 5 pétalos. Estambres provistos de glándulas de color rojo intenso. El fruto es una cápsula con numerosas semillas en su interior.",
-		"identifyingCharacteristics" : "Hojas ovaladas de borde serreado.",
+		"identifyingCharacteristics" : "Flor amarilla de 5 pétalos",
 		"use": "Ornamental.",
 		"flower":[1,11,12],
 		"fruit":[1,12],
@@ -122,19 +112,19 @@
 		"synonymum":["Grammatocarpus volubilis","Loasa striata","Loasa peduncularis"],
 		"fuentes": [
 			{
-				"nombre":"Wikipedia",
-				"link":"http://es.wikipedia.org/wiki/Colliguaja_odorifera"
+				"nombre":"Chile Flora",
+				"link":"http://www.chileflora.com/Florachilena/FloraEnglish/HighResPages/EH0191.htm"
 			},
 			{
 				"nombre":"Enciclopedia de la Flora Chilena",
-				"link":"http://museo.florachilena.cl/Niv_tax/Angiospermas/Ordenes/Malpighiales/Euphorbiaceae/Colliguaja/Colliguaja%20odorifera/Colliguaja%20odorifera.htm"
+				"link":"http://museo.florachilena.cl/Niv_tax/Angiospermas/Ordenes/Cornales/Loasaceae/Scyphanthus/Scyphanthus%20elegans/Scyphanthus%20elegans.htm"
 			}
 		],
 		"needInfo":["fecha floración","fecha frutos","foto hojas", "foto fruto", "etimología"]
 	}
 },
 {
-	"identifier" : "2",
+	"_id" : "2",
 	"template" : "animal",
 	"label" : "Araña Pollito",
 	"sublabel" : "Grammostola rosea",

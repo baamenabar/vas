@@ -60,6 +60,10 @@ angular.module('guiaVas.controllers', [])
 	$scope.categorySpecies = $filter('filter')($scope.species,{group:$stateParams.name},true);
 })
 
+.controller('cardCtrl', function($scope, $stateParams, $filter) {
+	$scope.oneItem = $filter('filter')($scope.species,{_id:$stateParams.id},true)[0];
+})
+
 .controller('calugasCtrl', function($scope) {
 	
 });

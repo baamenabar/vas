@@ -50,6 +50,15 @@ angular.module('guiaVas', ['ionic','guiaVas.controllers'])
       }
     }
   })
+  .state('slidenav.card', {
+    url: '/card/:id',
+    views: {
+      'contenidoDelMenuPpal': {
+        templateUrl: 'templates/flora-y-fauna.card.html',
+        controller: 'cardCtrl'
+      }
+    }
+  })
   .state('slidenav.informaciongeneral', {
     url: '/informacion-general',
     views: {

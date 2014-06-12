@@ -6475,6 +6475,45 @@ a.button {
     width: 100%;
     padding: 10px; }
 
+.species-list .item .item-content {
+  padding: 0;
+  position: relative; }
+  .species-list .item .item-content img {
+    width: 100%;
+    display: block; }
+  .species-list .item .item-content .label {
+    background: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 0.125em 0.5em; }
+  .species-list .item .item-content h2 {
+    color: #FFF;
+    font-size: 1.5em; }
+  .species-list .item .item-content h3 {
+    color: #FFF;
+    font-size: 1.25em;
+    font-style: italic; }
+
+.images-slide {
+  background: #CFDBC4;
+  padding-bottom: 0.5em; }
+  .images-slide img {
+    max-width: 100%;
+    max-height: 320px;
+    display: block;
+    margin: 0 auto; }
+  .images-slide .label {
+    padding: 0.25em 0.5em; }
+    .images-slide .label p {
+      margin-bottom: 0; }
+    .images-slide .label .credit {
+      font-size: 0.865em;
+      color: #594C4B; }
+  .images-slide .slider-pager {
+    bottom: 2px; }
+
 @media (min-width: 280px) {
   .lista-calugas .button {
     width: 30%;
