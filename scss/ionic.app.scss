@@ -136,6 +136,50 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
 	}
 }
 
+.corporis{
+	h1{
+		color: $royal;
+		margin:0.5em 0.75em;
+		font-size: 1.5em;
+	}
+	h2{
+		padding:0.5em 0.75em;
+		margin: 0.25em 0;
+		font-size: 1.25em;
+		font-style: italic;
+		color: #fff;
+		background-color: $positive;
+	}
+	ul{
+		padding-left: 1.25em;
+	}
+	li{
+		list-style-type: disc;
+		list-style-position: inset;
+	}
+	strong{
+		color: #333;
+	}
+	section{
+		padding:0.25em 0.5em;
+		margin:0.5em 0.25em;
+		border-radius: 3px;
+		border: 1px solid $positive;
+	}
+	h3{
+		font-size: 1.5em;
+	}
+	h3, h4{
+		color: $positive;
+		margin-bottom: 0.125em;
+	}
+	.missing-information{
+		h3{
+			color: $assertive;
+		}
+	}
+}
+
 @media (min-width: 280px) {
 	.lista-calugas{
 		.button{

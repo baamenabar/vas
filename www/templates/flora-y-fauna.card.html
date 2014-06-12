@@ -9,8 +9,54 @@
 				</div>
 			</ion-slide>
 		</ion-slide-box>
-		<h1>{{oneItem.label}}</h1>
-		<h2>{{oneItem.sublabel}}</h2>
+		<div class="corporis">
+			<header>
+			</header>
+			<h1>{{oneItem.label}}</h1>
+			<h2>{{oneItem.sublabel}}</h2>
+			<section class="general-description">
+				<p ng-bind-html="oneItem.details.biology"></p>
+				<h3>Caracaterísticas propias</h3>
+				<p ng-show="oneItem.details.identifyingCharacteristics" ng-bind-html="oneItem.details.identifyingCharacteristics"></p>
+				<p ng-show="oneItem.details.distinctive" ng-bind-html="oneItem.details.distinctive"></p>
+				<h3>Distribución y Hábitat</h3>
+				<p ng-bind-html="oneItem.details.distribution"></p>
+				<p ng-bind-html="oneItem.details.habitat"></p>
+				<h3 ng-show="oneItem.details.behaviour">Comportamiento</h3>
+				<p ng-show="oneItem.details.behaviour" ng-bind-html="oneItem.details.behaviour"></p>
+				<p ng-show="oneItem.details.diet"><strong>Dieta:</strong> {{oneItem.details.diet}}</p>
+
+		<!--
+		"behaviour" : "Es un animal nocturno, de carácter dócil y tranquilo.",
+		"diet" : "Carnívoro",
+		"distinctive"
+		"flower":[1,11,12],
+		"fruit":[1,12],-->
+			</section>
+			<section class="assorted-info">
+				<p><strong>Nombres comunes:</strong> <span ng-repeat="oneCommonName in oneItem.details.commonNames">{{oneCommonName}}, </span></p>
+
+				<p>{{oneItem.details.nativeStatus}}</p>
+				<p><strong>Estado de Conservación:</strong> {{oneItem.details.conservationStatuses}}</p>
+				<p ng-show="oneItem.details.use"><strong>Usos:</strong> {{oneItem.details.use}}</p>
+				<div ng-show="oneItem.details.etymology"><h4>Etimología:</h4> <p ng-bind-html="oneItem.details.etymology"></p></div>
+			</section>
+			<section class="taxonomy">
+				<p><strong>Sinonimia:</strong> <span ng-repeat="oneSynonym in oneItem.details.synonymum">{{oneSynonym}}, </span></p>
+				<p><strong>Descrito por:</strong> {{oneItem.details.descripted}}</p>
+			</section>
+			<section ng-show="oneItem.details.missingInfo" class="missing-information">
+				<h3>Nos falta la siguiente información</h3>
+				<ul>
+					<li ng-repeat="oneMissing in oneItem.details.missingInfo">{{oneMissing}}</li>
+				</ul>
+				<p>Si tienes alguno de estos datos y puedes, compártela con nosotros y la publicaremos con tu nombre.</p>
+			</section>
+			<section class="sources">
+				<h3>Fuentes</h3>
+				<p ng-repeat="oneSource in oneItem.details.sources">{{oneSource.nombre}}<span ng-show="oneSource.link"> — <a href="{{oneSource.link}}">link</a></span></p>
+			</section>
+		</div>
 
 	</ion-content>
 </ion-view>

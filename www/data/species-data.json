@@ -49,14 +49,14 @@
 		"use": "Ornamental. En medicina popular se utiliza contra el dolor de muelas. La corteza se utiliza como jabón.",
 		"flower":[5,6,7,8,9,10,11,12],
 		"fruit":[1,7,8,9,10,11,12],
-		"Etimologia": "<strong>Colliguaja</strong>, nombre indígena de la planta. <strong>Odorifera</strong>, debido a la fragancia que expele la madera",
+		"etymology": "<strong>Colliguaja</strong>, nombre indígena de la planta. <strong>Odorifera</strong>, debido a la fragancia que expele la madera",
 		"distribution" : "Endémico de Chile y crece entre Antofagasta y Linares",
 		"habitat" : "Habita sitios pedregosos y áridos, hasta los 1.200 m s.n.m.",
 		"nativeStatus" : "Endémico a Chile",
-		"conservacion" : ["LC"],
+		"conservationStatuses" : ["LC"],
 		"descripted" : "Juan Ignacio Molina, 1810",
 		"synonymum":["Colliguaja triquetra","Colliguaja obtusa", "Croton colliguay"],
-		"fuentes": [
+		"sources": [
 			{
 				"nombre":"Wikipedia",
 				"link":"http://es.wikipedia.org/wiki/Colliguaja_odorifera"
@@ -103,14 +103,14 @@
 		"use": "Ornamental.",
 		"flower":[1,11,12],
 		"fruit":[1,12],
-		"Etimologia": "",
+		"etymology": "",
 		"distribution" : "Monjita es endémica de Chile y crece entre Coquimbo y Cachapoal",
 		"habitat" : "",
 		"nativeStatus" : "Endémico a Chile",
-		"conservacion" : ["LC"],
+		"conservationStatuses" : ["LC"],
 		"descripted" : "D.Don",
 		"synonymum":["Grammatocarpus volubilis","Loasa striata","Loasa peduncularis"],
-		"fuentes": [
+		"sources": [
 			{
 				"nombre":"Chile Flora",
 				"link":"http://www.chileflora.com/Florachilena/FloraEnglish/HighResPages/EH0191.htm"
@@ -120,7 +120,7 @@
 				"link":"http://museo.florachilena.cl/Niv_tax/Angiospermas/Ordenes/Cornales/Loasaceae/Scyphanthus/Scyphanthus%20elegans/Scyphanthus%20elegans.htm"
 			}
 		],
-		"needInfo":["fecha floración","fecha frutos","foto hojas", "foto fruto", "etimología"]
+		"missingInfo" : ["fecha floración","fecha frutos","foto hojas", "foto fruto", "etimología"]
 	}
 },
 {
@@ -133,22 +133,22 @@
 		{
 			"credit" : "Agustín Amenabar L.",
 			"filename" : "Grammostola rosea - A. pollito (2).jpg",
-			"imageDesctiption" : "Adulto"
+			"imageDescription" : "Adulto"
 		},
 		{
 			"credit" : "Agustín Amenabar L.",
 			"filename" : "Grammostola rosea - A. pollito (1).jpg",
-			"imageDesctiption" : "Macho en la hierba"
+			"imageDescription" : "Macho en la hierba"
 		},
 		{
 			"credit" : "Agustín Amenabar L.",
 			"filename" : "Grammostola rosea - A. pollito (3).jpg",
-			"imageDesctiption" : "Macho en la hierba"
+			"imageDescription" : "Macho en la hierba"
 		},
 		{
 			"credit" : "Agustín Amenabar L.",
 			"filename" : "Grammostola rosea - A. pollito (4).jpg",
-			"imageDesctiption" : "Juvenil"
+			"imageDescription" : "Juvenil"
 		}
 	],
 	"thumbnail" : "Grammostola rosea - A. pollito -th.jpg",
@@ -159,18 +159,17 @@
 		"species" : "rosea",
 		"commonNames" : ["Chilean rose", "Araña pollito"],
 		"biology" : "Es la especie más común y fácil de encontrar en los cerros de la zona centro sur de Chile. Tiene un rango de distribución muy amplio y cerca de zonas urbanas, lo que aumenta las probabilidades de su avistamiento en la naturaleza.<br> Es la especie más extendida en el hobby y originaria de Chile. Alcanza un tamaño medio, esto sumado a su gran resistencia, y adaptabilidad la hacen especial como mascota.<br>Las hembras adultas tienen una tonalidad marrón que predomina en todo su cuerpo. El abdomen presenta pelos café, grises y negros. El cefalotórax tiene el tono rosa brillante del cual deriva su nombre. Las patas tienen una coloración marrón con una base negra y pelos grises. <br>Los machos adultos presentan la misma coloración que las hembras, siendo el tono del prosoma mucho más brillante. Las patas de los machos son proporcionalmente más largas que en el caso de las hembras y el abdomen proporcionalmente más pequeño. Además los machos adultos presentan espolones tibiales en el primer par de patas y bulbos en los pedipalpos. <br> En el caso de ejemplares juveniles o subadultos el dimorfismo sexual es practicamente inexistente.<br> El tamaño máximo de las hembras ronda los 14-15cm de legspan, los machos son un poco más pequeños.",
-		"commonNames" : "Araña Pollito",
 		"behaviour" : "Es un animal nocturno, de carácter dócil y tranquilo.",
-		"dieta" : "Carnívoro",
+		"diet" : "Carnívoro",
 		"distinctive" : "Cuerpo peludo con tonos rojizos",
 		"identifyingCharacteristics" : "",
 		"distribution" : "Construye sus madrigueras en las laderas de los cerros presentes en la Cordillera de la Costa, Cordilleras Intermedias y Precordillera Central Andina, desde la V hasta la VI región, además de registros en Chubut y Punta Piaggio, Argentina (Rita D. Schiapelli y Berta S. Gerschman De Pikelin, 1963). Una gran población la encontramos en la cuenca sur del rio Maipo.",
 		"habitat" : "Esta región corresponde al tipo de clima mediterrario, es decir, inviernos frios y lluviosos con veranos cálidos y secos. Las temperaturas del mes más frío son mayores a los -3ºC, y la del mes más cálido menores a 38ºC, la amplitud térmica durante el verano es alta, y en invierno es baja. Las precipitaciones se registran especialmente en los meses de invierno, alcanzando en promedio los 300 mm, alternando con una sequía en verano que se prolonga por seis a ocho meses.<br>G. rosea habita en laderas y quebradas donde predominan los arbustos altos de hojas esclerófilas, pero también se encuentran arbustos bajos xerófitos, arbustos espinosos y suculentas. Es una especie oportunista que no desaprobechara usar como madriguera el espacio generado naturalmente entre una gran piedra y el suelo, o el generado entre 2 rocas. Con mayor frecuencia eso si, se le encuentra habitando madrigueras construidas por ella misma directamente en el suelo, estas madrigueras, en algunos casos, pueden llegar a los 30cm de profundidad. En algunas zonas como Lampa comparte territorio con Paraphysa parvula.<br>El tipo vegetacional predominante corresponde a Quillaja saponaria-Colliguaja odorifera (quillay-colliguay). Entre otras especies que destacan estan; espinos (Acasia caven), litre (Lithraea caustica), boldo (Peumus boldus) y algarrobo (Prosopis chilensis).<br>Una característica de esta especie es tener una distribución muy cercana a zonas urbanas. Es común encontrarlas en cerros que bordean la ciudad de Santiago. En época de apareamiento (Junio-agosto) es frecuente ver machos adultos caminando sobre las carreteras en busca de hembras.",
-		"conservacion" : ["LC"],
+		"conservationStatuses" : ["LC"],
 		"nativeStatus" : "Nativa a Chile",
 		"descripted" : "Walckenaer, 1837",
 		"synonymum":["Grammostola cala", "Grammostola spatulata"],
-		"fuentes": [
+		"sources": [
 			{
 				"nombre":"Chile Tarántulas",
 				"link":"https://sites.google.com/site/chiletarantulas/grammostola-rosea-1"

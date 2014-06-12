@@ -6514,6 +6514,37 @@ a.button {
   .images-slide .slider-pager {
     bottom: 2px; }
 
+.corporis h1 {
+  color: #4B5161;
+  margin: 0.5em 0.75em;
+  font-size: 1.5em; }
+.corporis h2 {
+  padding: 0.5em 0.75em;
+  margin: 0.25em 0;
+  font-size: 1.25em;
+  font-style: italic;
+  color: #fff;
+  background-color: #356673; }
+.corporis ul {
+  padding-left: 1.25em; }
+.corporis li {
+  list-style-type: disc;
+  list-style-position: inset; }
+.corporis strong {
+  color: #333; }
+.corporis section {
+  padding: 0.25em 0.5em;
+  margin: 0.5em 0.25em;
+  border-radius: 3px;
+  border: 1px solid #356673; }
+.corporis h3 {
+  font-size: 1.5em; }
+.corporis h3, .corporis h4 {
+  color: #356673;
+  margin-bottom: 0.125em; }
+.corporis .missing-information h3 {
+  color: #C72D2A; }
+
 @media (min-width: 280px) {
   .lista-calugas .button {
     width: 30%;
