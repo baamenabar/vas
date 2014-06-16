@@ -9,6 +9,7 @@ var sh = require('shelljs');
 var imageResize = require('gulp-image-resize');
 var imageMin = require('gulp-imagemin');
 var livereload = require('gulp-livereload');
+var myTest = require('./tasks/data.js');
 
 var paths = {
   sass: ['./scss/**/*.scss']
@@ -89,4 +90,8 @@ gulp.task('images',function(done) {
   }))
   .pipe(gulp.dest('./www/img/species/320/'))
   .on('end',done);
+});
+
+gulp.task('prueba',function() {
+  myTest.convertCSV();
 });

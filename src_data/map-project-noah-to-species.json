@@ -1,0 +1,75 @@
+"Noah ID":"details.noahId",
+"Latitude":{"process":""},
+"Longitude":"",
+"Common Name":"label",
+"Scientific Name":[{"node":"sublabel"},{"process":"splitBinominalName", "mapsTo":["details.genus","details.specie"]}],
+"Description":
+"Habitat":
+"Notes":
+"Category":
+"Continent":
+"Country":
+"Primary Image URL":
+"Spotted Date":
+"Submitted Date":
+"Favorite Count":
+"Suggestion Count":
+"Comment Count":
+"Tags":
+"Missions":
+
+{
+	"_id" : "3",
+	"template" : "planta",
+	"label" : "Monjita",
+	"sublabel" : "Scyphanthus elegans",
+	"searchText" : "",
+	"images" : [
+		{
+			"credit" : "Agustín Amenabar L.",
+			"filename" : "Scyphanthus elegans - Monjita (2).JPG",
+			"imageDescription" : "Monjita en Flor"
+		},
+		{
+			"credit" : "Agustín Amenabar L.",
+			"filename" : "Scyphanthus elegans - Monjita (1).JPG",
+			"imageDescription" : "Monjita en Flor"
+		},
+		{
+			"credit" : "Agustín Amenabar L.",
+			"filename" : "Scyphanthus elegans - Monjita (3).JPG",
+			"imageDescription" : "Plantas"
+		}
+	],
+	"thumbnail" :  "Scyphanthus elegans - Monjita -th.JPG",
+	"group" : "plant",
+	"subgroup" : "herb",
+	"details" : {
+		"genus" : "Scyphanthus",
+		"specie": "elegans",
+		"commonNames" : ["Monjita"],
+		"biology" : "Planta herbácea, trepadora alcanza una altura de hasta 1m. Hojas compuestas opuestas de forma oblonga de 4-9cm, cubiertas de pelos. Flores amarillas, hermafroditas de 1,5-2cm de diámetro. 5 Sépalos y 5 pétalos. Estambres provistos de glándulas de color rojo intenso. El fruto es una cápsula con numerosas semillas en su interior.",
+		"identifyingCharacteristics" : "Flor amarilla de 5 pétalos",
+		"use": "Ornamental.",
+		"flower":[1,11,12],
+		"fruit":[1,12],
+		"etymology": "",
+		"distribution" : "Monjita es endémica de Chile y crece entre Coquimbo y Cachapoal",
+		"habitat" : "",
+		"nativeStatus" : "Endémico a Chile",
+		"conservationStatuses" : ["LC"],
+		"descripted" : "D.Don",
+		"synonymum":["Grammatocarpus volubilis","Loasa striata","Loasa peduncularis"],
+		"sources": [
+			{
+				"nombre":"Chile Flora",
+				"link":"http://www.chileflora.com/Florachilena/FloraEnglish/HighResPages/EH0191.htm"
+			},
+			{
+				"nombre":"Enciclopedia de la Flora Chilena",
+				"link":"http://museo.florachilena.cl/Niv_tax/Angiospermas/Ordenes/Cornales/Loasaceae/Scyphanthus/Scyphanthus%20elegans/Scyphanthus%20elegans.htm"
+			}
+		],
+		"missingInfo" : ["fecha floración","fecha frutos","foto hojas", "foto fruto", "etimología"]
+	}
+},
