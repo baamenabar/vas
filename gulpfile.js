@@ -92,6 +92,6 @@ gulp.task('images',function(done) {
   .on('end',done);
 });
 
-gulp.task('prueba',function() {
+gulp.task('convert',function() {
   myTest.convertCSV();
 });
