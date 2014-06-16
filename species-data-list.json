@@ -5,7 +5,11 @@
         "label": "Chinita chilena",
         "sublabel": "Eriopis connexa",
         "searchText": "bugladybuglady birdcerro manquehueorangebrownblacknaranjacafénegrolarva,larvae",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "invertebrate",
         "subgroup": "invertebrate",
@@ -44,7 +48,16 @@
         "label": "Azulillo",
         "sublabel": "Pasithea coerulea",
         "searchText": "azulblueyellowcerro manquehueamarillobulbobulbpurplepúrpuramoradohierbaherb,ornamentalazulbluepurplemoradolillyherb,hiebra",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -89,7 +102,12 @@
         "label": "Pimpinela",
         "sublabel": "Anagallis arvensis",
         "searchText": "cerro manquehueflorhierbaflowerherbblueredscarletescarlatarojoazulmoradopurpleyellowamarillo,fucsia",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -128,7 +146,435 @@
         "label": "Green Wasp",
         "sublabel": "",
         "searchText": "waspavispagreenorangebluemetalicmetalizadoazulverdemetáliconaranja,cerro manquehuecerro manquehueflorfloweryellowamarillohoja grandebig leafhierbaherb,racimoflorflowersuculentapinkrosadocerro manquehueplanta,plantmoscaflyhoverflyblackyellownegroamarillomosca abeja,cerro manquehueamarilloyellowverdegreenplant,plantaarañaaraña lobowolf spiderspiderbrownstripescaférallashair,peloswalking stickgreenverdeinsect,insectohongocallampamushroombrowncafébeige,smallflowerbulbflorbulboblanco,whitepastopelosgrassgrainshortherbsmallpequeño,hierbacerro manquehuecerro manquehuecerro manquehuecerro manquehuecerro manquehueavispa,wasp",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "invertebrate",
         "subgroup": "invertebrate",
@@ -274,7 +720,13 @@
         "label": "Blanquillo",
         "sublabel": "Leucheria cerberoana",
         "searchText": "florflowerherbhierbawhiteblancosmallpequeñochico,cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -313,7 +765,10 @@
         "label": "Huasita",
         "sublabel": "Clarkia tenella",
         "searchText": "herbhierbapurplemoradopinkrosado,cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -352,7 +807,11 @@
         "label": "Vicia",
         "sublabel": "Vicia sp.",
         "searchText": "purplefucsiamoradotrompetarosadopúrpurahierbaherb,cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -391,7 +850,11 @@
         "label": "Manzanilla del Campo",
         "sublabel": "Helenium aromaticum",
         "searchText": "herbhierbayellowamarillobolapelotaballcompositecompuestapinadalanceoladapinnatedlanceolate,cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -425,158 +888,17 @@
         }
     },
     {
-        "_id": 3,
-        "template": "invertebrate",
-        "label": "Green Wasp",
-        "sublabel": "",
-        "searchText": "waspavispagreenorangebluemetalicmetalizadoazulverdemetáliconaranja,cerro manquehuecerro manquehueflorfloweryellowamarillohoja grandebig leafhierbaherb,racimoflorflowersuculentapinkrosadocerro manquehueplanta,plantmoscaflyhoverflyblackyellownegroamarillomosca abeja,cerro manquehueamarilloyellowverdegreenplant,plantaarañaaraña lobowolf spiderspiderbrownstripescaférallashair,peloswalking stickgreenverdeinsect,insectohongocallampamushroombrowncafébeige,smallflowerbulbflorbulboblanco,whitepastopelosgrassgrainshortherbsmallpequeño,hierbacerro manquehuecerro manquehuecerro manquehuecerro manquehuecerro manquehueavispa,wasp",
-        "images": [],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
-        "details": {
-            "genus": "",
-            "commonNames": [
-                "Green Wasp",
-                "Barbarea sp.",
-                "Cistanthe sp.",
-                "Sírfido",
-                "",
-                "Wolf spyder",
-                "Palote",
-                "Hongo",
-                "Unknown Liliaceae",
-                "Pasto / Grass",
-                "Callampa",
-                "Green cuckoo wasp",
-                "Avispa Pompilidae ?"
-            ],
-            "biology": "This wasp was smallabout 10 mm long (without the antennae).<br>\n <br>\nEsta avispa era chica,unos 10 mm de largo (sin antenas).",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "Found these on my garden,probably brought the seeds on my bike or my shoes. Too bad this year they didn't grow again.",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "337986178",
-                    "latitude": "-33.3360320667",
-                    "longitude": "-70.5666634414",
-                    "date": "2012-10-15 00:00:00"
-                },
-                {
-                    "noahId": "324576029",
-                    "latitude": "-33.3341138493",
-                    "longitude": "-70.5680903766",
-                    "date": "2012-10-09 00:00:00"
-                },
-                {
-                    "noahId": "229696018",
-                    "latitude": "-33.3345441072",
-                    "longitude": "-70.5683264108",
-                    "date": "2012-09-23 00:00:00"
-                },
-                {
-                    "noahId": "162726077",
-                    "latitude": "-33.3518355841",
-                    "longitude": "-70.5594697567",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "156586057",
-                    "latitude": "-33.3336947938",
-                    "longitude": "-70.5679240796",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "43822024",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43731009",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43850021",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43846002",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43690091",
-                    "latitude": "-33.3355054574",
-                    "longitude": "-70.5667439076",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "42515018",
-                    "latitude": "-33.3391540215",
-                    "longitude": "-70.5673954261",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "42339024",
-                    "latitude": "-33.3393198408",
-                    "longitude": "-70.5672076715",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "38225063",
-                    "latitude": "-33.3507270008",
-                    "longitude": "-70.564313568",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38416026",
-                    "latitude": "-33.3466043733",
-                    "longitude": "-70.5674678458",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38449360",
-                    "latitude": "-33.3455490389",
-                    "longitude": "-70.5685863269",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "16954539",
-                    "latitude": "-33.3313549862",
-                    "longitude": "-70.5717958899",
-                    "date": "2012-11-11 00:00:00"
-                },
-                {
-                    "noahId": "14962213",
-                    "latitude": "-33.3343489158",
-                    "longitude": "-70.5678369494",
-                    "date": "2012-10-09 00:00:00"
-                }
-            ]
-        }
-    },
-    {
         "_id": 8,
         "template": "plant",
         "label": "Litre",
         "sublabel": "Lithraea caustica",
         "searchText": "cerro manquehueverdetreeárbolplantaalergic,alérgico",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -621,7 +943,10 @@
         "label": "Eared Dove Chicks",
         "sublabel": "Zenaida auriculata",
         "searchText": "tórtolaavebirdpalomatorcazadovepigeonchickpolluelonido,nest",
-        "images": [],
+        "images": [
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "bird",
         "subgroup": "bird",
@@ -660,7 +985,11 @@
         "label": "Soldaditos",
         "sublabel": "Tropaeolum tricolor",
         "searchText": "florflowerredpurpleyellowrojopurpurapúrpuraamarillomoradovineenredadera,trepadora",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -699,111 +1028,20 @@
         "label": "Ñuño",
         "sublabel": "Olsynium junceum",
         "searchText": "florflowerwhiteblancopinkrosadoyellowamarillohierbaherbbulbo,bulbflorflowerpinkrosadoblancowhiteyellowamarilloherbbulbhierba,bulboflorflowerbulbbulboblancoamarillorosadowhiteyellowpinkstripesrallasherb,hierba",
-        "images": [],
-        "thumbnail": "",
-        "group": "plant",
-        "subgroup": "plant",
-        "details": {
-            "genus": "Olsynium",
-            "specie": "junceum",
-            "commonNames": [
-                "Ñuño",
-                "Huilmo"
-            ],
-            "biology": "Family: Iridaceae",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "Hierba perenne nativa de las regiones 345M67891012 de Chilede 200 a 3,500 m. También en Argentina.",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "243756044",
-                    "latitude": "-33.3022060885",
-                    "longitude": "-70.5119571063",
-                    "date": "2012-09-28 00:00:00"
-                },
-                {
-                    "noahId": "243816059",
-                    "latitude": "-33.2986281768",
-                    "longitude": "-70.5182602975",
-                    "date": "2012-09-28 00:00:00"
-                },
-                {
-                    "noahId": "237386036",
-                    "latitude": "-33.2869698023",
-                    "longitude": "-70.500622091",
-                    "date": "2012-09-28 00:00:00"
-                }
-            ]
-        }
-    },
-    {
-        "_id": 11,
-        "template": "plant",
-        "label": "Ñuño",
-        "sublabel": "Olsynium junceum",
-        "searchText": "florflowerwhiteblancopinkrosadoyellowamarillohierbaherbbulbo,bulbflorflowerpinkrosadoblancowhiteyellowamarilloherbbulbhierba,bulboflorflowerbulbbulboblancoamarillorosadowhiteyellowpinkstripesrallasherb,hierba",
-        "images": [],
-        "thumbnail": "",
-        "group": "plant",
-        "subgroup": "plant",
-        "details": {
-            "genus": "Olsynium",
-            "specie": "junceum",
-            "commonNames": [
-                "Ñuño",
-                "Huilmo"
-            ],
-            "biology": "Family: Iridaceae",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "Hierba perenne nativa de las regiones 345M67891012 de Chilede 200 a 3,500 m. También en Argentina.",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "243756044",
-                    "latitude": "-33.3022060885",
-                    "longitude": "-70.5119571063",
-                    "date": "2012-09-28 00:00:00"
-                },
-                {
-                    "noahId": "243816059",
-                    "latitude": "-33.2986281768",
-                    "longitude": "-70.5182602975",
-                    "date": "2012-09-28 00:00:00"
-                },
-                {
-                    "noahId": "237386036",
-                    "latitude": "-33.2869698023",
-                    "longitude": "-70.500622091",
-                    "date": "2012-09-28 00:00:00"
-                }
-            ]
-        }
-    },
-    {
-        "_id": 11,
-        "template": "plant",
-        "label": "Ñuño",
-        "sublabel": "Olsynium junceum",
-        "searchText": "florflowerwhiteblancopinkrosadoyellowamarillohierbaherbbulbo,bulbflorflowerpinkrosadoblancowhiteyellowamarilloherbbulbhierba,bulboflorflowerbulbbulboblancoamarillorosadowhiteyellowpinkstripesrallasherb,hierba",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -855,7 +1093,17 @@
         "label": "Quilloy-quilloi",
         "sublabel": "Stellaria chilensis",
         "searchText": "whiteblancablancoflowerflorhierba,herbflorflowerwhiteblancosixseisherbhierba,herbácea",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -891,97 +1139,6 @@
                     "latitude": "-33.2959379209",
                     "longitude": "-70.5189898583",
                     "date": "2012-09-28 00:00:00"
-                }
-            ]
-        }
-    },
-    {
-        "_id": 12,
-        "template": "plant",
-        "label": "Quilloy-quilloi",
-        "sublabel": "Stellaria chilensis",
-        "searchText": "whiteblancablancoflowerflorhierba,herbflorflowerwhiteblancosixseisherbhierba,herbácea",
-        "images": [],
-        "thumbnail": "",
-        "group": "plant",
-        "subgroup": "plant",
-        "details": {
-            "genus": "Stellaria",
-            "specie": "chilensis",
-            "commonNames": [
-                "Quilloy-quilloi",
-                "Quilloi-quilloi"
-            ],
-            "biology": "Family: Caryophyllaceae<br>\nHierba perenne,nativa.\nFrecuente en el matorral y bosque esclerofilos de Chile Central.",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "Frecuente en el matorral y bosque esclerofilos de Chile Central.",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "241826066",
-                    "latitude": "-33.2869698023",
-                    "longitude": "-70.500622091",
-                    "date": "2012-09-28 00:00:00"
-                },
-                {
-                    "noahId": "240416012",
-                    "latitude": "-33.2959379209",
-                    "longitude": "-70.5189898583",
-                    "date": "2012-09-28 00:00:00"
-                }
-            ]
-        }
-    },
-    {
-        "_id": 1,
-        "template": "plant",
-        "label": "Azulillo",
-        "sublabel": "Pasithea coerulea",
-        "searchText": "azulblueyellowcerro manquehueamarillobulbobulbpurplepúrpuramoradohierbaherb,ornamentalazulbluepurplemoradolillyherb,hiebra",
-        "images": [],
-        "thumbnail": "",
-        "group": "plant",
-        "subgroup": "plant",
-        "details": {
-            "genus": "Pasithea",
-            "specie": "coerulea",
-            "commonNames": [
-                "Azulillo"
-            ],
-            "biology": "Superior taxa: Xanthorrhoeaceae / Asparagales / Liliopsida<br>\nNombres comunes: IllinIlleoIllcuChichiquinFlor del queltehue<br>\nHierba perenne de raíces tuberosas que alcanza hasta 70cm de altura. Hojas agrupadas en la basede borde enterode forma linear-lanceolada. Láminas de 20-50 x 07-15cm. Flores de 15-2cm de diámetro de color azul (rara vez blancas)agrupadas en panículas terminales. Perianto compuesto de 6 tépalos,los 3 internos más anchos. 6 estambres desiguales y pistilo con estigma trífido. El fruto es una cápsula de tres valvas. Usos: Ornamental.",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "Azulillo representa a un género monotípico y crece entre la II y IX región. Habita lugares abiertos y asoleados,de preferencia en la costa. Especie frecuente.",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "311756433",
-                    "latitude": "-33.3370359767",
-                    "longitude": "-70.5669638488",
-                    "date": "2012-10-15 00:00:00"
-                },
-                {
-                    "noahId": "242026040",
-                    "latitude": "-33.335314981",
-                    "longitude": "-70.5670550438",
-                    "date": "2012-09-23 00:00:00"
                 }
             ]
         }
@@ -992,7 +1149,12 @@
         "label": "Papa cimarrona",
         "sublabel": "Dioscorea saxatilis",
         "searchText": "vineenredaderatrepadora,cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -1070,7 +1232,11 @@
         "label": "Conejitos",
         "sublabel": "Lamium amplexicaule",
         "searchText": "florflowercerro manquehuemintmentapinkwhiteblancorosadofucsiaplantahierbaplant,herb",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -1109,7 +1275,19 @@
         "label": "Macaya",
         "sublabel": "Placea arzae",
         "searchText": "cerro manquehueflorflowerredwhiterojoblancoamarillo,yellowirisflorherbhierbaflowerwhiteredrojoblancobulbobulb,nativacerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -1162,7 +1340,11 @@
         "label": "Mitique",
         "sublabel": "Podanthus mitiqui",
         "searchText": "yellowamarilloflorflowerbush,arbusto",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -1196,158 +1378,15 @@
         }
     },
     {
-        "_id": 3,
-        "template": "invertebrate",
-        "label": "Green Wasp",
-        "sublabel": "",
-        "searchText": "waspavispagreenorangebluemetalicmetalizadoazulverdemetáliconaranja,cerro manquehuecerro manquehueflorfloweryellowamarillohoja grandebig leafhierbaherb,racimoflorflowersuculentapinkrosadocerro manquehueplanta,plantmoscaflyhoverflyblackyellownegroamarillomosca abeja,cerro manquehueamarilloyellowverdegreenplant,plantaarañaaraña lobowolf spiderspiderbrownstripescaférallashair,peloswalking stickgreenverdeinsect,insectohongocallampamushroombrowncafébeige,smallflowerbulbflorbulboblanco,whitepastopelosgrassgrainshortherbsmallpequeño,hierbacerro manquehuecerro manquehuecerro manquehuecerro manquehuecerro manquehueavispa,wasp",
-        "images": [],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
-        "details": {
-            "genus": "",
-            "commonNames": [
-                "Green Wasp",
-                "Barbarea sp.",
-                "Cistanthe sp.",
-                "Sírfido",
-                "",
-                "Wolf spyder",
-                "Palote",
-                "Hongo",
-                "Unknown Liliaceae",
-                "Pasto / Grass",
-                "Callampa",
-                "Green cuckoo wasp",
-                "Avispa Pompilidae ?"
-            ],
-            "biology": "This wasp was smallabout 10 mm long (without the antennae).<br>\n <br>\nEsta avispa era chica,unos 10 mm de largo (sin antenas).",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "Found these on my garden,probably brought the seeds on my bike or my shoes. Too bad this year they didn't grow again.",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "337986178",
-                    "latitude": "-33.3360320667",
-                    "longitude": "-70.5666634414",
-                    "date": "2012-10-15 00:00:00"
-                },
-                {
-                    "noahId": "324576029",
-                    "latitude": "-33.3341138493",
-                    "longitude": "-70.5680903766",
-                    "date": "2012-10-09 00:00:00"
-                },
-                {
-                    "noahId": "229696018",
-                    "latitude": "-33.3345441072",
-                    "longitude": "-70.5683264108",
-                    "date": "2012-09-23 00:00:00"
-                },
-                {
-                    "noahId": "162726077",
-                    "latitude": "-33.3518355841",
-                    "longitude": "-70.5594697567",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "156586057",
-                    "latitude": "-33.3336947938",
-                    "longitude": "-70.5679240796",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "43822024",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43731009",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43850021",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43846002",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43690091",
-                    "latitude": "-33.3355054574",
-                    "longitude": "-70.5667439076",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "42515018",
-                    "latitude": "-33.3391540215",
-                    "longitude": "-70.5673954261",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "42339024",
-                    "latitude": "-33.3393198408",
-                    "longitude": "-70.5672076715",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "38225063",
-                    "latitude": "-33.3507270008",
-                    "longitude": "-70.564313568",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38416026",
-                    "latitude": "-33.3466043733",
-                    "longitude": "-70.5674678458",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38449360",
-                    "latitude": "-33.3455490389",
-                    "longitude": "-70.5685863269",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "16954539",
-                    "latitude": "-33.3313549862",
-                    "longitude": "-70.5717958899",
-                    "date": "2012-11-11 00:00:00"
-                },
-                {
-                    "noahId": "14962213",
-                    "latitude": "-33.3343489158",
-                    "longitude": "-70.5678369494",
-                    "date": "2012-10-09 00:00:00"
-                }
-            ]
-        }
-    },
-    {
         "_id": 18,
         "template": "invertebrate",
         "label": "Mariposa Blanca",
         "sublabel": "Tatochila theodice theodice",
         "searchText": "butterflymariposablancawhite,cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "invertebrate",
         "subgroup": "invertebrate",
@@ -1386,7 +1425,12 @@
         "label": "Montiopsis",
         "sublabel": "Montiopsis sp.",
         "searchText": "fuchsiapinkfucsiarosadoherbhierbahebácea,cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -1425,7 +1469,21 @@
         "label": "Natre",
         "sublabel": "Solanum ligustrinum",
         "searchText": "purplegreenyellowverdepúrpuramoradoamarilloarbustobushcerro manquehueflower,florcerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -1470,7 +1528,10 @@
         "label": "Espino (flores)",
         "sublabel": "Acacia cavens",
         "searchText": "acaciaespinospinesespinasflorfloweryellowamarillotreeárbol,cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -1509,7 +1570,16 @@
         "label": "Doradilla",
         "sublabel": "Cheilanthes hypoleuca",
         "searchText": "fernhelechosmallpequeñoverdegreencafébrown,cerro manquehuecerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -1549,158 +1619,17 @@
         }
     },
     {
-        "_id": 3,
-        "template": "invertebrate",
-        "label": "Green Wasp",
-        "sublabel": "",
-        "searchText": "waspavispagreenorangebluemetalicmetalizadoazulverdemetáliconaranja,cerro manquehuecerro manquehueflorfloweryellowamarillohoja grandebig leafhierbaherb,racimoflorflowersuculentapinkrosadocerro manquehueplanta,plantmoscaflyhoverflyblackyellownegroamarillomosca abeja,cerro manquehueamarilloyellowverdegreenplant,plantaarañaaraña lobowolf spiderspiderbrownstripescaférallashair,peloswalking stickgreenverdeinsect,insectohongocallampamushroombrowncafébeige,smallflowerbulbflorbulboblanco,whitepastopelosgrassgrainshortherbsmallpequeño,hierbacerro manquehuecerro manquehuecerro manquehuecerro manquehuecerro manquehueavispa,wasp",
-        "images": [],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
-        "details": {
-            "genus": "",
-            "commonNames": [
-                "Green Wasp",
-                "Barbarea sp.",
-                "Cistanthe sp.",
-                "Sírfido",
-                "",
-                "Wolf spyder",
-                "Palote",
-                "Hongo",
-                "Unknown Liliaceae",
-                "Pasto / Grass",
-                "Callampa",
-                "Green cuckoo wasp",
-                "Avispa Pompilidae ?"
-            ],
-            "biology": "This wasp was smallabout 10 mm long (without the antennae).<br>\n <br>\nEsta avispa era chica,unos 10 mm de largo (sin antenas).",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "Found these on my garden,probably brought the seeds on my bike or my shoes. Too bad this year they didn't grow again.",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "337986178",
-                    "latitude": "-33.3360320667",
-                    "longitude": "-70.5666634414",
-                    "date": "2012-10-15 00:00:00"
-                },
-                {
-                    "noahId": "324576029",
-                    "latitude": "-33.3341138493",
-                    "longitude": "-70.5680903766",
-                    "date": "2012-10-09 00:00:00"
-                },
-                {
-                    "noahId": "229696018",
-                    "latitude": "-33.3345441072",
-                    "longitude": "-70.5683264108",
-                    "date": "2012-09-23 00:00:00"
-                },
-                {
-                    "noahId": "162726077",
-                    "latitude": "-33.3518355841",
-                    "longitude": "-70.5594697567",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "156586057",
-                    "latitude": "-33.3336947938",
-                    "longitude": "-70.5679240796",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "43822024",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43731009",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43850021",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43846002",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43690091",
-                    "latitude": "-33.3355054574",
-                    "longitude": "-70.5667439076",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "42515018",
-                    "latitude": "-33.3391540215",
-                    "longitude": "-70.5673954261",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "42339024",
-                    "latitude": "-33.3393198408",
-                    "longitude": "-70.5672076715",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "38225063",
-                    "latitude": "-33.3507270008",
-                    "longitude": "-70.564313568",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38416026",
-                    "latitude": "-33.3466043733",
-                    "longitude": "-70.5674678458",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38449360",
-                    "latitude": "-33.3455490389",
-                    "longitude": "-70.5685863269",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "16954539",
-                    "latitude": "-33.3313549862",
-                    "longitude": "-70.5717958899",
-                    "date": "2012-11-11 00:00:00"
-                },
-                {
-                    "noahId": "14962213",
-                    "latitude": "-33.3343489158",
-                    "longitude": "-70.5678369494",
-                    "date": "2012-10-09 00:00:00"
-                }
-            ]
-        }
-    },
-    {
         "_id": 23,
         "template": "plant",
         "label": "Calandrinia",
         "sublabel": "Calandrinia sp.",
         "searchText": "florhirbaherbflowersmallpequeña,cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -1739,7 +1668,12 @@
         "label": "Huilli",
         "sublabel": "Leucocoryne ixioides",
         "searchText": "florpequeñaflowersmallwhite,blanca",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -1773,158 +1707,16 @@
         }
     },
     {
-        "_id": 3,
-        "template": "invertebrate",
-        "label": "Green Wasp",
-        "sublabel": "",
-        "searchText": "waspavispagreenorangebluemetalicmetalizadoazulverdemetáliconaranja,cerro manquehuecerro manquehueflorfloweryellowamarillohoja grandebig leafhierbaherb,racimoflorflowersuculentapinkrosadocerro manquehueplanta,plantmoscaflyhoverflyblackyellownegroamarillomosca abeja,cerro manquehueamarilloyellowverdegreenplant,plantaarañaaraña lobowolf spiderspiderbrownstripescaférallashair,peloswalking stickgreenverdeinsect,insectohongocallampamushroombrowncafébeige,smallflowerbulbflorbulboblanco,whitepastopelosgrassgrainshortherbsmallpequeño,hierbacerro manquehuecerro manquehuecerro manquehuecerro manquehuecerro manquehueavispa,wasp",
-        "images": [],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
-        "details": {
-            "genus": "",
-            "commonNames": [
-                "Green Wasp",
-                "Barbarea sp.",
-                "Cistanthe sp.",
-                "Sírfido",
-                "",
-                "Wolf spyder",
-                "Palote",
-                "Hongo",
-                "Unknown Liliaceae",
-                "Pasto / Grass",
-                "Callampa",
-                "Green cuckoo wasp",
-                "Avispa Pompilidae ?"
-            ],
-            "biology": "This wasp was smallabout 10 mm long (without the antennae).<br>\n <br>\nEsta avispa era chica,unos 10 mm de largo (sin antenas).",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "Found these on my garden,probably brought the seeds on my bike or my shoes. Too bad this year they didn't grow again.",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "337986178",
-                    "latitude": "-33.3360320667",
-                    "longitude": "-70.5666634414",
-                    "date": "2012-10-15 00:00:00"
-                },
-                {
-                    "noahId": "324576029",
-                    "latitude": "-33.3341138493",
-                    "longitude": "-70.5680903766",
-                    "date": "2012-10-09 00:00:00"
-                },
-                {
-                    "noahId": "229696018",
-                    "latitude": "-33.3345441072",
-                    "longitude": "-70.5683264108",
-                    "date": "2012-09-23 00:00:00"
-                },
-                {
-                    "noahId": "162726077",
-                    "latitude": "-33.3518355841",
-                    "longitude": "-70.5594697567",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "156586057",
-                    "latitude": "-33.3336947938",
-                    "longitude": "-70.5679240796",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "43822024",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43731009",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43850021",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43846002",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43690091",
-                    "latitude": "-33.3355054574",
-                    "longitude": "-70.5667439076",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "42515018",
-                    "latitude": "-33.3391540215",
-                    "longitude": "-70.5673954261",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "42339024",
-                    "latitude": "-33.3393198408",
-                    "longitude": "-70.5672076715",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "38225063",
-                    "latitude": "-33.3507270008",
-                    "longitude": "-70.564313568",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38416026",
-                    "latitude": "-33.3466043733",
-                    "longitude": "-70.5674678458",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38449360",
-                    "latitude": "-33.3455490389",
-                    "longitude": "-70.5685863269",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "16954539",
-                    "latitude": "-33.3313549862",
-                    "longitude": "-70.5717958899",
-                    "date": "2012-11-11 00:00:00"
-                },
-                {
-                    "noahId": "14962213",
-                    "latitude": "-33.3343489158",
-                    "longitude": "-70.5678369494",
-                    "date": "2012-10-09 00:00:00"
-                }
-            ]
-        }
-    },
-    {
         "_id": 25,
         "template": "invertebrate",
         "label": "Carposcalis Syrphidae",
         "sublabel": "Carposcalis sp.",
         "searchText": "sírfidomosca abejahoverflyhover flysyrphidaecerro manquehuedoradogoldblacknegrooro,golden",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "invertebrate",
         "subgroup": "invertebrate",
@@ -1963,7 +1755,16 @@
         "label": "Araña Pollito",
         "sublabel": "Grammostola rosea",
         "searchText": "tarantulaarañaspiderfurpeludapeloshaircerro manquehuebrown,cafétarantulaspideraraña,cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "invertebrate",
         "subgroup": "invertebrate",
@@ -2009,7 +1810,24 @@
         "label": "Ortiga Caballuna",
         "sublabel": "Loasa triloba",
         "searchText": "cerro manquehuesantiagochileloasaplantaortigablancowhiteamarilloredyellowrojo,peloscerro manquehuecerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -2056,596 +1874,22 @@
         }
     },
     {
-        "_id": 3,
-        "template": "invertebrate",
-        "label": "Green Wasp",
-        "sublabel": "",
-        "searchText": "waspavispagreenorangebluemetalicmetalizadoazulverdemetáliconaranja,cerro manquehuecerro manquehueflorfloweryellowamarillohoja grandebig leafhierbaherb,racimoflorflowersuculentapinkrosadocerro manquehueplanta,plantmoscaflyhoverflyblackyellownegroamarillomosca abeja,cerro manquehueamarilloyellowverdegreenplant,plantaarañaaraña lobowolf spiderspiderbrownstripescaférallashair,peloswalking stickgreenverdeinsect,insectohongocallampamushroombrowncafébeige,smallflowerbulbflorbulboblanco,whitepastopelosgrassgrainshortherbsmallpequeño,hierbacerro manquehuecerro manquehuecerro manquehuecerro manquehuecerro manquehueavispa,wasp",
-        "images": [],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
-        "details": {
-            "genus": "",
-            "commonNames": [
-                "Green Wasp",
-                "Barbarea sp.",
-                "Cistanthe sp.",
-                "Sírfido",
-                "",
-                "Wolf spyder",
-                "Palote",
-                "Hongo",
-                "Unknown Liliaceae",
-                "Pasto / Grass",
-                "Callampa",
-                "Green cuckoo wasp",
-                "Avispa Pompilidae ?"
-            ],
-            "biology": "This wasp was smallabout 10 mm long (without the antennae).<br>\n <br>\nEsta avispa era chica,unos 10 mm de largo (sin antenas).",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "Found these on my garden,probably brought the seeds on my bike or my shoes. Too bad this year they didn't grow again.",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "337986178",
-                    "latitude": "-33.3360320667",
-                    "longitude": "-70.5666634414",
-                    "date": "2012-10-15 00:00:00"
-                },
-                {
-                    "noahId": "324576029",
-                    "latitude": "-33.3341138493",
-                    "longitude": "-70.5680903766",
-                    "date": "2012-10-09 00:00:00"
-                },
-                {
-                    "noahId": "229696018",
-                    "latitude": "-33.3345441072",
-                    "longitude": "-70.5683264108",
-                    "date": "2012-09-23 00:00:00"
-                },
-                {
-                    "noahId": "162726077",
-                    "latitude": "-33.3518355841",
-                    "longitude": "-70.5594697567",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "156586057",
-                    "latitude": "-33.3336947938",
-                    "longitude": "-70.5679240796",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "43822024",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43731009",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43850021",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43846002",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43690091",
-                    "latitude": "-33.3355054574",
-                    "longitude": "-70.5667439076",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "42515018",
-                    "latitude": "-33.3391540215",
-                    "longitude": "-70.5673954261",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "42339024",
-                    "latitude": "-33.3393198408",
-                    "longitude": "-70.5672076715",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "38225063",
-                    "latitude": "-33.3507270008",
-                    "longitude": "-70.564313568",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38416026",
-                    "latitude": "-33.3466043733",
-                    "longitude": "-70.5674678458",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38449360",
-                    "latitude": "-33.3455490389",
-                    "longitude": "-70.5685863269",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "16954539",
-                    "latitude": "-33.3313549862",
-                    "longitude": "-70.5717958899",
-                    "date": "2012-11-11 00:00:00"
-                },
-                {
-                    "noahId": "14962213",
-                    "latitude": "-33.3343489158",
-                    "longitude": "-70.5678369494",
-                    "date": "2012-10-09 00:00:00"
-                }
-            ]
-        }
-    },
-    {
-        "_id": 3,
-        "template": "invertebrate",
-        "label": "Green Wasp",
-        "sublabel": "",
-        "searchText": "waspavispagreenorangebluemetalicmetalizadoazulverdemetáliconaranja,cerro manquehuecerro manquehueflorfloweryellowamarillohoja grandebig leafhierbaherb,racimoflorflowersuculentapinkrosadocerro manquehueplanta,plantmoscaflyhoverflyblackyellownegroamarillomosca abeja,cerro manquehueamarilloyellowverdegreenplant,plantaarañaaraña lobowolf spiderspiderbrownstripescaférallashair,peloswalking stickgreenverdeinsect,insectohongocallampamushroombrowncafébeige,smallflowerbulbflorbulboblanco,whitepastopelosgrassgrainshortherbsmallpequeño,hierbacerro manquehuecerro manquehuecerro manquehuecerro manquehuecerro manquehueavispa,wasp",
-        "images": [],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
-        "details": {
-            "genus": "",
-            "commonNames": [
-                "Green Wasp",
-                "Barbarea sp.",
-                "Cistanthe sp.",
-                "Sírfido",
-                "",
-                "Wolf spyder",
-                "Palote",
-                "Hongo",
-                "Unknown Liliaceae",
-                "Pasto / Grass",
-                "Callampa",
-                "Green cuckoo wasp",
-                "Avispa Pompilidae ?"
-            ],
-            "biology": "This wasp was smallabout 10 mm long (without the antennae).<br>\n <br>\nEsta avispa era chica,unos 10 mm de largo (sin antenas).",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "Found these on my garden,probably brought the seeds on my bike or my shoes. Too bad this year they didn't grow again.",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "337986178",
-                    "latitude": "-33.3360320667",
-                    "longitude": "-70.5666634414",
-                    "date": "2012-10-15 00:00:00"
-                },
-                {
-                    "noahId": "324576029",
-                    "latitude": "-33.3341138493",
-                    "longitude": "-70.5680903766",
-                    "date": "2012-10-09 00:00:00"
-                },
-                {
-                    "noahId": "229696018",
-                    "latitude": "-33.3345441072",
-                    "longitude": "-70.5683264108",
-                    "date": "2012-09-23 00:00:00"
-                },
-                {
-                    "noahId": "162726077",
-                    "latitude": "-33.3518355841",
-                    "longitude": "-70.5594697567",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "156586057",
-                    "latitude": "-33.3336947938",
-                    "longitude": "-70.5679240796",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "43822024",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43731009",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43850021",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43846002",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43690091",
-                    "latitude": "-33.3355054574",
-                    "longitude": "-70.5667439076",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "42515018",
-                    "latitude": "-33.3391540215",
-                    "longitude": "-70.5673954261",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "42339024",
-                    "latitude": "-33.3393198408",
-                    "longitude": "-70.5672076715",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "38225063",
-                    "latitude": "-33.3507270008",
-                    "longitude": "-70.564313568",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38416026",
-                    "latitude": "-33.3466043733",
-                    "longitude": "-70.5674678458",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38449360",
-                    "latitude": "-33.3455490389",
-                    "longitude": "-70.5685863269",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "16954539",
-                    "latitude": "-33.3313549862",
-                    "longitude": "-70.5717958899",
-                    "date": "2012-11-11 00:00:00"
-                },
-                {
-                    "noahId": "14962213",
-                    "latitude": "-33.3343489158",
-                    "longitude": "-70.5678369494",
-                    "date": "2012-10-09 00:00:00"
-                }
-            ]
-        }
-    },
-    {
-        "_id": 3,
-        "template": "invertebrate",
-        "label": "Green Wasp",
-        "sublabel": "",
-        "searchText": "waspavispagreenorangebluemetalicmetalizadoazulverdemetáliconaranja,cerro manquehuecerro manquehueflorfloweryellowamarillohoja grandebig leafhierbaherb,racimoflorflowersuculentapinkrosadocerro manquehueplanta,plantmoscaflyhoverflyblackyellownegroamarillomosca abeja,cerro manquehueamarilloyellowverdegreenplant,plantaarañaaraña lobowolf spiderspiderbrownstripescaférallashair,peloswalking stickgreenverdeinsect,insectohongocallampamushroombrowncafébeige,smallflowerbulbflorbulboblanco,whitepastopelosgrassgrainshortherbsmallpequeño,hierbacerro manquehuecerro manquehuecerro manquehuecerro manquehuecerro manquehueavispa,wasp",
-        "images": [],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
-        "details": {
-            "genus": "",
-            "commonNames": [
-                "Green Wasp",
-                "Barbarea sp.",
-                "Cistanthe sp.",
-                "Sírfido",
-                "",
-                "Wolf spyder",
-                "Palote",
-                "Hongo",
-                "Unknown Liliaceae",
-                "Pasto / Grass",
-                "Callampa",
-                "Green cuckoo wasp",
-                "Avispa Pompilidae ?"
-            ],
-            "biology": "This wasp was smallabout 10 mm long (without the antennae).<br>\n <br>\nEsta avispa era chica,unos 10 mm de largo (sin antenas).",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "Found these on my garden,probably brought the seeds on my bike or my shoes. Too bad this year they didn't grow again.",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "337986178",
-                    "latitude": "-33.3360320667",
-                    "longitude": "-70.5666634414",
-                    "date": "2012-10-15 00:00:00"
-                },
-                {
-                    "noahId": "324576029",
-                    "latitude": "-33.3341138493",
-                    "longitude": "-70.5680903766",
-                    "date": "2012-10-09 00:00:00"
-                },
-                {
-                    "noahId": "229696018",
-                    "latitude": "-33.3345441072",
-                    "longitude": "-70.5683264108",
-                    "date": "2012-09-23 00:00:00"
-                },
-                {
-                    "noahId": "162726077",
-                    "latitude": "-33.3518355841",
-                    "longitude": "-70.5594697567",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "156586057",
-                    "latitude": "-33.3336947938",
-                    "longitude": "-70.5679240796",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "43822024",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43731009",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43850021",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43846002",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43690091",
-                    "latitude": "-33.3355054574",
-                    "longitude": "-70.5667439076",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "42515018",
-                    "latitude": "-33.3391540215",
-                    "longitude": "-70.5673954261",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "42339024",
-                    "latitude": "-33.3393198408",
-                    "longitude": "-70.5672076715",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "38225063",
-                    "latitude": "-33.3507270008",
-                    "longitude": "-70.564313568",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38416026",
-                    "latitude": "-33.3466043733",
-                    "longitude": "-70.5674678458",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38449360",
-                    "latitude": "-33.3455490389",
-                    "longitude": "-70.5685863269",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "16954539",
-                    "latitude": "-33.3313549862",
-                    "longitude": "-70.5717958899",
-                    "date": "2012-11-11 00:00:00"
-                },
-                {
-                    "noahId": "14962213",
-                    "latitude": "-33.3343489158",
-                    "longitude": "-70.5678369494",
-                    "date": "2012-10-09 00:00:00"
-                }
-            ]
-        }
-    },
-    {
-        "_id": 3,
-        "template": "invertebrate",
-        "label": "Green Wasp",
-        "sublabel": "",
-        "searchText": "waspavispagreenorangebluemetalicmetalizadoazulverdemetáliconaranja,cerro manquehuecerro manquehueflorfloweryellowamarillohoja grandebig leafhierbaherb,racimoflorflowersuculentapinkrosadocerro manquehueplanta,plantmoscaflyhoverflyblackyellownegroamarillomosca abeja,cerro manquehueamarilloyellowverdegreenplant,plantaarañaaraña lobowolf spiderspiderbrownstripescaférallashair,peloswalking stickgreenverdeinsect,insectohongocallampamushroombrowncafébeige,smallflowerbulbflorbulboblanco,whitepastopelosgrassgrainshortherbsmallpequeño,hierbacerro manquehuecerro manquehuecerro manquehuecerro manquehuecerro manquehueavispa,wasp",
-        "images": [],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
-        "details": {
-            "genus": "",
-            "commonNames": [
-                "Green Wasp",
-                "Barbarea sp.",
-                "Cistanthe sp.",
-                "Sírfido",
-                "",
-                "Wolf spyder",
-                "Palote",
-                "Hongo",
-                "Unknown Liliaceae",
-                "Pasto / Grass",
-                "Callampa",
-                "Green cuckoo wasp",
-                "Avispa Pompilidae ?"
-            ],
-            "biology": "This wasp was smallabout 10 mm long (without the antennae).<br>\n <br>\nEsta avispa era chica,unos 10 mm de largo (sin antenas).",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "Found these on my garden,probably brought the seeds on my bike or my shoes. Too bad this year they didn't grow again.",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "337986178",
-                    "latitude": "-33.3360320667",
-                    "longitude": "-70.5666634414",
-                    "date": "2012-10-15 00:00:00"
-                },
-                {
-                    "noahId": "324576029",
-                    "latitude": "-33.3341138493",
-                    "longitude": "-70.5680903766",
-                    "date": "2012-10-09 00:00:00"
-                },
-                {
-                    "noahId": "229696018",
-                    "latitude": "-33.3345441072",
-                    "longitude": "-70.5683264108",
-                    "date": "2012-09-23 00:00:00"
-                },
-                {
-                    "noahId": "162726077",
-                    "latitude": "-33.3518355841",
-                    "longitude": "-70.5594697567",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "156586057",
-                    "latitude": "-33.3336947938",
-                    "longitude": "-70.5679240796",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "43822024",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43731009",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43850021",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43846002",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43690091",
-                    "latitude": "-33.3355054574",
-                    "longitude": "-70.5667439076",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "42515018",
-                    "latitude": "-33.3391540215",
-                    "longitude": "-70.5673954261",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "42339024",
-                    "latitude": "-33.3393198408",
-                    "longitude": "-70.5672076715",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "38225063",
-                    "latitude": "-33.3507270008",
-                    "longitude": "-70.564313568",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38416026",
-                    "latitude": "-33.3466043733",
-                    "longitude": "-70.5674678458",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38449360",
-                    "latitude": "-33.3455490389",
-                    "longitude": "-70.5685863269",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "16954539",
-                    "latitude": "-33.3313549862",
-                    "longitude": "-70.5717958899",
-                    "date": "2012-11-11 00:00:00"
-                },
-                {
-                    "noahId": "14962213",
-                    "latitude": "-33.3343489158",
-                    "longitude": "-70.5678369494",
-                    "date": "2012-10-09 00:00:00"
-                }
-            ]
-        }
-    },
-    {
         "_id": 28,
         "template": "plant",
         "label": "Colliguai",
         "sublabel": "Colliguaja odorifera",
         "searchText": "arbustoshrubredrojo,nativocerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -2686,211 +1930,17 @@
         }
     },
     {
-        "_id": 16,
-        "template": "plant",
-        "label": "Macaya",
-        "sublabel": "Placea arzae",
-        "searchText": "cerro manquehueflorflowerredwhiterojoblancoamarillo,yellowirisflorherbhierbaflowerwhiteredrojoblancobulbobulb,nativacerro manquehue",
-        "images": [],
-        "thumbnail": "",
-        "group": "plant",
-        "subgroup": "plant",
-        "details": {
-            "genus": "Placea",
-            "specie": "arzae",
-            "commonNames": [
-                "Macaya",
-                "Placea bud",
-                "Placea / Macaya"
-            ],
-            "biology": "A personal favorite to celebrate the 300th spotting.<br>\nFamily: Amaryllidaceae <br>\nOrder: \tLiliales <br>\nWhen Placeas bloom,the leaves have already wilted.",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "226606112",
-                    "latitude": "-33.3356466338",
-                    "longitude": "-70.5667492719",
-                    "date": "2012-09-23 00:00:00"
-                },
-                {
-                    "noahId": "43833002",
-                    "latitude": "-33.3355054574",
-                    "longitude": "-70.5667439076",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43013002",
-                    "latitude": "-33.3367294387",
-                    "longitude": "-70.5667356027",
-                    "date": "2012-10-15 00:00:00"
-                }
-            ]
-        }
-    },
-    {
-        "_id": 3,
-        "template": "invertebrate",
-        "label": "Green Wasp",
-        "sublabel": "",
-        "searchText": "waspavispagreenorangebluemetalicmetalizadoazulverdemetáliconaranja,cerro manquehuecerro manquehueflorfloweryellowamarillohoja grandebig leafhierbaherb,racimoflorflowersuculentapinkrosadocerro manquehueplanta,plantmoscaflyhoverflyblackyellownegroamarillomosca abeja,cerro manquehueamarilloyellowverdegreenplant,plantaarañaaraña lobowolf spiderspiderbrownstripescaférallashair,peloswalking stickgreenverdeinsect,insectohongocallampamushroombrowncafébeige,smallflowerbulbflorbulboblanco,whitepastopelosgrassgrainshortherbsmallpequeño,hierbacerro manquehuecerro manquehuecerro manquehuecerro manquehuecerro manquehueavispa,wasp",
-        "images": [],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
-        "details": {
-            "genus": "",
-            "commonNames": [
-                "Green Wasp",
-                "Barbarea sp.",
-                "Cistanthe sp.",
-                "Sírfido",
-                "",
-                "Wolf spyder",
-                "Palote",
-                "Hongo",
-                "Unknown Liliaceae",
-                "Pasto / Grass",
-                "Callampa",
-                "Green cuckoo wasp",
-                "Avispa Pompilidae ?"
-            ],
-            "biology": "This wasp was smallabout 10 mm long (without the antennae).<br>\n <br>\nEsta avispa era chica,unos 10 mm de largo (sin antenas).",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "Found these on my garden,probably brought the seeds on my bike or my shoes. Too bad this year they didn't grow again.",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "337986178",
-                    "latitude": "-33.3360320667",
-                    "longitude": "-70.5666634414",
-                    "date": "2012-10-15 00:00:00"
-                },
-                {
-                    "noahId": "324576029",
-                    "latitude": "-33.3341138493",
-                    "longitude": "-70.5680903766",
-                    "date": "2012-10-09 00:00:00"
-                },
-                {
-                    "noahId": "229696018",
-                    "latitude": "-33.3345441072",
-                    "longitude": "-70.5683264108",
-                    "date": "2012-09-23 00:00:00"
-                },
-                {
-                    "noahId": "162726077",
-                    "latitude": "-33.3518355841",
-                    "longitude": "-70.5594697567",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "156586057",
-                    "latitude": "-33.3336947938",
-                    "longitude": "-70.5679240796",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "43822024",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43731009",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43850021",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43846002",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43690091",
-                    "latitude": "-33.3355054574",
-                    "longitude": "-70.5667439076",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "42515018",
-                    "latitude": "-33.3391540215",
-                    "longitude": "-70.5673954261",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "42339024",
-                    "latitude": "-33.3393198408",
-                    "longitude": "-70.5672076715",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "38225063",
-                    "latitude": "-33.3507270008",
-                    "longitude": "-70.564313568",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38416026",
-                    "latitude": "-33.3466043733",
-                    "longitude": "-70.5674678458",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38449360",
-                    "latitude": "-33.3455490389",
-                    "longitude": "-70.5685863269",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "16954539",
-                    "latitude": "-33.3313549862",
-                    "longitude": "-70.5717958899",
-                    "date": "2012-11-11 00:00:00"
-                },
-                {
-                    "noahId": "14962213",
-                    "latitude": "-33.3343489158",
-                    "longitude": "-70.5678369494",
-                    "date": "2012-10-09 00:00:00"
-                }
-            ]
-        }
-    },
-    {
         "_id": 29,
         "template": "plant",
         "label": "Mariposita Blanca",
         "sublabel": "Schizanthus pinnatus",
         "searchText": "whitepurplepúrpuramoradovioletablancovioletherbhierbaflorflowersmallpequeña,nativa",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -2929,7 +1979,12 @@
         "label": "Barba de gato",
         "sublabel": "Homalocarpus dichotomus",
         "searchText": "herbhierbaflorrosadarosapurplepinkwhiteblancoblancasmall,pequeña",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -2968,7 +2023,13 @@
         "label": "Tabaco de Cerro",
         "sublabel": "Nicotiana acuminata",
         "searchText": "florhierbaflowerherbblancawhiteblancogreenverde,native",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -3007,7 +2068,13 @@
         "label": "Cryptantha",
         "sublabel": "Cryptantha sp.",
         "searchText": "hierbaherbcerro manquehuewhitehairpelos,blanca",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -3046,7 +2113,11 @@
         "label": "Manzanilla bastarda",
         "sublabel": "Anthemis sp.",
         "searchText": "hierbaamarilloblancoherbyellowwhite,amarga",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -3085,7 +2156,18 @@
         "label": "Ortiguilla",
         "sublabel": "Amsinckia calycina",
         "searchText": "cerro manquehuehierbaamarilloamarillayellowpelosboraginaceaenativa,herbcerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -3130,7 +2212,22 @@
         "label": "Hierba de la Culebra",
         "sublabel": "Fumaria agraria",
         "searchText": "rosadopinkfucsiablancowhiteflowerherbhierbaflor,cerro manquehuecerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -3175,7 +2272,13 @@
         "label": "Té de Burro",
         "sublabel": "Phacelia brachyantha",
         "searchText": "cerro manquehuemoradopúrpurahierbapurple,herb",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -3214,7 +2317,12 @@
         "label": "Cardo Santo",
         "sublabel": "Argemone sp.",
         "searchText": "cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -3253,7 +2361,10 @@
         "label": "Dedal de oro",
         "sublabel": "Eschscholzia californica",
         "searchText": "cerro manquehuenaranjahierbaherborangeintroducida,naturalizada",
-        "images": [],
+        "images": [
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -3292,7 +2403,12 @@
         "label": "Culantrillo",
         "sublabel": "Adiantum chilense hirsutum",
         "searchText": "cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -3321,59 +2437,6 @@
                     "latitude": "-33.3398755571",
                     "longitude": "-70.5678514016",
                     "date": "2012-09-01 00:00:00"
-                }
-            ]
-        }
-    },
-    {
-        "_id": 16,
-        "template": "plant",
-        "label": "Macaya",
-        "sublabel": "Placea arzae",
-        "searchText": "cerro manquehueflorflowerredwhiterojoblancoamarillo,yellowirisflorherbhierbaflowerwhiteredrojoblancobulbobulb,nativacerro manquehue",
-        "images": [],
-        "thumbnail": "",
-        "group": "plant",
-        "subgroup": "plant",
-        "details": {
-            "genus": "Placea",
-            "specie": "arzae",
-            "commonNames": [
-                "Macaya",
-                "Placea bud",
-                "Placea / Macaya"
-            ],
-            "biology": "A personal favorite to celebrate the 300th spotting.<br>\nFamily: Amaryllidaceae <br>\nOrder: \tLiliales <br>\nWhen Placeas bloom,the leaves have already wilted.",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "226606112",
-                    "latitude": "-33.3356466338",
-                    "longitude": "-70.5667492719",
-                    "date": "2012-09-23 00:00:00"
-                },
-                {
-                    "noahId": "43833002",
-                    "latitude": "-33.3355054574",
-                    "longitude": "-70.5667439076",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43013002",
-                    "latitude": "-33.3367294387",
-                    "longitude": "-70.5667356027",
-                    "date": "2012-10-15 00:00:00"
                 }
             ]
         }
@@ -3462,7 +2525,17 @@
         "label": "Tralhuen",
         "sublabel": "Talguenea quinquinervia",
         "searchText": "cerro manquehuecerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -3507,7 +2580,12 @@
         "label": "Adesmia",
         "sublabel": "Adesmia sp.",
         "searchText": "cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -3546,7 +2624,10 @@
         "label": "Core-core",
         "sublabel": "Geranium berteroanum",
         "searchText": "cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -3585,7 +2666,10 @@
         "label": "Almizcle",
         "sublabel": "Moscharia pinnatifida",
         "searchText": "cerro manquehuecerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -3620,294 +2704,6 @@
                     "latitude": "-33.3466043733",
                     "longitude": "-70.5674678458",
                     "date": "2012-07-15 00:00:00"
-                }
-            ]
-        }
-    },
-    {
-        "_id": 27,
-        "template": "plant",
-        "label": "Ortiga Caballuna",
-        "sublabel": "Loasa triloba",
-        "searchText": "cerro manquehuesantiagochileloasaplantaortigablancowhiteamarilloredyellowrojo,peloscerro manquehuecerro manquehue",
-        "images": [],
-        "thumbnail": "",
-        "group": "plant",
-        "subgroup": "plant",
-        "details": {
-            "genus": "Loasa",
-            "specie": "triloba",
-            "commonNames": [
-                "Ortiga Caballuna",
-                "Ortiga caballuna"
-            ],
-            "biology": "Superior taxa: LoasaceaeViolales<br>\nPlanta anualsembrada de pelos urticarios. Tallo derechoramoso. Hojas membranosasopuestasacorazonadaspartidas en 3-5 lóbulos ± profundosagudos y sinuosos. Pecíolos ± del largo de la lámina. Las flores pequeñasaxilares y solitarias en la región superior del tallocabizbajas. Sépalos aovado-lanceolados. Pétalos poco más largos que el cálizblancoscortamente unguiculadosde 7-9 mm. Escamas con 3 apéndices dorsalestrasaovados y lateralmente concluídos en un hilo. Estaminodios igualmente concluídos en un hilo terminal. Cápsulas turbinadaserguidascon 3 placentas prominentes. Semillas 15-30subglobosasnegruzcas,lampiñas. Tallo 0.1-0.5 m. Algunos individuos llevan flores cleistógamas en la región inferior del tallo.",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "Desde la provincia de Aconcagua hasta la de Valdivia; también en las cordilleras bajas. Florece ya en el invierno y dura hasta Octubre.<br>\nHierba anual endémica de las regiones 345M6789 de Chilede 0 a 1,700 m. ",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "157166023",
-                    "latitude": "-33.3344567113",
-                    "longitude": "-70.5668404672",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "42745003",
-                    "latitude": "-33.3374554761",
-                    "longitude": "-70.5703351271",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "38305061",
-                    "latitude": "-33.3374958113",
-                    "longitude": "-70.570549704",
-                    "date": "2013-06-02 00:00:00"
-                }
-            ]
-        }
-    },
-    {
-        "_id": 34,
-        "template": "plant",
-        "label": "Ortiguilla",
-        "sublabel": "Amsinckia calycina",
-        "searchText": "cerro manquehuehierbaamarilloamarillayellowpelosboraginaceaenativa,herbcerro manquehue",
-        "images": [],
-        "thumbnail": "",
-        "group": "plant",
-        "subgroup": "plant",
-        "details": {
-            "genus": "Amsinckia",
-            "specie": "calycina",
-            "commonNames": [
-                "Ortiguilla"
-            ],
-            "biology": "Family: Boraginaceae",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "43530218",
-                    "latitude": "-33.3345329027",
-                    "longitude": "-70.5681386562",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "42701027",
-                    "latitude": "-33.3386386352",
-                    "longitude": "-70.5674383414",
-                    "date": "2012-09-01 00:00:00"
-                }
-            ]
-        }
-    },
-    {
-        "_id": 35,
-        "template": "plant",
-        "label": "Hierba de la Culebra",
-        "sublabel": "Fumaria agraria",
-        "searchText": "rosadopinkfucsiablancowhiteflowerherbhierbaflor,cerro manquehuecerro manquehue",
-        "images": [],
-        "thumbnail": "",
-        "group": "plant",
-        "subgroup": "plant",
-        "details": {
-            "genus": "Fumaria",
-            "specie": "agraria",
-            "commonNames": [
-                "Hierba de la Culebra"
-            ],
-            "biology": "",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "43530216",
-                    "latitude": "-33.3343182338",
-                    "longitude": "-70.5674866212",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "42707021",
-                    "latitude": "-33.3391540215",
-                    "longitude": "-70.5673954261",
-                    "date": "2012-09-01 00:00:00"
-                }
-            ]
-        }
-    },
-    {
-        "_id": 3,
-        "template": "invertebrate",
-        "label": "Green Wasp",
-        "sublabel": "",
-        "searchText": "waspavispagreenorangebluemetalicmetalizadoazulverdemetáliconaranja,cerro manquehuecerro manquehueflorfloweryellowamarillohoja grandebig leafhierbaherb,racimoflorflowersuculentapinkrosadocerro manquehueplanta,plantmoscaflyhoverflyblackyellownegroamarillomosca abeja,cerro manquehueamarilloyellowverdegreenplant,plantaarañaaraña lobowolf spiderspiderbrownstripescaférallashair,peloswalking stickgreenverdeinsect,insectohongocallampamushroombrowncafébeige,smallflowerbulbflorbulboblanco,whitepastopelosgrassgrainshortherbsmallpequeño,hierbacerro manquehuecerro manquehuecerro manquehuecerro manquehuecerro manquehueavispa,wasp",
-        "images": [],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
-        "details": {
-            "genus": "",
-            "commonNames": [
-                "Green Wasp",
-                "Barbarea sp.",
-                "Cistanthe sp.",
-                "Sírfido",
-                "",
-                "Wolf spyder",
-                "Palote",
-                "Hongo",
-                "Unknown Liliaceae",
-                "Pasto / Grass",
-                "Callampa",
-                "Green cuckoo wasp",
-                "Avispa Pompilidae ?"
-            ],
-            "biology": "This wasp was smallabout 10 mm long (without the antennae).<br>\n <br>\nEsta avispa era chica,unos 10 mm de largo (sin antenas).",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "Found these on my garden,probably brought the seeds on my bike or my shoes. Too bad this year they didn't grow again.",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "337986178",
-                    "latitude": "-33.3360320667",
-                    "longitude": "-70.5666634414",
-                    "date": "2012-10-15 00:00:00"
-                },
-                {
-                    "noahId": "324576029",
-                    "latitude": "-33.3341138493",
-                    "longitude": "-70.5680903766",
-                    "date": "2012-10-09 00:00:00"
-                },
-                {
-                    "noahId": "229696018",
-                    "latitude": "-33.3345441072",
-                    "longitude": "-70.5683264108",
-                    "date": "2012-09-23 00:00:00"
-                },
-                {
-                    "noahId": "162726077",
-                    "latitude": "-33.3518355841",
-                    "longitude": "-70.5594697567",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "156586057",
-                    "latitude": "-33.3336947938",
-                    "longitude": "-70.5679240796",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "43822024",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43731009",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43850021",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43846002",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43690091",
-                    "latitude": "-33.3355054574",
-                    "longitude": "-70.5667439076",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "42515018",
-                    "latitude": "-33.3391540215",
-                    "longitude": "-70.5673954261",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "42339024",
-                    "latitude": "-33.3393198408",
-                    "longitude": "-70.5672076715",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "38225063",
-                    "latitude": "-33.3507270008",
-                    "longitude": "-70.564313568",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38416026",
-                    "latitude": "-33.3466043733",
-                    "longitude": "-70.5674678458",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38449360",
-                    "latitude": "-33.3455490389",
-                    "longitude": "-70.5685863269",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "16954539",
-                    "latitude": "-33.3313549862",
-                    "longitude": "-70.5717958899",
-                    "date": "2012-11-11 00:00:00"
-                },
-                {
-                    "noahId": "14962213",
-                    "latitude": "-33.3343489158",
-                    "longitude": "-70.5678369494",
-                    "date": "2012-10-09 00:00:00"
                 }
             ]
         }
@@ -3959,158 +2755,15 @@
         }
     },
     {
-        "_id": 3,
-        "template": "invertebrate",
-        "label": "Green Wasp",
-        "sublabel": "",
-        "searchText": "waspavispagreenorangebluemetalicmetalizadoazulverdemetáliconaranja,cerro manquehuecerro manquehueflorfloweryellowamarillohoja grandebig leafhierbaherb,racimoflorflowersuculentapinkrosadocerro manquehueplanta,plantmoscaflyhoverflyblackyellownegroamarillomosca abeja,cerro manquehueamarilloyellowverdegreenplant,plantaarañaaraña lobowolf spiderspiderbrownstripescaférallashair,peloswalking stickgreenverdeinsect,insectohongocallampamushroombrowncafébeige,smallflowerbulbflorbulboblanco,whitepastopelosgrassgrainshortherbsmallpequeño,hierbacerro manquehuecerro manquehuecerro manquehuecerro manquehuecerro manquehueavispa,wasp",
-        "images": [],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
-        "details": {
-            "genus": "",
-            "commonNames": [
-                "Green Wasp",
-                "Barbarea sp.",
-                "Cistanthe sp.",
-                "Sírfido",
-                "",
-                "Wolf spyder",
-                "Palote",
-                "Hongo",
-                "Unknown Liliaceae",
-                "Pasto / Grass",
-                "Callampa",
-                "Green cuckoo wasp",
-                "Avispa Pompilidae ?"
-            ],
-            "biology": "This wasp was smallabout 10 mm long (without the antennae).<br>\n <br>\nEsta avispa era chica,unos 10 mm de largo (sin antenas).",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "Found these on my garden,probably brought the seeds on my bike or my shoes. Too bad this year they didn't grow again.",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "337986178",
-                    "latitude": "-33.3360320667",
-                    "longitude": "-70.5666634414",
-                    "date": "2012-10-15 00:00:00"
-                },
-                {
-                    "noahId": "324576029",
-                    "latitude": "-33.3341138493",
-                    "longitude": "-70.5680903766",
-                    "date": "2012-10-09 00:00:00"
-                },
-                {
-                    "noahId": "229696018",
-                    "latitude": "-33.3345441072",
-                    "longitude": "-70.5683264108",
-                    "date": "2012-09-23 00:00:00"
-                },
-                {
-                    "noahId": "162726077",
-                    "latitude": "-33.3518355841",
-                    "longitude": "-70.5594697567",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "156586057",
-                    "latitude": "-33.3336947938",
-                    "longitude": "-70.5679240796",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "43822024",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43731009",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43850021",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43846002",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43690091",
-                    "latitude": "-33.3355054574",
-                    "longitude": "-70.5667439076",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "42515018",
-                    "latitude": "-33.3391540215",
-                    "longitude": "-70.5673954261",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "42339024",
-                    "latitude": "-33.3393198408",
-                    "longitude": "-70.5672076715",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "38225063",
-                    "latitude": "-33.3507270008",
-                    "longitude": "-70.564313568",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38416026",
-                    "latitude": "-33.3466043733",
-                    "longitude": "-70.5674678458",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38449360",
-                    "latitude": "-33.3455490389",
-                    "longitude": "-70.5685863269",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "16954539",
-                    "latitude": "-33.3313549862",
-                    "longitude": "-70.5717958899",
-                    "date": "2012-11-11 00:00:00"
-                },
-                {
-                    "noahId": "14962213",
-                    "latitude": "-33.3343489158",
-                    "longitude": "-70.5678369494",
-                    "date": "2012-10-09 00:00:00"
-                }
-            ]
-        }
-    },
-    {
         "_id": 47,
         "template": "bird",
         "label": "Tiuque",
         "sublabel": "Milvago chimango",
         "searchText": "cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "bird",
         "subgroup": "bird",
@@ -4149,7 +2802,10 @@
         "label": "Rara",
         "sublabel": "Phytotoma rara",
         "searchText": "cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "bird",
         "subgroup": "bird",
@@ -4188,7 +2844,12 @@
         "label": "Cometocino",
         "sublabel": "Phrygilus patagonicus",
         "searchText": "cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "bird",
         "subgroup": "bird",
@@ -4227,7 +2888,12 @@
         "label": "Chercán",
         "sublabel": "Troglodytes aedon",
         "searchText": "cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "bird",
         "subgroup": "bird",
@@ -4266,7 +2932,12 @@
         "label": "Jilguero",
         "sublabel": "Carduelis barbata",
         "searchText": "cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "bird",
         "subgroup": "bird",
@@ -4305,7 +2976,11 @@
         "label": "Quisco",
         "sublabel": "Echinopsis chiloensis",
         "searchText": "cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -4339,57 +3014,16 @@
         }
     },
     {
-        "_id": 42,
-        "template": "plant",
-        "label": "Tralhuen",
-        "sublabel": "Talguenea quinquinervia",
-        "searchText": "cerro manquehuecerro manquehue",
-        "images": [],
-        "thumbnail": "",
-        "group": "plant",
-        "subgroup": "plant",
-        "details": {
-            "genus": "Talguenea",
-            "specie": "quinquinervia",
-            "commonNames": [
-                "Tralhuen"
-            ],
-            "biology": "",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "42991006",
-                    "latitude": "-33.3339327935",
-                    "longitude": "-70.5711505187",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "42419003",
-                    "latitude": "-33.3387103413",
-                    "longitude": "-70.5674866212",
-                    "date": "2012-07-22 00:00:00"
-                }
-            ]
-        }
-    },
-    {
         "_id": 53,
         "template": "invertebrate",
         "label": "Springtails",
         "sublabel": "Collembola sp.",
         "searchText": "cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "invertebrate",
         "subgroup": "invertebrate",
@@ -4428,7 +3062,10 @@
         "label": "Minero",
         "sublabel": "Geositta sp.",
         "searchText": "cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "bird",
         "subgroup": "bird",
@@ -4456,51 +3093,6 @@
                     "noahId": "38489520",
                     "latitude": "-33.3548176927",
                     "longitude": "-70.5662260055",
-                    "date": "2012-07-15 00:00:00"
-                }
-            ]
-        }
-    },
-    {
-        "_id": 20,
-        "template": "plant",
-        "label": "Natre",
-        "sublabel": "Solanum ligustrinum",
-        "searchText": "purplegreenyellowverdepúrpuramoradoamarilloarbustobushcerro manquehueflower,florcerro manquehue",
-        "images": [],
-        "thumbnail": "",
-        "group": "plant",
-        "subgroup": "plant",
-        "details": {
-            "genus": "Solanum",
-            "specie": "ligustrinum",
-            "commonNames": [
-                "Natre"
-            ],
-            "biology": "",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "159996045",
-                    "latitude": "-33.351896077",
-                    "longitude": "-70.5602797838",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "37879068",
-                    "latitude": "-33.3520216285",
-                    "longitude": "-70.5634794235",
                     "date": "2012-07-15 00:00:00"
                 }
             ]
@@ -4546,349 +3138,16 @@
         }
     },
     {
-        "_id": 3,
-        "template": "invertebrate",
-        "label": "Green Wasp",
-        "sublabel": "",
-        "searchText": "waspavispagreenorangebluemetalicmetalizadoazulverdemetáliconaranja,cerro manquehuecerro manquehueflorfloweryellowamarillohoja grandebig leafhierbaherb,racimoflorflowersuculentapinkrosadocerro manquehueplanta,plantmoscaflyhoverflyblackyellownegroamarillomosca abeja,cerro manquehueamarilloyellowverdegreenplant,plantaarañaaraña lobowolf spiderspiderbrownstripescaférallashair,peloswalking stickgreenverdeinsect,insectohongocallampamushroombrowncafébeige,smallflowerbulbflorbulboblanco,whitepastopelosgrassgrainshortherbsmallpequeño,hierbacerro manquehuecerro manquehuecerro manquehuecerro manquehuecerro manquehueavispa,wasp",
-        "images": [],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
-        "details": {
-            "genus": "",
-            "commonNames": [
-                "Green Wasp",
-                "Barbarea sp.",
-                "Cistanthe sp.",
-                "Sírfido",
-                "",
-                "Wolf spyder",
-                "Palote",
-                "Hongo",
-                "Unknown Liliaceae",
-                "Pasto / Grass",
-                "Callampa",
-                "Green cuckoo wasp",
-                "Avispa Pompilidae ?"
-            ],
-            "biology": "This wasp was smallabout 10 mm long (without the antennae).<br>\n <br>\nEsta avispa era chica,unos 10 mm de largo (sin antenas).",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "Found these on my garden,probably brought the seeds on my bike or my shoes. Too bad this year they didn't grow again.",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "337986178",
-                    "latitude": "-33.3360320667",
-                    "longitude": "-70.5666634414",
-                    "date": "2012-10-15 00:00:00"
-                },
-                {
-                    "noahId": "324576029",
-                    "latitude": "-33.3341138493",
-                    "longitude": "-70.5680903766",
-                    "date": "2012-10-09 00:00:00"
-                },
-                {
-                    "noahId": "229696018",
-                    "latitude": "-33.3345441072",
-                    "longitude": "-70.5683264108",
-                    "date": "2012-09-23 00:00:00"
-                },
-                {
-                    "noahId": "162726077",
-                    "latitude": "-33.3518355841",
-                    "longitude": "-70.5594697567",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "156586057",
-                    "latitude": "-33.3336947938",
-                    "longitude": "-70.5679240796",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "43822024",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43731009",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43850021",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43846002",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43690091",
-                    "latitude": "-33.3355054574",
-                    "longitude": "-70.5667439076",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "42515018",
-                    "latitude": "-33.3391540215",
-                    "longitude": "-70.5673954261",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "42339024",
-                    "latitude": "-33.3393198408",
-                    "longitude": "-70.5672076715",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "38225063",
-                    "latitude": "-33.3507270008",
-                    "longitude": "-70.564313568",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38416026",
-                    "latitude": "-33.3466043733",
-                    "longitude": "-70.5674678458",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38449360",
-                    "latitude": "-33.3455490389",
-                    "longitude": "-70.5685863269",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "16954539",
-                    "latitude": "-33.3313549862",
-                    "longitude": "-70.5717958899",
-                    "date": "2012-11-11 00:00:00"
-                },
-                {
-                    "noahId": "14962213",
-                    "latitude": "-33.3343489158",
-                    "longitude": "-70.5678369494",
-                    "date": "2012-10-09 00:00:00"
-                }
-            ]
-        }
-    },
-    {
-        "_id": 45,
-        "template": "plant",
-        "label": "Almizcle",
-        "sublabel": "Moscharia pinnatifida",
-        "searchText": "cerro manquehuecerro manquehue",
-        "images": [],
-        "thumbnail": "",
-        "group": "plant",
-        "subgroup": "plant",
-        "details": {
-            "genus": "Moscharia",
-            "specie": "pinnatifida",
-            "commonNames": [
-                "Almizcle"
-            ],
-            "biology": "",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "42741006",
-                    "latitude": "-33.3367832194",
-                    "longitude": "-70.569820143",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "38480051",
-                    "latitude": "-33.3466043733",
-                    "longitude": "-70.5674678458",
-                    "date": "2012-07-15 00:00:00"
-                }
-            ]
-        }
-    },
-    {
-        "_id": 3,
-        "template": "invertebrate",
-        "label": "Green Wasp",
-        "sublabel": "",
-        "searchText": "waspavispagreenorangebluemetalicmetalizadoazulverdemetáliconaranja,cerro manquehuecerro manquehueflorfloweryellowamarillohoja grandebig leafhierbaherb,racimoflorflowersuculentapinkrosadocerro manquehueplanta,plantmoscaflyhoverflyblackyellownegroamarillomosca abeja,cerro manquehueamarilloyellowverdegreenplant,plantaarañaaraña lobowolf spiderspiderbrownstripescaférallashair,peloswalking stickgreenverdeinsect,insectohongocallampamushroombrowncafébeige,smallflowerbulbflorbulboblanco,whitepastopelosgrassgrainshortherbsmallpequeño,hierbacerro manquehuecerro manquehuecerro manquehuecerro manquehuecerro manquehueavispa,wasp",
-        "images": [],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
-        "details": {
-            "genus": "",
-            "commonNames": [
-                "Green Wasp",
-                "Barbarea sp.",
-                "Cistanthe sp.",
-                "Sírfido",
-                "",
-                "Wolf spyder",
-                "Palote",
-                "Hongo",
-                "Unknown Liliaceae",
-                "Pasto / Grass",
-                "Callampa",
-                "Green cuckoo wasp",
-                "Avispa Pompilidae ?"
-            ],
-            "biology": "This wasp was smallabout 10 mm long (without the antennae).<br>\n <br>\nEsta avispa era chica,unos 10 mm de largo (sin antenas).",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "Found these on my garden,probably brought the seeds on my bike or my shoes. Too bad this year they didn't grow again.",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "337986178",
-                    "latitude": "-33.3360320667",
-                    "longitude": "-70.5666634414",
-                    "date": "2012-10-15 00:00:00"
-                },
-                {
-                    "noahId": "324576029",
-                    "latitude": "-33.3341138493",
-                    "longitude": "-70.5680903766",
-                    "date": "2012-10-09 00:00:00"
-                },
-                {
-                    "noahId": "229696018",
-                    "latitude": "-33.3345441072",
-                    "longitude": "-70.5683264108",
-                    "date": "2012-09-23 00:00:00"
-                },
-                {
-                    "noahId": "162726077",
-                    "latitude": "-33.3518355841",
-                    "longitude": "-70.5594697567",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "156586057",
-                    "latitude": "-33.3336947938",
-                    "longitude": "-70.5679240796",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "43822024",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43731009",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43850021",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43846002",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43690091",
-                    "latitude": "-33.3355054574",
-                    "longitude": "-70.5667439076",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "42515018",
-                    "latitude": "-33.3391540215",
-                    "longitude": "-70.5673954261",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "42339024",
-                    "latitude": "-33.3393198408",
-                    "longitude": "-70.5672076715",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "38225063",
-                    "latitude": "-33.3507270008",
-                    "longitude": "-70.564313568",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38416026",
-                    "latitude": "-33.3466043733",
-                    "longitude": "-70.5674678458",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38449360",
-                    "latitude": "-33.3455490389",
-                    "longitude": "-70.5685863269",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "16954539",
-                    "latitude": "-33.3313549862",
-                    "longitude": "-70.5717958899",
-                    "date": "2012-11-11 00:00:00"
-                },
-                {
-                    "noahId": "14962213",
-                    "latitude": "-33.3343489158",
-                    "longitude": "-70.5678369494",
-                    "date": "2012-10-09 00:00:00"
-                }
-            ]
-        }
-    },
-    {
         "_id": 56,
         "template": "plant",
         "label": "Toronjil Cuyano",
         "sublabel": "Marrubium vulgare",
         "searchText": "cerro manquehueplantaarbustoverdepelohairbush,green",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -4927,7 +3186,17 @@
         "label": "ortiga macho",
         "sublabel": "Loasa placei",
         "searchText": "cerro manquehueloasaortigachilecerro manquehue,santiago",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -4973,7 +3242,10 @@
         "label": "Ortiga",
         "sublabel": "Urtica urens",
         "searchText": "cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -5007,204 +3279,19 @@
         }
     },
     {
-        "_id": 28,
-        "template": "plant",
-        "label": "Colliguai",
-        "sublabel": "Colliguaja odorifera",
-        "searchText": "arbustoshrubredrojo,nativocerro manquehue",
-        "images": [],
-        "thumbnail": "",
-        "group": "plant",
-        "subgroup": "plant",
-        "details": {
-            "genus": "Colliguaja",
-            "specie": "odorifera",
-            "commonNames": [
-                "Colliguai",
-                "Colliguay"
-            ],
-            "biology": "Superior taxa: MagnoliopsidaEuphorbiaceaeHippomaneae<br>\nEs un arbusto siempreverde de hasta 2 m. La corteza es café-pardo y se desprende fácilmenteliberando látex de color blanco si se lo tala. Sus hojas son pecioladasde color verde clarooblongas a elípticasopuestasde ápice redondeadomucronado o agudo. Los bordes son aserrados y glandulosos. Las medidas de la lámina son de 15 a 45 mm de longitudcon un ancho de 8 a 20 mm.\n<br>\nPosee inflorescencias terminales unisexuales en tonos de amarillo a rojizo. Las flores femeninas muestran un estigma trífidosiendo más gruesas que las masculinasestas últimas contienen de 8 a 12 estambresy se ubican en lo más alto de la espiga. Su fruto es una cápsula tricoca con un diámetro 20 mm. Al terminar de madurarse abre violentamentelanzando las semillas que contenía su interior a varios metros de distanciaevitando de esta manera la competencia con la planta madre.<br>\nSus flores masculinas en ocasiones degeneran en agallas producidas por insectos parásitos que depositan sus huevos en ellas.\n<br>\nSu corona radical posee una inflamación como protección del tallo contra la destrucción del fuegollamada lignotúber. La corona contiene yemas de las cuáles nuevos tallos pueden brotar,y una suficiente provisión de nutrientes para apoyar un período de crecimiento en la ausencia de fotosíntesis.",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "Esta especie arbustiva se la encuentra en terrenos pedregosos y áridosexpuestos al solen el bosque esclerófilo hasta los 1200 msnm.<br>\nEs una especie endémica de Chilecreciendo desde Antofagasta hasta Linares. Cuenta con registros en las siguientes regiones: Región de AntofagastaRegión de AtacamaRegión de CoquimboRegión de ValparaísoRegión Metropolitana de SantiagoRegión del Libertador General Bernardo O'Higgins,hasta la Región del Maule.",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "43763118",
-                    "latitude": "-33.3355054574",
-                    "longitude": "-70.5667439076",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "38139048",
-                    "latitude": "-33.3455490389",
-                    "longitude": "-70.5685863269",
-                    "date": "2012-07-15 00:00:00"
-                }
-            ]
-        }
-    },
-    {
-        "_id": 3,
-        "template": "invertebrate",
-        "label": "Green Wasp",
-        "sublabel": "",
-        "searchText": "waspavispagreenorangebluemetalicmetalizadoazulverdemetáliconaranja,cerro manquehuecerro manquehueflorfloweryellowamarillohoja grandebig leafhierbaherb,racimoflorflowersuculentapinkrosadocerro manquehueplanta,plantmoscaflyhoverflyblackyellownegroamarillomosca abeja,cerro manquehueamarilloyellowverdegreenplant,plantaarañaaraña lobowolf spiderspiderbrownstripescaférallashair,peloswalking stickgreenverdeinsect,insectohongocallampamushroombrowncafébeige,smallflowerbulbflorbulboblanco,whitepastopelosgrassgrainshortherbsmallpequeño,hierbacerro manquehuecerro manquehuecerro manquehuecerro manquehuecerro manquehueavispa,wasp",
-        "images": [],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
-        "details": {
-            "genus": "",
-            "commonNames": [
-                "Green Wasp",
-                "Barbarea sp.",
-                "Cistanthe sp.",
-                "Sírfido",
-                "",
-                "Wolf spyder",
-                "Palote",
-                "Hongo",
-                "Unknown Liliaceae",
-                "Pasto / Grass",
-                "Callampa",
-                "Green cuckoo wasp",
-                "Avispa Pompilidae ?"
-            ],
-            "biology": "This wasp was smallabout 10 mm long (without the antennae).<br>\n <br>\nEsta avispa era chica,unos 10 mm de largo (sin antenas).",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "Found these on my garden,probably brought the seeds on my bike or my shoes. Too bad this year they didn't grow again.",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "337986178",
-                    "latitude": "-33.3360320667",
-                    "longitude": "-70.5666634414",
-                    "date": "2012-10-15 00:00:00"
-                },
-                {
-                    "noahId": "324576029",
-                    "latitude": "-33.3341138493",
-                    "longitude": "-70.5680903766",
-                    "date": "2012-10-09 00:00:00"
-                },
-                {
-                    "noahId": "229696018",
-                    "latitude": "-33.3345441072",
-                    "longitude": "-70.5683264108",
-                    "date": "2012-09-23 00:00:00"
-                },
-                {
-                    "noahId": "162726077",
-                    "latitude": "-33.3518355841",
-                    "longitude": "-70.5594697567",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "156586057",
-                    "latitude": "-33.3336947938",
-                    "longitude": "-70.5679240796",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "43822024",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43731009",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43850021",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43846002",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43690091",
-                    "latitude": "-33.3355054574",
-                    "longitude": "-70.5667439076",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "42515018",
-                    "latitude": "-33.3391540215",
-                    "longitude": "-70.5673954261",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "42339024",
-                    "latitude": "-33.3393198408",
-                    "longitude": "-70.5672076715",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "38225063",
-                    "latitude": "-33.3507270008",
-                    "longitude": "-70.564313568",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38416026",
-                    "latitude": "-33.3466043733",
-                    "longitude": "-70.5674678458",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38449360",
-                    "latitude": "-33.3455490389",
-                    "longitude": "-70.5685863269",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "16954539",
-                    "latitude": "-33.3313549862",
-                    "longitude": "-70.5717958899",
-                    "date": "2012-11-11 00:00:00"
-                },
-                {
-                    "noahId": "14962213",
-                    "latitude": "-33.3343489158",
-                    "longitude": "-70.5678369494",
-                    "date": "2012-10-09 00:00:00"
-                }
-            ]
-        }
-    },
-    {
         "_id": 59,
         "template": "bird",
         "label": "Diuca",
         "sublabel": "Diuca diuca",
         "searchText": "cerro manquehuecerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "bird",
         "subgroup": "bird",
@@ -5249,7 +3336,11 @@
         "label": "Stereum hirsutum",
         "sublabel": "Stereum hirsutum",
         "searchText": "cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "fungi",
         "subgroup": "fungi",
@@ -5283,109 +3374,21 @@
         }
     },
     {
-        "_id": 8,
-        "template": "plant",
-        "label": "Litre",
-        "sublabel": "Lithraea caustica",
-        "searchText": "cerro manquehueverdetreeárbolplantaalergic,alérgico",
-        "images": [],
-        "thumbnail": "",
-        "group": "plant",
-        "subgroup": "plant",
-        "details": {
-            "genus": "Lithraea",
-            "specie": "caustica",
-            "commonNames": [
-                "Litre"
-            ],
-            "biology": "",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "310706080",
-                    "latitude": "-33.3353418719",
-                    "longitude": "-70.566888747",
-                    "date": "2012-10-09 00:00:00"
-                },
-                {
-                    "noahId": "37824050",
-                    "latitude": "-33.3373389519",
-                    "longitude": "-70.5703780426",
-                    "date": "2013-09-03 00:00:00"
-                }
-            ]
-        }
-    },
-    {
-        "_id": 27,
-        "template": "plant",
-        "label": "Ortiga Caballuna",
-        "sublabel": "Loasa triloba",
-        "searchText": "cerro manquehuesantiagochileloasaplantaortigablancowhiteamarilloredyellowrojo,peloscerro manquehuecerro manquehue",
-        "images": [],
-        "thumbnail": "",
-        "group": "plant",
-        "subgroup": "plant",
-        "details": {
-            "genus": "Loasa",
-            "specie": "triloba",
-            "commonNames": [
-                "Ortiga Caballuna",
-                "Ortiga caballuna"
-            ],
-            "biology": "Superior taxa: LoasaceaeViolales<br>\nPlanta anualsembrada de pelos urticarios. Tallo derechoramoso. Hojas membranosasopuestasacorazonadaspartidas en 3-5 lóbulos ± profundosagudos y sinuosos. Pecíolos ± del largo de la lámina. Las flores pequeñasaxilares y solitarias en la región superior del tallocabizbajas. Sépalos aovado-lanceolados. Pétalos poco más largos que el cálizblancoscortamente unguiculadosde 7-9 mm. Escamas con 3 apéndices dorsalestrasaovados y lateralmente concluídos en un hilo. Estaminodios igualmente concluídos en un hilo terminal. Cápsulas turbinadaserguidascon 3 placentas prominentes. Semillas 15-30subglobosasnegruzcas,lampiñas. Tallo 0.1-0.5 m. Algunos individuos llevan flores cleistógamas en la región inferior del tallo.",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "Desde la provincia de Aconcagua hasta la de Valdivia; también en las cordilleras bajas. Florece ya en el invierno y dura hasta Octubre.<br>\nHierba anual endémica de las regiones 345M6789 de Chilede 0 a 1,700 m. ",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "157166023",
-                    "latitude": "-33.3344567113",
-                    "longitude": "-70.5668404672",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "42745003",
-                    "latitude": "-33.3374554761",
-                    "longitude": "-70.5703351271",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "38305061",
-                    "latitude": "-33.3374958113",
-                    "longitude": "-70.570549704",
-                    "date": "2013-06-02 00:00:00"
-                }
-            ]
-        }
-    },
-    {
         "_id": 61,
         "template": "plant",
         "label": "Quillay",
         "sublabel": "Quillaja saponaria",
         "searchText": "cerro manquehuecerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -5430,7 +3433,11 @@
         "label": "Colibrí",
         "sublabel": "Sephanoides sephaniodes",
         "searchText": "hummingbird,cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "bird",
         "subgroup": "bird",
@@ -5469,7 +3476,11 @@
         "label": "Rimu",
         "sublabel": "Oxalis perdicaria",
         "searchText": "cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -5498,96 +3509,6 @@
                     "latitude": "-33.3518853345",
                     "longitude": "-70.5594829095",
                     "date": "2012-05-21 00:00:00"
-                }
-            ]
-        }
-    },
-    {
-        "_id": 22,
-        "template": "plant",
-        "label": "Doradilla",
-        "sublabel": "Cheilanthes hypoleuca",
-        "searchText": "fernhelechosmallpequeñoverdegreencafébrown,cerro manquehuecerro manquehue",
-        "images": [],
-        "thumbnail": "",
-        "group": "plant",
-        "subgroup": "plant",
-        "details": {
-            "genus": "Cheilanthes",
-            "specie": "hypoleuca",
-            "commonNames": [
-                "Doradilla"
-            ],
-            "biology": "Superior taxa: Adiantaceae,Pteridophytes<br>\nSinonimia: Notholaena tomentosa<br>\nCrece generalmente hasta los  30 cm.",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "Muy común en todo Chile central. Crece en las hendiduras de las rocas asoleadas,en laderas y quebradas rocosas.",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "166576003",
-                    "latitude": "-33.3518826341",
-                    "longitude": "-70.5594375702",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "38348031",
-                    "latitude": "-33.3518853345",
-                    "longitude": "-70.5594829095",
-                    "date": "2012-05-01 00:00:00"
-                }
-            ]
-        }
-    },
-    {
-        "_id": 61,
-        "template": "plant",
-        "label": "Quillay",
-        "sublabel": "Quillaja saponaria",
-        "searchText": "cerro manquehuecerro manquehue",
-        "images": [],
-        "thumbnail": "",
-        "group": "plant",
-        "subgroup": "plant",
-        "details": {
-            "genus": "Quillaja",
-            "specie": "saponaria",
-            "commonNames": [
-                "Quillay"
-            ],
-            "biology": "Superior Taxa: SpiraeoideaeRosaceaeRosales<br>\nQuillaja saponariathe soap bark tree or Soapbarkis an evergreen tree in the family Quillajaceaenative to warm temperate central Chile.<br>\nThe tree has thickdark barksmoothleatheryshinyoval evergreen leaves 3–5 cm longwhite flowers 15 mm diameter borne in dense corymbs,and a dry fruit with five follicles each containing 10-20 seeds.",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "Populations are found even 2000 m (6500 ft) above sea level. It can grow to 15–20 m (50–65 ft) in height.<br>\n The species is drought resistant,and tolerates about -12°C (10°F) in its natural habitat.",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "38173033",
-                    "latitude": "-33.3379574243",
-                    "longitude": "-70.5694929136",
-                    "date": "2012-06-06 00:00:00"
-                },
-                {
-                    "noahId": "38138042",
-                    "latitude": "-33.3518853345",
-                    "longitude": "-70.5594829095",
-                    "date": "2012-05-01 00:00:00"
                 }
             ]
         }
@@ -5637,7 +3558,10 @@
         "label": "Espino",
         "sublabel": "Acacia caven",
         "searchText": "cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -5676,7 +3600,11 @@
         "label": "Peuco / Harris's Hawk",
         "sublabel": "Parabuteo unicinctus",
         "searchText": "raptorcerro manquehuehawkeagleáguila,aguilucho",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "bird",
         "subgroup": "bird",
@@ -5704,51 +3632,6 @@
                     "noahId": "37727052",
                     "latitude": "-33.3445541898",
                     "longitude": "-70.5656198037",
-                    "date": "2012-04-15 00:00:00"
-                }
-            ]
-        }
-    },
-    {
-        "_id": 59,
-        "template": "bird",
-        "label": "Diuca",
-        "sublabel": "Diuca diuca",
-        "searchText": "cerro manquehuecerro manquehue",
-        "images": [],
-        "thumbnail": "",
-        "group": "bird",
-        "subgroup": "bird",
-        "details": {
-            "genus": "Diuca",
-            "specie": "diuca",
-            "commonNames": [
-                "Diuca"
-            ],
-            "biology": "",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "38430060",
-                    "latitude": "-33.3368370001",
-                    "longitude": "-70.5614087356",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "37971025",
-                    "latitude": "-33.3398217783",
-                    "longitude": "-70.5499986184",
                     "date": "2012-04-15 00:00:00"
                 }
             ]
@@ -5794,58 +3677,15 @@
         }
     },
     {
-        "_id": 46,
-        "template": "invertebrate",
-        "label": "Mariposa de la tarde",
-        "sublabel": "Vanessa carye",
-        "searchText": "cerro manquehuebutterfly,cerro manquehue",
-        "images": [],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
-        "details": {
-            "genus": "Vanessa",
-            "specie": "carye",
-            "commonNames": [
-                "Mariposa de la tarde",
-                "Mariposa de la Tarde"
-            ],
-            "biology": "",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "42701020",
-                    "latitude": "-33.3391540215",
-                    "longitude": "-70.5673954261",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "38046049",
-                    "latitude": "-33.3398217783",
-                    "longitude": "-70.5499986184",
-                    "date": "2012-04-14 00:00:00"
-                }
-            ]
-        }
-    },
-    {
         "_id": 68,
         "template": "invertebrate",
         "label": "Grass Skipper",
         "sublabel": "Hylephila faschiolata",
         "searchText": "mariposabutterfly,cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "invertebrate",
         "subgroup": "invertebrate",
@@ -5884,7 +3724,11 @@
         "label": "Loica",
         "sublabel": "Sturnella loyca",
         "searchText": "cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "bird",
         "subgroup": "bird",
@@ -5962,7 +3806,11 @@
         "label": "Dischistus fly",
         "sublabel": "Dischistus maculatus",
         "searchText": "moscasflychile,cerro manquehue",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "invertebrate",
         "subgroup": "invertebrate",
@@ -6035,58 +3883,17 @@
         }
     },
     {
-        "_id": 26,
-        "template": "invertebrate",
-        "label": "Araña Pollito",
-        "sublabel": "Grammostola rosea",
-        "searchText": "tarantulaarañaspiderfurpeludapeloshaircerro manquehuebrown,cafétarantulaspideraraña,cerro manquehue",
-        "images": [],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
-        "details": {
-            "genus": "Grammostola",
-            "specie": "rosea",
-            "commonNames": [
-                "Araña Pollito",
-                "Baby Rose tarantula"
-            ],
-            "biology": "G. rosea is a common pet of tarantula hobbyists. Females have been known to live as long as 15–20 years,but due to the limited time they have been available on the market (and hence for extensive study) it is possible that they may live considerably longer than 20 years.",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "The G. rosea's natural habitat is the desert and scrub regions of Northern and central ChileBoliviaand Argentina. While previously thought to be wanderers in nature,large numbers have been observed living in burrows in their natural habitat. They generally do not burrow in captivity. They are usually active in the evening or night.",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "157476080",
-                    "latitude": "-33.3448315717",
-                    "longitude": "-70.5685034368",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "29597002",
-                    "latitude": "-33.3485145569",
-                    "longitude": "-70.5555953979",
-                    "date": "2012-03-25 00:00:00"
-                }
-            ]
-        }
-    },
-    {
         "_id": 73,
         "template": "plant",
         "label": "Cardo Blanco",
         "sublabel": "Silybum marianum",
         "searchText": "cardocerro manquehue,milk thistle",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -6120,158 +3927,18 @@
         }
     },
     {
-        "_id": 3,
-        "template": "invertebrate",
-        "label": "Green Wasp",
-        "sublabel": "",
-        "searchText": "waspavispagreenorangebluemetalicmetalizadoazulverdemetáliconaranja,cerro manquehuecerro manquehueflorfloweryellowamarillohoja grandebig leafhierbaherb,racimoflorflowersuculentapinkrosadocerro manquehueplanta,plantmoscaflyhoverflyblackyellownegroamarillomosca abeja,cerro manquehueamarilloyellowverdegreenplant,plantaarañaaraña lobowolf spiderspiderbrownstripescaférallashair,peloswalking stickgreenverdeinsect,insectohongocallampamushroombrowncafébeige,smallflowerbulbflorbulboblanco,whitepastopelosgrassgrainshortherbsmallpequeño,hierbacerro manquehuecerro manquehuecerro manquehuecerro manquehuecerro manquehueavispa,wasp",
-        "images": [],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
-        "details": {
-            "genus": "",
-            "commonNames": [
-                "Green Wasp",
-                "Barbarea sp.",
-                "Cistanthe sp.",
-                "Sírfido",
-                "",
-                "Wolf spyder",
-                "Palote",
-                "Hongo",
-                "Unknown Liliaceae",
-                "Pasto / Grass",
-                "Callampa",
-                "Green cuckoo wasp",
-                "Avispa Pompilidae ?"
-            ],
-            "biology": "This wasp was smallabout 10 mm long (without the antennae).<br>\n <br>\nEsta avispa era chica,unos 10 mm de largo (sin antenas).",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "Found these on my garden,probably brought the seeds on my bike or my shoes. Too bad this year they didn't grow again.",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "337986178",
-                    "latitude": "-33.3360320667",
-                    "longitude": "-70.5666634414",
-                    "date": "2012-10-15 00:00:00"
-                },
-                {
-                    "noahId": "324576029",
-                    "latitude": "-33.3341138493",
-                    "longitude": "-70.5680903766",
-                    "date": "2012-10-09 00:00:00"
-                },
-                {
-                    "noahId": "229696018",
-                    "latitude": "-33.3345441072",
-                    "longitude": "-70.5683264108",
-                    "date": "2012-09-23 00:00:00"
-                },
-                {
-                    "noahId": "162726077",
-                    "latitude": "-33.3518355841",
-                    "longitude": "-70.5594697567",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "156586057",
-                    "latitude": "-33.3336947938",
-                    "longitude": "-70.5679240796",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "43822024",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43731009",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43850021",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43846002",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43690091",
-                    "latitude": "-33.3355054574",
-                    "longitude": "-70.5667439076",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "42515018",
-                    "latitude": "-33.3391540215",
-                    "longitude": "-70.5673954261",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "42339024",
-                    "latitude": "-33.3393198408",
-                    "longitude": "-70.5672076715",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "38225063",
-                    "latitude": "-33.3507270008",
-                    "longitude": "-70.564313568",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38416026",
-                    "latitude": "-33.3466043733",
-                    "longitude": "-70.5674678458",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38449360",
-                    "latitude": "-33.3455490389",
-                    "longitude": "-70.5685863269",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "16954539",
-                    "latitude": "-33.3313549862",
-                    "longitude": "-70.5717958899",
-                    "date": "2012-11-11 00:00:00"
-                },
-                {
-                    "noahId": "14962213",
-                    "latitude": "-33.3343489158",
-                    "longitude": "-70.5678369494",
-                    "date": "2012-10-09 00:00:00"
-                }
-            ]
-        }
-    },
-    {
         "_id": 74,
         "template": "bird",
         "label": "Fire-eyed Diucon",
         "sublabel": "Xolmis pyrope",
         "searchText": "",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "bird",
         "subgroup": "bird",
@@ -6305,158 +3972,16 @@
         }
     },
     {
-        "_id": 3,
-        "template": "invertebrate",
-        "label": "Green Wasp",
-        "sublabel": "",
-        "searchText": "waspavispagreenorangebluemetalicmetalizadoazulverdemetáliconaranja,cerro manquehuecerro manquehueflorfloweryellowamarillohoja grandebig leafhierbaherb,racimoflorflowersuculentapinkrosadocerro manquehueplanta,plantmoscaflyhoverflyblackyellownegroamarillomosca abeja,cerro manquehueamarilloyellowverdegreenplant,plantaarañaaraña lobowolf spiderspiderbrownstripescaférallashair,peloswalking stickgreenverdeinsect,insectohongocallampamushroombrowncafébeige,smallflowerbulbflorbulboblanco,whitepastopelosgrassgrainshortherbsmallpequeño,hierbacerro manquehuecerro manquehuecerro manquehuecerro manquehuecerro manquehueavispa,wasp",
-        "images": [],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
-        "details": {
-            "genus": "",
-            "commonNames": [
-                "Green Wasp",
-                "Barbarea sp.",
-                "Cistanthe sp.",
-                "Sírfido",
-                "",
-                "Wolf spyder",
-                "Palote",
-                "Hongo",
-                "Unknown Liliaceae",
-                "Pasto / Grass",
-                "Callampa",
-                "Green cuckoo wasp",
-                "Avispa Pompilidae ?"
-            ],
-            "biology": "This wasp was smallabout 10 mm long (without the antennae).<br>\n <br>\nEsta avispa era chica,unos 10 mm de largo (sin antenas).",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "Found these on my garden,probably brought the seeds on my bike or my shoes. Too bad this year they didn't grow again.",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "337986178",
-                    "latitude": "-33.3360320667",
-                    "longitude": "-70.5666634414",
-                    "date": "2012-10-15 00:00:00"
-                },
-                {
-                    "noahId": "324576029",
-                    "latitude": "-33.3341138493",
-                    "longitude": "-70.5680903766",
-                    "date": "2012-10-09 00:00:00"
-                },
-                {
-                    "noahId": "229696018",
-                    "latitude": "-33.3345441072",
-                    "longitude": "-70.5683264108",
-                    "date": "2012-09-23 00:00:00"
-                },
-                {
-                    "noahId": "162726077",
-                    "latitude": "-33.3518355841",
-                    "longitude": "-70.5594697567",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "156586057",
-                    "latitude": "-33.3336947938",
-                    "longitude": "-70.5679240796",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "43822024",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43731009",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43850021",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43846002",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43690091",
-                    "latitude": "-33.3355054574",
-                    "longitude": "-70.5667439076",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "42515018",
-                    "latitude": "-33.3391540215",
-                    "longitude": "-70.5673954261",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "42339024",
-                    "latitude": "-33.3393198408",
-                    "longitude": "-70.5672076715",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "38225063",
-                    "latitude": "-33.3507270008",
-                    "longitude": "-70.564313568",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38416026",
-                    "latitude": "-33.3466043733",
-                    "longitude": "-70.5674678458",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38449360",
-                    "latitude": "-33.3455490389",
-                    "longitude": "-70.5685863269",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "16954539",
-                    "latitude": "-33.3313549862",
-                    "longitude": "-70.5717958899",
-                    "date": "2012-11-11 00:00:00"
-                },
-                {
-                    "noahId": "14962213",
-                    "latitude": "-33.3343489158",
-                    "longitude": "-70.5678369494",
-                    "date": "2012-10-09 00:00:00"
-                }
-            ]
-        }
-    },
-    {
         "_id": 75,
         "template": "plant",
         "label": "Ortiga Caballuna,Cardito",
         "sublabel": "Loasa tricolor",
         "searchText": "",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -6495,7 +4020,11 @@
         "label": "Veronica persica (Persian Speedwell)",
         "sublabel": "Veronica persica",
         "searchText": "chilesantiagocerro manquehuepequeñachicasmallground cover,cubre suelo",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "plant",
         "subgroup": "plant",
@@ -6529,58 +4058,18 @@
         }
     },
     {
-        "_id": 57,
-        "template": "plant",
-        "label": "ortiga macho",
-        "sublabel": "Loasa placei",
-        "searchText": "cerro manquehueloasaortigachilecerro manquehue,santiago",
-        "images": [],
-        "thumbnail": "",
-        "group": "plant",
-        "subgroup": "plant",
-        "details": {
-            "genus": "Loasa",
-            "specie": "placei",
-            "commonNames": [
-                "ortiga macho",
-                "Ortiga Macho (Male Nettle)"
-            ],
-            "biology": "Sinonimia: Loasa tricolor var. placei <br>\nCommon name: Ortiga machoortiga bravacarditoortiga caballuna.<br>\nSuperior Taxa: Loasaceae / Violales<br>\n     Tallos ramososestriadosmuy pestañosos y velludosderechosblanquizosde 4 a 5 pies de alturacon hojas opuestasun poco vellosasespecialmente en las nervosidadesovaladasacorazonadas en la basepartidas en 5 o 7 lóbulos desigualesdentados y acuminados; tienen 2 pulgadas de largo y otras tantas de ancho en la base: las inferiores sustentadas por pecíolos un poco más cortos que el limbodilatados en la basey las superiores enteramente sésiles. Las flores son amarillasde 14 a 16 líneas de diámetroy sustentadas por pedúnculos casi del mismo largo y un poco más cortos que las hojas florales. El cáliz es ovaladocortomuy híspidocon las lacinias linear-lanceoladasde 1/2 pulgada de largo: los pétalos las sobrepujan de 1 a 2 líneas cuando másy son ovalado-oblongosobtusoslargamente unguiculados y cubiertos como el cáliz de pestañas blancas y tiesas. Escamas ovóideasgruesas y bidentadas en el ápicecon los tres apédices muy pegados en la parte inferior. Los estambres son muchosy tienen las anteras de un moreno violado algo oscuro.\n<br>\nComo verificamos que esta especie forma cápsula con más 20 semillaspodría pensarse que la serie que le corresponde en la Clave de Reiche sería Acantifolieas en lugar de Macrospermascuyas cápsulas sólo tienen de 3 a 10 semillas.<br>\n <br>\nLoasa is a genus of ornamental plants in the family Loasaceae. These plants are usually prickly herbsor subshrubs,and they are native of tropical America and South America <br>\n",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "Esta es la especie más común en los alrededores de Santiagoy se encuentra a lo largo de los caminosal pié de las paredes o tapias; se conoce principalmente con el nombre de ortiga macho. Se cultiva en Europa desde 1822.<br>\n <br>\nThe most common species of Loasa near Santiago,easily found on roadsides. Cultivated as an ornamental plant in Europe since 1822.",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [],
-            "spottings": [
-                {
-                    "noahId": "37948466",
-                    "latitude": "-33.3460509405",
-                    "longitude": "-70.5677494777",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "14260259",
-                    "latitude": "-33.346749322",
-                    "longitude": "-70.5672870966",
-                    "date": "2012-09-19 00:00:00"
-                }
-            ]
-        }
-    },
-    {
         "_id": 77,
         "template": "reptile",
         "label": "Lagartija café,Brown lizard",
         "sublabel": "Liolaemus lemniscatus",
         "searchText": "lizard,lagartija",
-        "images": [],
+        "images": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "reptile",
         "subgroup": "reptile",
@@ -6619,7 +4108,10 @@
         "label": "Lagartija oscura,Brown Tree Iguana",
         "sublabel": "Liolaemus fuscus",
         "searchText": "",
-        "images": [],
+        "images": [
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "reptile",
         "subgroup": "reptile",
@@ -6658,7 +4150,10 @@
         "label": "Chinita chilena",
         "sublabel": "Eriopis connexa ssp. chilensis",
         "searchText": "",
-        "images": [],
+        "images": [
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "invertebrate",
         "subgroup": "invertebrate",
@@ -6697,7 +4192,10 @@
         "label": "Hesperia del Pasto,Branded Skipper",
         "sublabel": "Hylephila sp.",
         "searchText": "",
-        "images": [],
+        "images": [
+            null,
+            null
+        ],
         "thumbnail": "",
         "group": "invertebrate",
         "subgroup": "invertebrate",

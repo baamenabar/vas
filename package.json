@@ -17,6 +17,8 @@
     "gulp-imagemin": "~0.6.0",
     "gulp-livereload": "~2.1.0",
     "csvtojson": "~0.3.9",
-    "async": "~0.9.0"
+    "async": "~0.9.0",
+    "cheerio": "~0.17.0",
+    "request": "~2.36.0"
   }
 }
