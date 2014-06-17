@@ -3,12 +3,12 @@
 		<div class="bar bar-dark item-input-inset">
 	      <label class="item-input-wrapper">
 	        <i class="icon ion-ios7-search placeholder-icon"></i>
-	        <input type="search" placeholder="Buscar">
+	        <input type="search" placeholder="Buscar" ng-model="searchText">
 	      </label>
 	    </div>
 		
 		<ion-list class="species-list">
-			<ion-item ng-repeat="oneSpecie in categorySpecies" href="#/slidenav/card/{{oneSpecie._id}}">
+			<ion-item ng-repeat="oneSpecie in categorySpecies | filter:searchText" href="#/slidenav/card/{{oneSpecie._id}}">
 				<img ng-src="img/species/thumbs/{{oneSpecie.thumbnail}}">
 				<div class="label">
 					<h2>{{oneSpecie.label}}</h2>
