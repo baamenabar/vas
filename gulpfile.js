@@ -9,7 +9,7 @@ var sh = require('shelljs');
 var imageResize = require('gulp-image-resize');
 var imageMin = require('gulp-imagemin');
 var livereload = require('gulp-livereload');
-var myTest = require('./tasks/data.js');
+var vasConvert = require('./tasks/data.js');
 
 var paths = {
   sass: ['./scss/**/*.scss']
@@ -58,8 +58,8 @@ gulp.task('git-check', function(done) {
 });
 
 gulp.task('images',function(done) {
-  gulp.src('./src_data/imgs/**/*.*')
-  .pipe(imageResize({
+  gulp.src('./src_data/imgs/*.*')
+  /*.pipe(imageResize({
     width:770,
     height:770,
     imageMagick:true,
@@ -78,7 +78,7 @@ gulp.task('images',function(done) {
   .pipe(imageMin({
     progressive: true
   }))
-  .pipe(gulp.dest('./www/img/species/640/'))
+  .pipe(gulp.dest('./www/img/species/640/'))*/
   .pipe(imageResize({
     width:320,
     height:240,
@@ -93,5 +93,28 @@ gulp.task('images',function(done) {
 });
 
 gulp.task('convert',function() {
-  myTest.convertCSV();
+  vasConvert.convertCSV();
+});
+
+gulp.task('thumbs',function() {
+  vasConvert.createThumbnails(function() {
+    console.log('terminamos copiado de thumbs');
+    gulp.src('./src_data/imgs/thumbs/*.*')
+    .pipe(imageResize({
+      width:400,
+      height:300,
+      crop : true,
+      //imageMagick:true,
+      quality:0.7
+    }))
+    .pipe(imageMin({
+      progressive: true
+    }))
+    .pipe(gulp.dest('./www/img/species/thumbs/'));
+  });
+
+});
+
+gulp.task('terms',function() {
+  vasConvert.termsManipulation();
 });

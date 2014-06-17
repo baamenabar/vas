@@ -27,7 +27,7 @@ angular.module('guiaVas', ['ionic','guiaVas.controllers'])
     controller: 'slideContentCtrl',
     resolve: {
           species: function($http) {
-            return $http.get('data/species-data.json').then(function(response) {
+            return $http.get('data/species-data-list.json').then(function(response) {
               return response.data;
             });
           }

@@ -1,18 +1,33 @@
 [
     {
-        "_id": 0,
+        "_id": "0",
         "template": "invertebrate",
         "label": "Chinita chilena",
         "sublabel": "Eriopis connexa",
         "searchText": "bugladybuglady birdcerro manquehueorangebrownblacknaranjacafénegrolarva,larvae",
-        "images": [
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
+        "images": {
+            "baseName": "Eriopis connexa",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Eriopis connexa - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Eriopis connexa - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Eriopis connexa - 02.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Eriopis connexa - 00.jpg",
+        "group": "artropoda",
+        "subgroup": "artropoda",
         "details": {
             "genus": "Eriopis",
             "specie": "connexa",
@@ -43,22 +58,57 @@
         }
     },
     {
-        "_id": 1,
+        "_id": "1",
         "template": "plant",
         "label": "Azulillo",
         "sublabel": "Pasithea coerulea",
         "searchText": "azulblueyellowcerro manquehueamarillobulbobulbpurplepúrpuramoradohierbaherb,ornamentalazulbluepurplemoradolillyherb,hiebra",
-        "images": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Pasithea coerulea",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Pasithea coerulea - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Pasithea coerulea - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Pasithea coerulea - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Pasithea coerulea - 03.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Pasithea coerulea - 04.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Pasithea coerulea - 05.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Pasithea coerulea - 06.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Pasithea coerulea - 07.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Pasithea coerulea - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -97,18 +147,37 @@
         }
     },
     {
-        "_id": 2,
+        "_id": "2",
         "template": "plant",
         "label": "Pimpinela",
         "sublabel": "Anagallis arvensis",
         "searchText": "cerro manquehueflorhierbaflowerherbblueredscarletescarlatarojoazulmoradopurpleyellowamarillo,fucsia",
-        "images": [
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Anagallis arvensis",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Anagallis arvensis - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Anagallis arvensis - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Anagallis arvensis - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Anagallis arvensis - 03.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Anagallis arvensis - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -141,468 +210,37 @@
         }
     },
     {
-        "_id": 3,
+        "_id": "3",
         "template": "invertebrate",
         "label": "Green Wasp",
-        "sublabel": "",
-        "searchText": "waspavispagreenorangebluemetalicmetalizadoazulverdemetáliconaranja,cerro manquehuecerro manquehueflorfloweryellowamarillohoja grandebig leafhierbaherb,racimoflorflowersuculentapinkrosadocerro manquehueplanta,plantmoscaflyhoverflyblackyellownegroamarillomosca abeja,cerro manquehueamarilloyellowverdegreenplant,plantaarañaaraña lobowolf spiderspiderbrownstripescaférallashair,peloswalking stickgreenverdeinsect,insectohongocallampamushroombrowncafébeige,smallflowerbulbflorbulboblanco,whitepastopelosgrassgrainshortherbsmallpequeño,hierbacerro manquehuecerro manquehuecerro manquehuecerro manquehuecerro manquehueavispa,wasp",
-        "images": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
+        "sublabel": "Ichneumonidae",
+        "searchText": "waspavispagreenorangebluemetalicmetalizadoazulverdemetáliconaranja,cerro manquehue",
+        "images": {
+            "baseName": "Ichneumonidae",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Ichneumonidae - 00.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Ichneumonidae - 00.jpg",
+        "group": "artropoda",
+        "subgroup": "artropoda",
         "details": {
-            "genus": "",
+            "genus": "Ichneumonidae",
             "commonNames": [
-                "Green Wasp",
-                "Barbarea sp.",
-                "Cistanthe sp.",
-                "Sírfido",
-                "",
-                "Wolf spyder",
-                "Palote",
-                "Hongo",
-                "Unknown Liliaceae",
-                "Pasto / Grass",
-                "Callampa",
-                "Green cuckoo wasp",
-                "Avispa Pompilidae ?"
+                "Green Wasp"
             ],
-            "biology": "This wasp was smallabout 10 mm long (without the antennae).<br>\n <br>\nEsta avispa era chica,unos 10 mm de largo (sin antenas).",
+            "biology": "",
             "identifyingCharacteristics": "",
             "use": "",
             "flower": [],
             "fruit": [],
             "etymology": "",
             "distribution": "",
-            "habitat": "Found these on my garden,probably brought the seeds on my bike or my shoes. Too bad this year they didn't grow again.",
+            "habitat": "",
             "nativeStatus": "",
             "conservationStatuses": [],
             "descripted": "",
@@ -614,120 +252,47 @@
                     "latitude": "-33.3360320667",
                     "longitude": "-70.5666634414",
                     "date": "2012-10-15 00:00:00"
-                },
-                {
-                    "noahId": "324576029",
-                    "latitude": "-33.3341138493",
-                    "longitude": "-70.5680903766",
-                    "date": "2012-10-09 00:00:00"
-                },
-                {
-                    "noahId": "229696018",
-                    "latitude": "-33.3345441072",
-                    "longitude": "-70.5683264108",
-                    "date": "2012-09-23 00:00:00"
-                },
-                {
-                    "noahId": "162726077",
-                    "latitude": "-33.3518355841",
-                    "longitude": "-70.5594697567",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "156586057",
-                    "latitude": "-33.3336947938",
-                    "longitude": "-70.5679240796",
-                    "date": "2012-09-19 00:00:00"
-                },
-                {
-                    "noahId": "43822024",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43731009",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-22 00:00:00"
-                },
-                {
-                    "noahId": "43850021",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43846002",
-                    "latitude": "-33.3535024829",
-                    "longitude": "-70.5192795369",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "43690091",
-                    "latitude": "-33.3355054574",
-                    "longitude": "-70.5667439076",
-                    "date": "2012-09-17 00:00:00"
-                },
-                {
-                    "noahId": "42515018",
-                    "latitude": "-33.3391540215",
-                    "longitude": "-70.5673954261",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "42339024",
-                    "latitude": "-33.3393198408",
-                    "longitude": "-70.5672076715",
-                    "date": "2012-09-01 00:00:00"
-                },
-                {
-                    "noahId": "38225063",
-                    "latitude": "-33.3507270008",
-                    "longitude": "-70.564313568",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38416026",
-                    "latitude": "-33.3466043733",
-                    "longitude": "-70.5674678458",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "38449360",
-                    "latitude": "-33.3455490389",
-                    "longitude": "-70.5685863269",
-                    "date": "2012-07-15 00:00:00"
-                },
-                {
-                    "noahId": "16954539",
-                    "latitude": "-33.3313549862",
-                    "longitude": "-70.5717958899",
-                    "date": "2012-11-11 00:00:00"
-                },
-                {
-                    "noahId": "14962213",
-                    "latitude": "-33.3343489158",
-                    "longitude": "-70.5678369494",
-                    "date": "2012-10-09 00:00:00"
                 }
             ]
         }
     },
     {
-        "_id": 4,
+        "_id": "4",
         "template": "plant",
         "label": "Blanquillo",
         "sublabel": "Leucheria cerberoana",
         "searchText": "florflowerherbhierbawhiteblancosmallpequeñochico,cerro manquehue",
-        "images": [
-            null,
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Leucheria cerberoana",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Leucheria cerberoana - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Leucheria cerberoana - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Leucheria cerberoana - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Leucheria cerberoana - 03.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Leucheria cerberoana - 04.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Leucheria cerberoana - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -760,16 +325,27 @@
         }
     },
     {
-        "_id": 5,
+        "_id": "5",
         "template": "plant",
         "label": "Huasita",
         "sublabel": "Clarkia tenella",
         "searchText": "herbhierbapurplemoradopinkrosado,cerro manquehue",
-        "images": [
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Clarkia tenella",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Clarkia tenella - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Clarkia tenella - 01.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Clarkia tenella - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -802,17 +378,32 @@
         }
     },
     {
-        "_id": 6,
+        "_id": "6",
         "template": "plant",
         "label": "Vicia",
         "sublabel": "Vicia sp.",
         "searchText": "purplefucsiamoradotrompetarosadopúrpurahierbaherb,cerro manquehue",
-        "images": [
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Vicia sp.",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Vicia sp. - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Vicia sp. - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Vicia sp. - 02.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Vicia sp. - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -845,17 +436,32 @@
         }
     },
     {
-        "_id": 7,
+        "_id": "7",
         "template": "plant",
         "label": "Manzanilla del Campo",
         "sublabel": "Helenium aromaticum",
         "searchText": "herbhierbayellowamarillobolapelotaballcompositecompuestapinadalanceoladapinnatedlanceolate,cerro manquehue",
-        "images": [
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Helenium aromaticum",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Helenium aromaticum - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Helenium aromaticum - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Helenium aromaticum - 02.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Helenium aromaticum - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -888,18 +494,110 @@
         }
     },
     {
-        "_id": 8,
+        "_id": "8",
+        "template": "plant",
+        "label": "Barbarea sp.",
+        "sublabel": "Barbarea sp.",
+        "searchText": "cerro manquehueflorfloweryellowamarillohoja grandebig leafhierbaherb,racimo",
+        "images": {
+            "baseName": "Barbarea sp.",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Barbarea sp. - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Barbarea sp. - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Barbarea sp. - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Barbarea sp. - 03.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Barbarea sp. - 04.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Barbarea sp. - 00.jpg",
+        "group": "plant",
+        "subgroup": "plant",
+        "details": {
+            "genus": "Barbarea",
+            "specie": "sp.",
+            "commonNames": [
+                "Barbarea sp."
+            ],
+            "biology": "Hierba de flor amarillahoja grande,muy abundante en primavera.",
+            "identifyingCharacteristics": "",
+            "use": "",
+            "flower": [],
+            "fruit": [],
+            "etymology": "",
+            "distribution": "",
+            "habitat": "",
+            "nativeStatus": "",
+            "conservationStatuses": [],
+            "descripted": "",
+            "synonymum": [],
+            "sources": [],
+            "spottings": [
+                {
+                    "noahId": "324576029",
+                    "latitude": "-33.3341138493",
+                    "longitude": "-70.5680903766",
+                    "date": "2012-10-09 00:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "_id": "9",
         "template": "plant",
         "label": "Litre",
         "sublabel": "Lithraea caustica",
         "searchText": "cerro manquehueverdetreeárbolplantaalergic,alérgico",
-        "images": [
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Lithraea caustica",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Lithraea caustica - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Lithraea caustica - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Lithraea caustica - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Lithraea caustica - 03.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Lithraea caustica - 04.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Lithraea caustica - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -938,16 +636,27 @@
         }
     },
     {
-        "_id": 9,
+        "_id": "10",
         "template": "bird",
         "label": "Eared Dove Chicks",
         "sublabel": "Zenaida auriculata",
         "searchText": "tórtolaavebirdpalomatorcazadovepigeonchickpolluelonido,nest",
-        "images": [
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Zenaida auriculata",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Zenaida auriculata - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Zenaida auriculata - 01.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Zenaida auriculata - 00.jpg",
         "group": "bird",
         "subgroup": "bird",
         "details": {
@@ -980,17 +689,32 @@
         }
     },
     {
-        "_id": 10,
+        "_id": "11",
         "template": "plant",
         "label": "Soldaditos",
         "sublabel": "Tropaeolum tricolor",
         "searchText": "florflowerredpurpleyellowrojopurpurapúrpuraamarillomoradovineenredadera,trepadora",
-        "images": [
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Tropaeolum tricolor",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Tropaeolum tricolor - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Tropaeolum tricolor - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Tropaeolum tricolor - 02.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Tropaeolum tricolor - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -1023,26 +747,77 @@
         }
     },
     {
-        "_id": 11,
+        "_id": "12",
         "template": "plant",
         "label": "Ñuño",
         "sublabel": "Olsynium junceum",
         "searchText": "florflowerwhiteblancopinkrosadoyellowamarillohierbaherbbulbo,bulbflorflowerpinkrosadoblancowhiteyellowamarilloherbbulbhierba,bulboflorflowerbulbbulboblancoamarillorosadowhiteyellowpinkstripesrallasherb,hierba",
-        "images": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Olsynium junceum",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Olsynium junceum - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Olsynium junceum - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Olsynium junceum - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Olsynium junceum - 03.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Olsynium junceum - 04.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Olsynium junceum - 05.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Olsynium junceum - 06.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Olsynium junceum - 07.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Olsynium junceum - 08.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Olsynium junceum - 09.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Olsynium junceum - 010.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Olsynium junceum - 011.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Olsynium junceum - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -1088,23 +863,62 @@
         }
     },
     {
-        "_id": 12,
+        "_id": "13",
         "template": "plant",
         "label": "Quilloy-quilloi",
         "sublabel": "Stellaria chilensis",
         "searchText": "whiteblancablancoflowerflorhierba,herbflorflowerwhiteblancosixseisherbhierba,herbácea",
-        "images": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Stellaria chilensis",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Stellaria chilensis - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Stellaria chilensis - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Stellaria chilensis - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Stellaria chilensis - 03.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Stellaria chilensis - 04.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Stellaria chilensis - 05.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Stellaria chilensis - 06.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Stellaria chilensis - 07.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Stellaria chilensis - 08.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Stellaria chilensis - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -1144,18 +958,37 @@
         }
     },
     {
-        "_id": 13,
+        "_id": "14",
         "template": "plant",
         "label": "Papa cimarrona",
         "sublabel": "Dioscorea saxatilis",
         "searchText": "vineenredaderatrepadora,cerro manquehue",
-        "images": [
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Dioscorea saxatilis",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Dioscorea saxatilis - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Dioscorea saxatilis - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Dioscorea saxatilis - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Dioscorea saxatilis - 03.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Dioscorea saxatilis - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -1188,15 +1021,24 @@
         }
     },
     {
-        "_id": 14,
+        "_id": "15",
         "template": "invertebrate",
         "label": "Small Bee",
         "sublabel": "Isepeolus luctuosus",
         "searchText": "abejabeebeigeyellowamarillocafé claroblacknegro,cerro manquehue",
-        "images": [],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
+        "images": {
+            "baseName": "Isepeolus luctuosus",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Isepeolus luctuosus - 00.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Isepeolus luctuosus - 00.jpg",
+        "group": "artropoda",
+        "subgroup": "artropoda",
         "details": {
             "genus": "Isepeolus",
             "specie": "luctuosus",
@@ -1227,17 +1069,32 @@
         }
     },
     {
-        "_id": 15,
+        "_id": "16",
         "template": "plant",
         "label": "Conejitos",
         "sublabel": "Lamium amplexicaule",
         "searchText": "florflowercerro manquehuemintmentapinkwhiteblancorosadofucsiaplantahierbaplant,herb",
-        "images": [
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Lamium amplexicaule",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Lamium amplexicaule - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Lamium amplexicaule - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Lamium amplexicaule - 02.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Lamium amplexicaule - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -1270,25 +1127,82 @@
         }
     },
     {
-        "_id": 16,
+        "_id": "17",
         "template": "plant",
         "label": "Macaya",
         "sublabel": "Placea arzae",
         "searchText": "cerro manquehueflorflowerredwhiterojoblancoamarillo,yellowirisflorherbhierbaflowerwhiteredrojoblancobulbobulb,nativacerro manquehue",
-        "images": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Placea arzae",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Placea arzae - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Placea arzae - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Placea arzae - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Placea arzae - 03.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Placea arzae - 04.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Placea arzae - 05.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Placea arzae - 06.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Placea arzae - 07.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Placea arzae - 08.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Placea arzae - 09.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Placea arzae - 010.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Placea arzae - 011.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Placea arzae - 012.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Placea arzae - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -1335,17 +1249,32 @@
         }
     },
     {
-        "_id": 17,
+        "_id": "18",
         "template": "plant",
         "label": "Mitique",
         "sublabel": "Podanthus mitiqui",
         "searchText": "yellowamarilloflorflowerbush,arbusto",
-        "images": [
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Podanthus mitiqui",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Podanthus mitiqui - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Podanthus mitiqui - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Podanthus mitiqui - 02.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Podanthus mitiqui - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -1378,18 +1307,87 @@
         }
     },
     {
-        "_id": 18,
+        "_id": "19",
+        "template": "plant",
+        "label": "Cistanthe sp.",
+        "sublabel": "Cistanthe sp.",
+        "searchText": "florflowersuculentapinkrosadocerro manquehueplanta,plant",
+        "images": {
+            "baseName": "Cistanthe sp.",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Cistanthe sp. - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Cistanthe sp. - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Cistanthe sp. - 02.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Cistanthe sp. - 00.jpg",
+        "group": "plant",
+        "subgroup": "plant",
+        "details": {
+            "genus": "Cistanthe",
+            "specie": "sp.",
+            "commonNames": [
+                "Cistanthe sp."
+            ],
+            "biology": "Family: Portulacaceae",
+            "identifyingCharacteristics": "",
+            "use": "",
+            "flower": [],
+            "fruit": [],
+            "etymology": "",
+            "distribution": "",
+            "habitat": "",
+            "nativeStatus": "",
+            "conservationStatuses": [],
+            "descripted": "",
+            "synonymum": [],
+            "sources": [],
+            "spottings": [
+                {
+                    "noahId": "229696018",
+                    "latitude": "-33.3345441072",
+                    "longitude": "-70.5683264108",
+                    "date": "2012-09-23 00:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "_id": "20",
         "template": "invertebrate",
         "label": "Mariposa Blanca",
         "sublabel": "Tatochila theodice theodice",
         "searchText": "butterflymariposablancawhite,cerro manquehue",
-        "images": [
-            null,
-            null
-        ],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
+        "images": {
+            "baseName": "Tatochila theodice theodice",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Tatochila theodice theodice - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Tatochila theodice theodice - 01.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Tatochila theodice theodice - 00.jpg",
+        "group": "artropoda",
+        "subgroup": "artropoda",
         "details": {
             "genus": "Tatochila",
             "specie": "theodice",
@@ -1420,18 +1418,37 @@
         }
     },
     {
-        "_id": 19,
+        "_id": "21",
         "template": "plant",
         "label": "Montiopsis",
         "sublabel": "Montiopsis sp.",
         "searchText": "fuchsiapinkfucsiarosadoherbhierbahebácea,cerro manquehue",
-        "images": [
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Montiopsis sp.",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Montiopsis sp. - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Montiopsis sp. - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Montiopsis sp. - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Montiopsis sp. - 03.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Montiopsis sp. - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -1464,27 +1481,82 @@
         }
     },
     {
-        "_id": 20,
+        "_id": "22",
         "template": "plant",
         "label": "Natre",
         "sublabel": "Solanum ligustrinum",
         "searchText": "purplegreenyellowverdepúrpuramoradoamarilloarbustobushcerro manquehueflower,florcerro manquehue",
-        "images": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Solanum ligustrinum",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Solanum ligustrinum - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Solanum ligustrinum - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Solanum ligustrinum - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Solanum ligustrinum - 03.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Solanum ligustrinum - 04.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Solanum ligustrinum - 05.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Solanum ligustrinum - 06.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Solanum ligustrinum - 07.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Solanum ligustrinum - 08.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Solanum ligustrinum - 09.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Solanum ligustrinum - 010.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Solanum ligustrinum - 011.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Solanum ligustrinum - 012.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Solanum ligustrinum - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -1523,16 +1595,27 @@
         }
     },
     {
-        "_id": 21,
+        "_id": "23",
         "template": "plant",
         "label": "Espino (flores)",
         "sublabel": "Acacia cavens",
         "searchText": "acaciaespinospinesespinasflorfloweryellowamarillotreeárbol,cerro manquehue",
-        "images": [
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Acacia cavens",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Acacia cavens - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Acacia cavens - 01.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Acacia cavens - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -1565,22 +1648,57 @@
         }
     },
     {
-        "_id": 22,
+        "_id": "24",
         "template": "plant",
         "label": "Doradilla",
         "sublabel": "Cheilanthes hypoleuca",
         "searchText": "fernhelechosmallpequeñoverdegreencafébrown,cerro manquehuecerro manquehue",
-        "images": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Cheilanthes hypoleuca",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Cheilanthes hypoleuca - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Cheilanthes hypoleuca - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Cheilanthes hypoleuca - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Cheilanthes hypoleuca - 03.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Cheilanthes hypoleuca - 04.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Cheilanthes hypoleuca - 05.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Cheilanthes hypoleuca - 06.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Cheilanthes hypoleuca - 07.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Cheilanthes hypoleuca - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -1619,18 +1737,94 @@
         }
     },
     {
-        "_id": 23,
+        "_id": "25",
+        "template": "invertebrate",
+        "label": "Sírfido",
+        "sublabel": "",
+        "searchText": "moscaflyhoverflyblackyellownegroamarillomosca abeja,cerro manquehue",
+        "images": {
+            "baseName": "",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd -  - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd -  - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd -  - 02.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd -  - 00.jpg",
+        "group": "artropoda",
+        "subgroup": "artropoda",
+        "details": {
+            "genus": "",
+            "commonNames": [
+                "Sírfido"
+            ],
+            "biology": "Family: Syrphidae",
+            "identifyingCharacteristics": "",
+            "use": "",
+            "flower": [],
+            "fruit": [],
+            "etymology": "",
+            "distribution": "",
+            "habitat": "",
+            "nativeStatus": "",
+            "conservationStatuses": [],
+            "descripted": "",
+            "synonymum": [],
+            "sources": [],
+            "spottings": [
+                {
+                    "noahId": "162726077",
+                    "latitude": "-33.3518355841",
+                    "longitude": "-70.5594697567",
+                    "date": "2012-09-19 00:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "_id": "26",
         "template": "plant",
         "label": "Calandrinia",
         "sublabel": "Calandrinia sp.",
         "searchText": "florhirbaherbflowersmallpequeña,cerro manquehue",
-        "images": [
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Calandrinia sp.",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Calandrinia sp. - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Calandrinia sp. - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Calandrinia sp. - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Calandrinia sp. - 03.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Calandrinia sp. - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -1663,18 +1857,37 @@
         }
     },
     {
-        "_id": 24,
+        "_id": "27",
         "template": "plant",
         "label": "Huilli",
         "sublabel": "Leucocoryne ixioides",
         "searchText": "florpequeñaflowersmallwhite,blanca",
-        "images": [
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Leucocoryne ixioides",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Leucocoryne ixioides - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Leucocoryne ixioides - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Leucocoryne ixioides - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Leucocoryne ixioides - 03.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Leucocoryne ixioides - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -1707,19 +1920,34 @@
         }
     },
     {
-        "_id": 25,
+        "_id": "28",
         "template": "invertebrate",
         "label": "Carposcalis Syrphidae",
         "sublabel": "Carposcalis sp.",
         "searchText": "sírfidomosca abejahoverflyhover flysyrphidaecerro manquehuedoradogoldblacknegrooro,golden",
-        "images": [
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
+        "images": {
+            "baseName": "Carposcalis sp.",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Carposcalis sp. - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Carposcalis sp. - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Carposcalis sp. - 02.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Carposcalis sp. - 00.jpg",
+        "group": "artropoda",
+        "subgroup": "artropoda",
         "details": {
             "genus": "Carposcalis",
             "specie": "sp.",
@@ -1750,24 +1978,59 @@
         }
     },
     {
-        "_id": 26,
+        "_id": "29",
         "template": "invertebrate",
         "label": "Araña Pollito",
         "sublabel": "Grammostola rosea",
         "searchText": "tarantulaarañaspiderfurpeludapeloshaircerro manquehuebrown,cafétarantulaspideraraña,cerro manquehue",
-        "images": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
+        "images": {
+            "baseName": "Grammostola rosea",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Grammostola rosea - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Grammostola rosea - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Grammostola rosea - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Grammostola rosea - 03.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Grammostola rosea - 04.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Grammostola rosea - 05.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Grammostola rosea - 06.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Grammostola rosea - 07.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Grammostola rosea - 00.jpg",
+        "group": "artropoda",
+        "subgroup": "artropoda",
         "details": {
             "genus": "Grammostola",
             "specie": "rosea",
@@ -1805,30 +2068,97 @@
         }
     },
     {
-        "_id": 27,
+        "_id": "30",
         "template": "plant",
         "label": "Ortiga Caballuna",
         "sublabel": "Loasa triloba",
         "searchText": "cerro manquehuesantiagochileloasaplantaortigablancowhiteamarilloredyellowrojo,peloscerro manquehuecerro manquehue",
-        "images": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Loasa triloba",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Loasa triloba - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Loasa triloba - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Loasa triloba - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Loasa triloba - 03.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Loasa triloba - 04.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Loasa triloba - 05.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Loasa triloba - 06.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Loasa triloba - 07.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Loasa triloba - 08.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Loasa triloba - 09.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Loasa triloba - 010.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Loasa triloba - 011.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Loasa triloba - 012.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Loasa triloba - 013.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Loasa triloba - 014.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Loasa triloba - 015.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Loasa triloba - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -1874,23 +2204,348 @@
         }
     },
     {
-        "_id": 28,
+        "_id": "31",
+        "template": "invertebrate",
+        "label": "Wolf spyder",
+        "sublabel": "Lycosidae",
+        "searchText": "arañaaraña lobowolf spiderspiderbrownstripescaférallashair,pelos",
+        "images": {
+            "baseName": "Lycosidae",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Lycosidae - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Lycosidae - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Lycosidae - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Lycosidae - 03.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Lycosidae - 00.jpg",
+        "group": "artropoda",
+        "subgroup": "artropoda",
+        "details": {
+            "genus": "Lycosidae",
+            "commonNames": [
+                "Wolf spyder"
+            ],
+            "biology": "Lycosidae in a cap.",
+            "identifyingCharacteristics": "",
+            "use": "",
+            "flower": [],
+            "fruit": [],
+            "etymology": "",
+            "distribution": "",
+            "habitat": "My Garden",
+            "nativeStatus": "",
+            "conservationStatuses": [],
+            "descripted": "",
+            "synonymum": [],
+            "sources": [],
+            "spottings": [
+                {
+                    "noahId": "43822024",
+                    "latitude": "-33.3535024829",
+                    "longitude": "-70.5192795369",
+                    "date": "2012-09-22 00:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "_id": "32",
+        "template": "invertebrate",
+        "label": "Palote",
+        "sublabel": "Heteronemiidae",
+        "searchText": "walking stickgreenverdeinsect,insecto",
+        "images": {
+            "baseName": "Heteronemiidae",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Heteronemiidae - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Heteronemiidae - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Heteronemiidae - 02.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Heteronemiidae - 00.jpg",
+        "group": "artropoda",
+        "subgroup": "artropoda",
+        "details": {
+            "genus": "Heteronemiidae",
+            "commonNames": [
+                "Palote"
+            ],
+            "biology": "Stick on a kidmy kid,who loves bugs. <br>\nPossibly Heteronemiidae (the arthropod not the kid) ",
+            "identifyingCharacteristics": "",
+            "use": "",
+            "flower": [],
+            "fruit": [],
+            "etymology": "",
+            "distribution": "",
+            "habitat": "",
+            "nativeStatus": "",
+            "conservationStatuses": [],
+            "descripted": "",
+            "synonymum": [],
+            "sources": [],
+            "spottings": [
+                {
+                    "noahId": "43731009",
+                    "latitude": "-33.3535024829",
+                    "longitude": "-70.5192795369",
+                    "date": "2012-09-22 00:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "_id": "33",
+        "template": "fungi",
+        "label": "Hongo",
+        "sublabel": "fungus",
+        "searchText": "hongocallampamushroombrowncafébeige,smallcerro manquehuecerro manquehue",
+        "images": {
+            "baseName": "fungus",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - fungus - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - fungus - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - fungus - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - fungus - 03.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - fungus - 04.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - fungus - 05.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - fungus - 06.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - fungus - 07.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - fungus - 08.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - fungus - 09.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - fungus - 010.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - fungus - 00.jpg",
+        "group": "fungi",
+        "subgroup": "fungi",
+        "details": {
+            "genus": "fungus",
+            "commonNames": [
+                "Hongo",
+                "Callampa"
+            ],
+            "biology": "Between 20 and 30 cm in height,the cap at least 10 cm in diameter.",
+            "identifyingCharacteristics": "",
+            "use": "",
+            "flower": [],
+            "fruit": [],
+            "etymology": "",
+            "distribution": "",
+            "habitat": "Pastures on a hill.",
+            "nativeStatus": "",
+            "conservationStatuses": [],
+            "descripted": "",
+            "synonymum": [],
+            "sources": [],
+            "spottings": [
+                {
+                    "noahId": "43850021",
+                    "latitude": "-33.3535024829",
+                    "longitude": "-70.5192795369",
+                    "date": "2012-09-17 00:00:00"
+                },
+                {
+                    "noahId": "42339024",
+                    "latitude": "-33.3393198408",
+                    "longitude": "-70.5672076715",
+                    "date": "2012-09-01 00:00:00"
+                },
+                {
+                    "noahId": "38416026",
+                    "latitude": "-33.3466043733",
+                    "longitude": "-70.5674678458",
+                    "date": "2012-07-15 00:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "_id": "34",
+        "template": "plant",
+        "label": "Unknown Liliaceae",
+        "sublabel": "Liliaceae",
+        "searchText": "flowerbulbflorbulboblanco,white",
+        "images": {
+            "baseName": "Liliaceae",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Liliaceae - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Liliaceae - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Liliaceae - 02.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Liliaceae - 00.jpg",
+        "group": "plant",
+        "subgroup": "plant",
+        "details": {
+            "genus": "Liliaceae",
+            "commonNames": [
+                "Unknown Liliaceae"
+            ],
+            "biology": "",
+            "identifyingCharacteristics": "",
+            "use": "",
+            "flower": [],
+            "fruit": [],
+            "etymology": "",
+            "distribution": "",
+            "habitat": "Found these on my garden,probably brought the seeds on my bike or my shoes. Too bad this year they didn't grow again.",
+            "nativeStatus": "",
+            "conservationStatuses": [],
+            "descripted": "",
+            "synonymum": [],
+            "sources": [],
+            "spottings": [
+                {
+                    "noahId": "43846002",
+                    "latitude": "-33.3535024829",
+                    "longitude": "-70.5192795369",
+                    "date": "2012-09-17 00:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "_id": "35",
         "template": "plant",
         "label": "Colliguai",
         "sublabel": "Colliguaja odorifera",
         "searchText": "arbustoshrubredrojo,nativocerro manquehue",
-        "images": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Colliguaja odorifera",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Colliguaja odorifera - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Colliguaja odorifera - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Colliguaja odorifera - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Colliguaja odorifera - 03.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Colliguaja odorifera - 04.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Colliguaja odorifera - 05.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Colliguaja odorifera - 06.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Colliguaja odorifera - 07.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Colliguaja odorifera - 08.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Colliguaja odorifera - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -1930,18 +2585,37 @@
         }
     },
     {
-        "_id": 29,
+        "_id": "36",
         "template": "plant",
         "label": "Mariposita Blanca",
         "sublabel": "Schizanthus pinnatus",
         "searchText": "whitepurplepúrpuramoradovioletablancovioletherbhierbaflorflowersmallpequeña,nativa",
-        "images": [
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Schizanthus pinnatus",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Schizanthus pinnatus - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Schizanthus pinnatus - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Schizanthus pinnatus - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Schizanthus pinnatus - 03.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Schizanthus pinnatus - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -1974,18 +2648,37 @@
         }
     },
     {
-        "_id": 30,
+        "_id": "37",
         "template": "plant",
         "label": "Barba de gato",
         "sublabel": "Homalocarpus dichotomus",
         "searchText": "herbhierbaflorrosadarosapurplepinkwhiteblancoblancasmall,pequeña",
-        "images": [
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Homalocarpus dichotomus",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Homalocarpus dichotomus - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Homalocarpus dichotomus - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Homalocarpus dichotomus - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Homalocarpus dichotomus - 03.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Homalocarpus dichotomus - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -2018,19 +2711,42 @@
         }
     },
     {
-        "_id": 31,
+        "_id": "38",
         "template": "plant",
         "label": "Tabaco de Cerro",
         "sublabel": "Nicotiana acuminata",
         "searchText": "florhierbaflowerherbblancawhiteblancogreenverde,native",
-        "images": [
-            null,
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Nicotiana acuminata",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Nicotiana acuminata - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Nicotiana acuminata - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Nicotiana acuminata - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Nicotiana acuminata - 03.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Nicotiana acuminata - 04.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Nicotiana acuminata - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -2063,19 +2779,42 @@
         }
     },
     {
-        "_id": 32,
+        "_id": "39",
         "template": "plant",
         "label": "Cryptantha",
         "sublabel": "Cryptantha sp.",
         "searchText": "hierbaherbcerro manquehuewhitehairpelos,blanca",
-        "images": [
-            null,
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Cryptantha sp.",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Cryptantha sp. - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Cryptantha sp. - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Cryptantha sp. - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Cryptantha sp. - 03.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Cryptantha sp. - 04.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Cryptantha sp. - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -2108,17 +2847,32 @@
         }
     },
     {
-        "_id": 33,
+        "_id": "40",
         "template": "plant",
         "label": "Manzanilla bastarda",
         "sublabel": "Anthemis sp.",
         "searchText": "hierbaamarilloblancoherbyellowwhite,amarga",
-        "images": [
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Anthemis sp.",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Anthemis sp. - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Anthemis sp. - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Anthemis sp. - 02.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Anthemis sp. - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -2151,24 +2905,72 @@
         }
     },
     {
-        "_id": 34,
+        "_id": "41",
         "template": "plant",
         "label": "Ortiguilla",
         "sublabel": "Amsinckia calycina",
         "searchText": "cerro manquehuehierbaamarilloamarillayellowpelosboraginaceaenativa,herbcerro manquehue",
-        "images": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Amsinckia calycina",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Amsinckia calycina - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Amsinckia calycina - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Amsinckia calycina - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Amsinckia calycina - 03.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Amsinckia calycina - 04.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Amsinckia calycina - 05.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Amsinckia calycina - 06.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Amsinckia calycina - 07.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Amsinckia calycina - 08.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Amsinckia calycina - 09.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Amsinckia calycina - 010.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Amsinckia calycina - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -2207,28 +3009,87 @@
         }
     },
     {
-        "_id": 35,
+        "_id": "42",
         "template": "plant",
         "label": "Hierba de la Culebra",
         "sublabel": "Fumaria agraria",
         "searchText": "rosadopinkfucsiablancowhiteflowerherbhierbaflor,cerro manquehuecerro manquehue",
-        "images": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Fumaria agraria",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Fumaria agraria - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Fumaria agraria - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Fumaria agraria - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Fumaria agraria - 03.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Fumaria agraria - 04.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Fumaria agraria - 05.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Fumaria agraria - 06.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Fumaria agraria - 07.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Fumaria agraria - 08.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Fumaria agraria - 09.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Fumaria agraria - 010.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Fumaria agraria - 011.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Fumaria agraria - 012.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Fumaria agraria - 013.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Fumaria agraria - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -2267,19 +3128,42 @@
         }
     },
     {
-        "_id": 36,
+        "_id": "43",
         "template": "plant",
         "label": "Té de Burro",
         "sublabel": "Phacelia brachyantha",
         "searchText": "cerro manquehuemoradopúrpurahierbapurple,herb",
-        "images": [
-            null,
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Phacelia brachyantha",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Phacelia brachyantha - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Phacelia brachyantha - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Phacelia brachyantha - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Phacelia brachyantha - 03.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Phacelia brachyantha - 04.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Phacelia brachyantha - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -2312,18 +3196,37 @@
         }
     },
     {
-        "_id": 37,
+        "_id": "44",
         "template": "plant",
         "label": "Cardo Santo",
         "sublabel": "Argemone sp.",
         "searchText": "cerro manquehue",
-        "images": [
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Argemone sp.",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Argemone sp. - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Argemone sp. - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Argemone sp. - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Argemone sp. - 03.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Argemone sp. - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -2356,16 +3259,27 @@
         }
     },
     {
-        "_id": 38,
+        "_id": "45",
         "template": "plant",
         "label": "Dedal de oro",
         "sublabel": "Eschscholzia californica",
         "searchText": "cerro manquehuenaranjahierbaherborangeintroducida,naturalizada",
-        "images": [
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Eschscholzia californica",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Eschscholzia californica - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Eschscholzia californica - 01.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Eschscholzia californica - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -2398,18 +3312,37 @@
         }
     },
     {
-        "_id": 39,
+        "_id": "46",
         "template": "plant",
         "label": "Culantrillo",
         "sublabel": "Adiantum chilense hirsutum",
         "searchText": "cerro manquehue",
-        "images": [
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Adiantum chilense hirsutum",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Adiantum chilense hirsutum - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Adiantum chilense hirsutum - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Adiantum chilense hirsutum - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Adiantum chilense hirsutum - 03.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Adiantum chilense hirsutum - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -2442,13 +3375,22 @@
         }
     },
     {
-        "_id": 40,
+        "_id": "47",
         "template": "plant",
         "label": "Bolsa del Pastor",
         "sublabel": "Capsella bursa-pastoris",
         "searchText": "cerro manquehue",
-        "images": [],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Capsella bursa-pastoris",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Capsella bursa-pastoris - 00.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Capsella bursa-pastoris - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -2481,13 +3423,22 @@
         }
     },
     {
-        "_id": 41,
+        "_id": "48",
         "template": "plant",
         "label": "Alfilerillo",
         "sublabel": "Erodium ciculatrium",
         "searchText": "cerro manquehue",
-        "images": [],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Erodium ciculatrium",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Erodium ciculatrium - 00.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Erodium ciculatrium - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -2520,23 +3471,62 @@
         }
     },
     {
-        "_id": 42,
+        "_id": "49",
         "template": "plant",
         "label": "Tralhuen",
         "sublabel": "Talguenea quinquinervia",
         "searchText": "cerro manquehuecerro manquehue",
-        "images": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Talguenea quinquinervia",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Talguenea quinquinervia - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Talguenea quinquinervia - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Talguenea quinquinervia - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Talguenea quinquinervia - 03.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Talguenea quinquinervia - 04.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Talguenea quinquinervia - 05.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Talguenea quinquinervia - 06.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Talguenea quinquinervia - 07.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Talguenea quinquinervia - 08.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Talguenea quinquinervia - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -2575,18 +3565,37 @@
         }
     },
     {
-        "_id": 43,
+        "_id": "50",
         "template": "plant",
         "label": "Adesmia",
         "sublabel": "Adesmia sp.",
         "searchText": "cerro manquehue",
-        "images": [
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Adesmia sp.",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Adesmia sp. - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Adesmia sp. - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Adesmia sp. - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Adesmia sp. - 03.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Adesmia sp. - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -2619,16 +3628,27 @@
         }
     },
     {
-        "_id": 44,
+        "_id": "51",
         "template": "plant",
         "label": "Core-core",
         "sublabel": "Geranium berteroanum",
         "searchText": "cerro manquehue",
-        "images": [
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Geranium berteroanum",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Geranium berteroanum - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Geranium berteroanum - 01.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Geranium berteroanum - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -2661,16 +3681,37 @@
         }
     },
     {
-        "_id": 45,
+        "_id": "52",
         "template": "plant",
         "label": "Almizcle",
         "sublabel": "Moscharia pinnatifida",
         "searchText": "cerro manquehuecerro manquehue",
-        "images": [
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Moscharia pinnatifida",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Moscharia pinnatifida - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Moscharia pinnatifida - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Moscharia pinnatifida - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Moscharia pinnatifida - 03.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Moscharia pinnatifida - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -2709,15 +3750,34 @@
         }
     },
     {
-        "_id": 46,
+        "_id": "53",
         "template": "invertebrate",
         "label": "Mariposa de la tarde",
         "sublabel": "Vanessa carye",
         "searchText": "cerro manquehuebutterfly,cerro manquehue",
-        "images": [],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
+        "images": {
+            "baseName": "Vanessa carye",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Vanessa carye - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Vanessa carye - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Vanessa carye - 02.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Vanessa carye - 00.jpg",
+        "group": "artropoda",
+        "subgroup": "artropoda",
         "details": {
             "genus": "Vanessa",
             "specie": "carye",
@@ -2755,16 +3815,27 @@
         }
     },
     {
-        "_id": 47,
+        "_id": "54",
         "template": "bird",
         "label": "Tiuque",
         "sublabel": "Milvago chimango",
         "searchText": "cerro manquehue",
-        "images": [
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Milvago chimango",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Milvago chimango - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Milvago chimango - 01.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Milvago chimango - 00.jpg",
         "group": "bird",
         "subgroup": "bird",
         "details": {
@@ -2797,16 +3868,27 @@
         }
     },
     {
-        "_id": 48,
+        "_id": "55",
         "template": "bird",
         "label": "Rara",
         "sublabel": "Phytotoma rara",
         "searchText": "cerro manquehue",
-        "images": [
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Phytotoma rara",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Phytotoma rara - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Phytotoma rara - 01.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Phytotoma rara - 00.jpg",
         "group": "bird",
         "subgroup": "bird",
         "details": {
@@ -2839,18 +3921,37 @@
         }
     },
     {
-        "_id": 49,
+        "_id": "56",
         "template": "bird",
         "label": "Cometocino",
         "sublabel": "Phrygilus patagonicus",
         "searchText": "cerro manquehue",
-        "images": [
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Phrygilus patagonicus",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Phrygilus patagonicus - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Phrygilus patagonicus - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Phrygilus patagonicus - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Phrygilus patagonicus - 03.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Phrygilus patagonicus - 00.jpg",
         "group": "bird",
         "subgroup": "bird",
         "details": {
@@ -2883,18 +3984,37 @@
         }
     },
     {
-        "_id": 50,
+        "_id": "57",
         "template": "bird",
         "label": "Chercán",
         "sublabel": "Troglodytes aedon",
         "searchText": "cerro manquehue",
-        "images": [
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Troglodytes aedon",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Troglodytes aedon - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Troglodytes aedon - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Troglodytes aedon - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Troglodytes aedon - 03.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Troglodytes aedon - 00.jpg",
         "group": "bird",
         "subgroup": "bird",
         "details": {
@@ -2927,18 +4047,37 @@
         }
     },
     {
-        "_id": 51,
+        "_id": "58",
         "template": "bird",
         "label": "Jilguero",
         "sublabel": "Carduelis barbata",
         "searchText": "cerro manquehue",
-        "images": [
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Carduelis barbata",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Carduelis barbata - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Carduelis barbata - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Carduelis barbata - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Carduelis barbata - 03.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Carduelis barbata - 00.jpg",
         "group": "bird",
         "subgroup": "bird",
         "details": {
@@ -2971,17 +4110,32 @@
         }
     },
     {
-        "_id": 52,
+        "_id": "59",
         "template": "plant",
         "label": "Quisco",
         "sublabel": "Echinopsis chiloensis",
         "searchText": "cerro manquehue",
-        "images": [
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Echinopsis chiloensis",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Echinopsis chiloensis - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Echinopsis chiloensis - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Echinopsis chiloensis - 02.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Echinopsis chiloensis - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -3014,19 +4168,34 @@
         }
     },
     {
-        "_id": 53,
+        "_id": "60",
         "template": "invertebrate",
         "label": "Springtails",
         "sublabel": "Collembola sp.",
         "searchText": "cerro manquehue",
-        "images": [
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
+        "images": {
+            "baseName": "Collembola sp.",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Collembola sp. - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Collembola sp. - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Collembola sp. - 02.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Collembola sp. - 00.jpg",
+        "group": "artropoda",
+        "subgroup": "artropoda",
         "details": {
             "genus": "Collembola",
             "specie": "sp.",
@@ -3057,16 +4226,27 @@
         }
     },
     {
-        "_id": 54,
+        "_id": "61",
         "template": "bird",
         "label": "Minero",
         "sublabel": "Geositta sp.",
         "searchText": "cerro manquehue",
-        "images": [
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Geositta sp.",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Geositta sp. - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Geositta sp. - 01.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Geositta sp. - 00.jpg",
         "group": "bird",
         "subgroup": "bird",
         "details": {
@@ -3099,13 +4279,22 @@
         }
     },
     {
-        "_id": 55,
+        "_id": "62",
         "template": "plant",
         "label": "Chagual",
         "sublabel": "Puya sp.",
         "searchText": "cerro manquehue",
-        "images": [],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Puya sp.",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Puya sp. - 00.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Puya sp. - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -3114,7 +4303,7 @@
             "commonNames": [
                 "Chagual"
             ],
-            "biology": "Efflorescence of a Chagual.",
+            "biology": "Efflorescence of a Chagual. ",
             "identifyingCharacteristics": "",
             "use": "",
             "flower": [],
@@ -3138,17 +4327,125 @@
         }
     },
     {
-        "_id": 56,
+        "_id": "63",
+        "template": "invertebrate",
+        "label": "Sírfido",
+        "sublabel": "Syrphidae",
+        "searchText": "cerro manquehuecerro manquehue",
+        "images": {
+            "baseName": "Syrphidae",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Syrphidae - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Syrphidae - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Syrphidae - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Syrphidae - 03.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Syrphidae - 04.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Syrphidae - 05.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Syrphidae - 06.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Syrphidae - 07.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Syrphidae - 08.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Syrphidae - 00.jpg",
+        "group": "artropoda",
+        "subgroup": "artropoda",
+        "details": {
+            "genus": "Syrphidae",
+            "commonNames": [
+                "Sírfido"
+            ],
+            "biology": "Syrphidae",
+            "identifyingCharacteristics": "",
+            "use": "",
+            "flower": [],
+            "fruit": [],
+            "etymology": "",
+            "distribution": "",
+            "habitat": "",
+            "nativeStatus": "",
+            "conservationStatuses": [],
+            "descripted": "",
+            "synonymum": [],
+            "sources": [],
+            "spottings": [
+                {
+                    "noahId": "38225063",
+                    "latitude": "-33.3507270008",
+                    "longitude": "-70.564313568",
+                    "date": "2012-07-15 00:00:00"
+                },
+                {
+                    "noahId": "38449360",
+                    "latitude": "-33.3455490389",
+                    "longitude": "-70.5685863269",
+                    "date": "2012-07-15 00:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "_id": "64",
         "template": "plant",
         "label": "Toronjil Cuyano",
         "sublabel": "Marrubium vulgare",
         "searchText": "cerro manquehueplantaarbustoverdepelohairbush,green",
-        "images": [
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Marrubium vulgare",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Marrubium vulgare - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Marrubium vulgare - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Marrubium vulgare - 02.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Marrubium vulgare - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -3181,23 +4478,62 @@
         }
     },
     {
-        "_id": 57,
+        "_id": "65",
         "template": "plant",
         "label": "ortiga macho",
         "sublabel": "Loasa placei",
         "searchText": "cerro manquehueloasaortigachilecerro manquehue,santiago",
-        "images": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Loasa placei",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Loasa placei - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Loasa placei - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Loasa placei - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Loasa placei - 03.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Loasa placei - 04.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Loasa placei - 05.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Loasa placei - 06.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Loasa placei - 07.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Loasa placei - 08.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Loasa placei - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -3237,16 +4573,27 @@
         }
     },
     {
-        "_id": 58,
+        "_id": "66",
         "template": "plant",
         "label": "Ortiga",
         "sublabel": "Urtica urens",
         "searchText": "cerro manquehue",
-        "images": [
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Urtica urens",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Urtica urens - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Urtica urens - 01.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Urtica urens - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -3279,20 +4626,47 @@
         }
     },
     {
-        "_id": 59,
+        "_id": "67",
         "template": "bird",
         "label": "Diuca",
         "sublabel": "Diuca diuca",
         "searchText": "cerro manquehuecerro manquehue",
-        "images": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Diuca diuca",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Diuca diuca - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Diuca diuca - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Diuca diuca - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Diuca diuca - 03.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Diuca diuca - 04.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Diuca diuca - 05.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Diuca diuca - 00.jpg",
         "group": "bird",
         "subgroup": "bird",
         "details": {
@@ -3331,17 +4705,32 @@
         }
     },
     {
-        "_id": 60,
+        "_id": "68",
         "template": "fungi",
         "label": "Stereum hirsutum",
         "sublabel": "Stereum hirsutum",
         "searchText": "cerro manquehue",
-        "images": [
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Stereum hirsutum",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Stereum hirsutum - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Stereum hirsutum - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Stereum hirsutum - 02.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Stereum hirsutum - 00.jpg",
         "group": "fungi",
         "subgroup": "fungi",
         "details": {
@@ -3374,22 +4763,57 @@
         }
     },
     {
-        "_id": 61,
+        "_id": "69",
         "template": "plant",
         "label": "Quillay",
         "sublabel": "Quillaja saponaria",
         "searchText": "cerro manquehuecerro manquehue",
-        "images": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Quillaja saponaria",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Quillaja saponaria - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Quillaja saponaria - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Quillaja saponaria - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Quillaja saponaria - 03.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Quillaja saponaria - 04.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Quillaja saponaria - 05.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Quillaja saponaria - 06.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Quillaja saponaria - 07.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Quillaja saponaria - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -3428,17 +4852,32 @@
         }
     },
     {
-        "_id": 62,
+        "_id": "70",
         "template": "bird",
         "label": "Colibrí",
         "sublabel": "Sephanoides sephaniodes",
         "searchText": "hummingbird,cerro manquehue",
-        "images": [
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Sephanoides sephaniodes",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Sephanoides sephaniodes - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Sephanoides sephaniodes - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Sephanoides sephaniodes - 02.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Sephanoides sephaniodes - 00.jpg",
         "group": "bird",
         "subgroup": "bird",
         "details": {
@@ -3471,17 +4910,32 @@
         }
     },
     {
-        "_id": 63,
+        "_id": "71",
         "template": "plant",
         "label": "Rimu",
         "sublabel": "Oxalis perdicaria",
         "searchText": "cerro manquehue",
-        "images": [
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Oxalis perdicaria",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Oxalis perdicaria - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Oxalis perdicaria - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Oxalis perdicaria - 02.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Oxalis perdicaria - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -3514,13 +4968,22 @@
         }
     },
     {
-        "_id": 64,
+        "_id": "72",
         "template": "fungi",
         "label": "Liquen",
         "sublabel": "Teloschistes chrysophthalmus",
         "searchText": "liquenlichen,cerro manquehue",
-        "images": [],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Teloschistes chrysophthalmus",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Teloschistes chrysophthalmus - 00.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Teloschistes chrysophthalmus - 00.jpg",
         "group": "fungi",
         "subgroup": "fungi",
         "details": {
@@ -3553,16 +5016,27 @@
         }
     },
     {
-        "_id": 65,
+        "_id": "73",
         "template": "plant",
         "label": "Espino",
         "sublabel": "Acacia caven",
         "searchText": "cerro manquehue",
-        "images": [
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Acacia caven",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Acacia caven - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Acacia caven - 01.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Acacia caven - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -3595,17 +5069,32 @@
         }
     },
     {
-        "_id": 66,
+        "_id": "74",
         "template": "bird",
         "label": "Peuco / Harris's Hawk",
         "sublabel": "Parabuteo unicinctus",
         "searchText": "raptorcerro manquehuehawkeagleáguila,aguilucho",
-        "images": [
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Parabuteo unicinctus",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Parabuteo unicinctus - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Parabuteo unicinctus - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Parabuteo unicinctus - 02.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Parabuteo unicinctus - 00.jpg",
         "group": "bird",
         "subgroup": "bird",
         "details": {
@@ -3638,13 +5127,22 @@
         }
     },
     {
-        "_id": 67,
+        "_id": "75",
         "template": "bird",
         "label": "Tenca / Chilean mockingbird",
         "sublabel": "Mimus thenca",
         "searchText": "",
-        "images": [],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Mimus thenca",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Mimus thenca - 00.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Mimus thenca - 00.jpg",
         "group": "bird",
         "subgroup": "bird",
         "details": {
@@ -3677,18 +5175,29 @@
         }
     },
     {
-        "_id": 68,
+        "_id": "76",
         "template": "invertebrate",
         "label": "Grass Skipper",
         "sublabel": "Hylephila faschiolata",
         "searchText": "mariposabutterfly,cerro manquehue",
-        "images": [
-            null,
-            null
-        ],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
+        "images": {
+            "baseName": "Hylephila faschiolata",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Hylephila faschiolata - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Hylephila faschiolata - 01.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Hylephila faschiolata - 00.jpg",
+        "group": "artropoda",
+        "subgroup": "artropoda",
         "details": {
             "genus": "Hylephila",
             "specie": "faschiolata",
@@ -3719,17 +5228,32 @@
         }
     },
     {
-        "_id": 69,
+        "_id": "77",
         "template": "bird",
         "label": "Loica",
         "sublabel": "Sturnella loyca",
         "searchText": "cerro manquehue",
-        "images": [
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Sturnella loyca",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Sturnella loyca - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Sturnella loyca - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Sturnella loyca - 02.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Sturnella loyca - 00.jpg",
         "group": "bird",
         "subgroup": "bird",
         "details": {
@@ -3762,15 +5286,24 @@
         }
     },
     {
-        "_id": 70,
+        "_id": "78",
         "template": "invertebrate",
         "label": "Mariposa Blanca",
         "sublabel": "Tatochila sp.",
         "searchText": "",
-        "images": [],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
+        "images": {
+            "baseName": "Tatochila sp.",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Tatochila sp. - 00.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Tatochila sp. - 00.jpg",
+        "group": "artropoda",
+        "subgroup": "artropoda",
         "details": {
             "genus": "Tatochila",
             "specie": "sp.",
@@ -3801,19 +5334,34 @@
         }
     },
     {
-        "_id": 71,
+        "_id": "79",
         "template": "invertebrate",
         "label": "Dischistus fly",
         "sublabel": "Dischistus maculatus",
         "searchText": "moscasflychile,cerro manquehue",
-        "images": [
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
+        "images": {
+            "baseName": "Dischistus maculatus",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Dischistus maculatus - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Dischistus maculatus - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Dischistus maculatus - 02.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Dischistus maculatus - 00.jpg",
+        "group": "artropoda",
+        "subgroup": "artropoda",
         "details": {
             "genus": "Dischistus",
             "specie": "maculatus",
@@ -3844,13 +5392,22 @@
         }
     },
     {
-        "_id": 72,
+        "_id": "80",
         "template": "bird",
         "label": "Zorzal",
         "sublabel": "Turdus falcklandii",
         "searchText": "avespájarosbirdschile,santiago",
-        "images": [],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Turdus falcklandii",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Turdus falcklandii - 00.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Turdus falcklandii - 00.jpg",
         "group": "bird",
         "subgroup": "bird",
         "details": {
@@ -3883,18 +5440,37 @@
         }
     },
     {
-        "_id": 73,
+        "_id": "81",
         "template": "plant",
         "label": "Cardo Blanco",
         "sublabel": "Silybum marianum",
         "searchText": "cardocerro manquehue,milk thistle",
-        "images": [
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Silybum marianum",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Silybum marianum - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Silybum marianum - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Silybum marianum - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Silybum marianum - 03.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Silybum marianum - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -3927,19 +5503,99 @@
         }
     },
     {
-        "_id": 74,
+        "_id": "82",
+        "template": "invertebrate",
+        "label": "Green cuckoo wasp",
+        "sublabel": "Chrysididae",
+        "searchText": "",
+        "images": {
+            "baseName": "Chrysididae",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Chrysididae - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Chrysididae - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Chrysididae - 02.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Chrysididae - 00.jpg",
+        "group": "artropoda",
+        "subgroup": "artropoda",
+        "details": {
+            "genus": "Chrysididae",
+            "commonNames": [
+                "Green cuckoo wasp"
+            ],
+            "biology": "",
+            "identifyingCharacteristics": "",
+            "use": "",
+            "flower": [],
+            "fruit": [],
+            "etymology": "",
+            "distribution": "",
+            "habitat": "",
+            "nativeStatus": "",
+            "conservationStatuses": [],
+            "descripted": "",
+            "synonymum": [],
+            "sources": [],
+            "spottings": [
+                {
+                    "noahId": "16954539",
+                    "latitude": "-33.3313549862",
+                    "longitude": "-70.5717958899",
+                    "date": "2012-11-11 00:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "_id": "83",
         "template": "bird",
         "label": "Fire-eyed Diucon",
         "sublabel": "Xolmis pyrope",
         "searchText": "",
-        "images": [
-            null,
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Xolmis pyrope",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Xolmis pyrope - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Xolmis pyrope - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Xolmis pyrope - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Xolmis pyrope - 03.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Xolmis pyrope - 04.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Xolmis pyrope - 00.jpg",
         "group": "bird",
         "subgroup": "bird",
         "details": {
@@ -3972,17 +5628,84 @@
         }
     },
     {
-        "_id": 75,
+        "_id": "84",
+        "template": "invertebrate",
+        "label": "Avispa Pompilidae ?",
+        "sublabel": "Pompilidae",
+        "searchText": "avispa,wasp",
+        "images": {
+            "baseName": "Pompilidae",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Pompilidae - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Pompilidae - 01.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Pompilidae - 00.jpg",
+        "group": "artropoda",
+        "subgroup": "artropoda",
+        "details": {
+            "genus": "Pompilidae",
+            "commonNames": [
+                "Avispa Pompilidae ?"
+            ],
+            "biology": "This wasp was smallabout 10 mm long (without the antennae).<br>\n <br>\nEsta avispa era chica,unos 10 mm de largo (sin antenas).",
+            "identifyingCharacteristics": "",
+            "use": "",
+            "flower": [],
+            "fruit": [],
+            "etymology": "",
+            "distribution": "",
+            "habitat": "",
+            "nativeStatus": "",
+            "conservationStatuses": [],
+            "descripted": "",
+            "synonymum": [],
+            "sources": [],
+            "spottings": [
+                {
+                    "noahId": "14962213",
+                    "latitude": "-33.3343489158",
+                    "longitude": "-70.5678369494",
+                    "date": "2012-10-09 00:00:00"
+                }
+            ]
+        }
+    },
+    {
+        "_id": "85",
         "template": "plant",
         "label": "Ortiga Caballuna,Cardito",
         "sublabel": "Loasa tricolor",
         "searchText": "",
-        "images": [
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Loasa tricolor",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Loasa tricolor - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Loasa tricolor - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Loasa tricolor - 02.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Loasa tricolor - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -4015,17 +5738,32 @@
         }
     },
     {
-        "_id": 76,
+        "_id": "86",
         "template": "plant",
         "label": "Veronica persica (Persian Speedwell)",
         "sublabel": "Veronica persica",
         "searchText": "chilesantiagocerro manquehuepequeñachicasmallground cover,cubre suelo",
-        "images": [
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
+        "images": {
+            "baseName": "Veronica persica",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Veronica persica - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Veronica persica - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Veronica persica - 02.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Veronica persica - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
@@ -4058,21 +5796,44 @@
         }
     },
     {
-        "_id": 77,
+        "_id": "87",
         "template": "reptile",
         "label": "Lagartija café,Brown lizard",
         "sublabel": "Liolaemus lemniscatus",
         "searchText": "lizard,lagartija",
-        "images": [
-            null,
-            null,
-            null,
-            null,
-            null
-        ],
-        "thumbnail": "",
-        "group": "reptile",
-        "subgroup": "reptile",
+        "images": {
+            "baseName": "Liolaemus lemniscatus",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Liolaemus lemniscatus - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Liolaemus lemniscatus - 01.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Liolaemus lemniscatus - 02.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Liolaemus lemniscatus - 03.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Liolaemus lemniscatus - 04.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Liolaemus lemniscatus - 00.jpg",
+        "group": "reptilia",
+        "subgroup": "reptilia",
         "details": {
             "genus": "Liolaemus",
             "specie": "lemniscatus",
@@ -4103,18 +5864,29 @@
         }
     },
     {
-        "_id": 78,
+        "_id": "88",
         "template": "reptile",
         "label": "Lagartija oscura,Brown Tree Iguana",
         "sublabel": "Liolaemus fuscus",
         "searchText": "",
-        "images": [
-            null,
-            null
-        ],
-        "thumbnail": "",
-        "group": "reptile",
-        "subgroup": "reptile",
+        "images": {
+            "baseName": "Liolaemus fuscus",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Liolaemus fuscus - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Liolaemus fuscus - 01.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Liolaemus fuscus - 00.jpg",
+        "group": "reptilia",
+        "subgroup": "reptilia",
         "details": {
             "genus": "Liolaemus",
             "specie": "fuscus",
@@ -4145,18 +5917,29 @@
         }
     },
     {
-        "_id": 79,
+        "_id": "89",
         "template": "invertebrate",
         "label": "Chinita chilena",
         "sublabel": "Eriopis connexa ssp. chilensis",
         "searchText": "",
-        "images": [
-            null,
-            null
-        ],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
+        "images": {
+            "baseName": "Eriopis connexa ssp. chilensis",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Eriopis connexa ssp. chilensis - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Eriopis connexa ssp. chilensis - 01.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Eriopis connexa ssp. chilensis - 00.jpg",
+        "group": "artropoda",
+        "subgroup": "artropoda",
         "details": {
             "genus": "Eriopis",
             "specie": "connexa",
@@ -4187,18 +5970,29 @@
         }
     },
     {
-        "_id": 80,
+        "_id": "90",
         "template": "invertebrate",
         "label": "Hesperia del Pasto,Branded Skipper",
         "sublabel": "Hylephila sp.",
         "searchText": "",
-        "images": [
-            null,
-            null
-        ],
-        "thumbnail": "",
-        "group": "invertebrate",
-        "subgroup": "invertebrate",
+        "images": {
+            "baseName": "Hylephila sp.",
+            "list": [
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Hylephila sp. - 00.jpg",
+                    "imageDescription": ""
+                },
+                {
+                    "credit": "Agustín Amenabar L.",
+                    "filename": "pnd - Hylephila sp. - 01.jpg",
+                    "imageDescription": ""
+                }
+            ]
+        },
+        "thumbnail": "pnd - Hylephila sp. - 00.jpg",
+        "group": "artropoda",
+        "subgroup": "artropoda",
         "details": {
             "genus": "Hylephila",
             "specie": "sp.",

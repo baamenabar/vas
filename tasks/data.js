@@ -25,7 +25,7 @@ exports.convertCSV = function() {
 			if (err) {
 				console.log('The has been an error looping the spottings',err);
 			}
-			fs.writeFile('./species-data-list.json', JSON.stringify(species, null, 4), console.log('wrote json file'));
+			fs.writeFile('./src_data/species-data-list.json', JSON.stringify(species, null, 4), console.log('wrote json file'));
 		});
 		//console.log(jsonObj[3]['Noah ID']); //here be magic
 	});
@@ -40,6 +40,7 @@ var spottingToSpecie = function(spotting, callback){
 	if(!currSpecie){
 		var binominal = spotting['Scientific Name'];
 		var taxa = binominal.split(' ');
+		console.log(binominal + 'not fount in list, creating new.');
 		currSpecie = {
 			_id: globalCount,
 			template	: spotting.Category,
@@ -83,7 +84,7 @@ var spottingToSpecie = function(spotting, callback){
 		newSpecie = true;
 		globalCount++;
 	}else{
-		
+		console.log(currSpecie.sublabel + ' found in list, adding data.');
 		currSpecie.searchText += spotting.Tags;
 		if(currSpecie.details.commonNames.indexOf(spotting['Common Name']) == -1){
 			currSpecie.details.commonNames.push(spotting['Common Name']);
@@ -127,24 +128,42 @@ var loadSpottingImages = function(imagesList, spotting, callback) {
 			return console.log('Error whie trying to load spotting page', err);
 		}
 		var $ = cheerio.load(html);
-		$('.photo-switcher-photo img').each(function(i,ele) {
-			imagesList.list.push($(this).attr('src').split('=s')[0]);
+		var sselector = $('.photo-switcher-photo img');
+		if(!sselector.get().length){
+			console.log('there is only one image, ');
+			sselector = $('#spotting_image');
+		}
+		sselector.each(function(i,ele) {
+			var remoteUri = $(this).attr('src').split('=s')[0];
+			imagesList.list.push({
+				remote:remoteUri,
+				local:'pnd - '+imagesList.baseName+' - 0'+imagesList.list.length+'.jpg'
+			});
 		});
-		async.eachSeries(imagesList.list,download.bind(null, imagesList.baseName), function(err){
-			console.log('all images for this list have been downloaded');
+		async.eachSeries(imagesList.list, download, function(err){
+			console.log('all images for '+imagesList.baseName+' have been downloaded');
 			callback();
 		} );
 	});
 };
 
-var download = function(baseName, uri, callback){
-	console.log('trying to download '+uri+' and save to '+baseName);
-	var fullUri = uri+'=s800';//to make the image 800px wide
+var download = function(uris, callback){
+	console.log('trying to download '+uris.remote+' and save to '+uris.local);
+	var imagesPath = './src_data/imgs/';
+	if( fs.existsSync( imagesPath+uris.local ) ){
+		console.log('image already exists, skipping');
+		return callback();
+	}
+	var fullUri = uris.remote+'=s800';//to make the image 800px wide
   request.head(fullUri, function(err, res, body){
     console.log('content-type:', res.headers['content-type']);
     console.log('content-length:', res.headers['content-length']);
+    if (err) {
+    	console.log('There was an error retrieveing the image',err);
+    	callback(err);
+    }
 
-    request(fullUri).pipe(fs.createWriteStream('./src_data/imgs/pnd - '+baseName+'-'+uri.substr(-14)+'.jpg')).on('close', callback);
+    request(fullUri).pipe(fs.createWriteStream(imagesPath+uris.local)).on('close', callback);
   });
 };
 
@@ -158,4 +177,76 @@ var findInSpecies = function(spotting){
 		}
 	}
 	return false;
+};
+
+exports.createThumbnails = function(callback) {
+	fs.readFile('./src_data/species-data-list.json', 'utf8', function (err, data) {
+		if (err) {
+			console.log('Error: ' + err);
+			return;
+		}
+
+		species = JSON.parse(data);
+
+		//console.dir(data);
+		async.eachSeries(species, findAndAsignThumbnail, function(err){
+			if (err) {
+				console.log('Hubo un error asignando thumbnails',err);
+			}else{
+				convertTerms(function() {
+					fs.writeFile('./www/data/species-data-list.json', JSON.stringify(species, null, 4), console.log('wrote json file'));
+					callback();
+				});
+			}
+		});
+	});
+};
+
+var findAndAsignThumbnail = function(specie, callback){
+	if(!specie.images.list[0]){
+		console.log('Fatal error, missing images for: ',specie.images);
+		callback('Fatal error, missing images for: '+specie.images.baseName);
+	}
+	specie.thumbnail = specie.images.list[0].local;
+	fs.createReadStream('./src_data/imgs/'+specie.thumbnail).pipe(fs.createWriteStream('./src_data/imgs/thumbs/'+specie.thumbnail));
+	var tList = [];
+	for(var i = 0; i < specie.images.list.length; i++){
+		tList.push({
+			credit:'Agustín Amenabar L.',
+			filename: specie.images.list[i].local,
+			imageDescription:''
+		});
+	}
+	specie.images.list = tList;
+	callback();
+};
+
+exports.termsManipulation = function() {
+	fs.readFile('./www/data/species-data-list.json', 'utf8', function (err, data) {
+		if (err) {
+			console.log('Error: ' + err);
+			return;
+		}
+
+		species = JSON.parse(data);
+
+		convertTerms(function() {
+			fs.writeFile('./www/data/species-data-list.json', JSON.stringify(species, null, 4), console.log('wrote json file'));
+		});
+	});
+};
+
+var convertTerms = function(callback) {
+	for (var i = 0; i < species.length; i++) {
+		var specie = species[i];
+		if(specie.group === 'invertebrate'){
+			specie.subgroup = specie.group = 'artropoda';
+		}else if(specie.group === 'reptile'){
+			specie.subgroup = specie.group = 'reptilia';
+		}
+		/*for (var e = 0; e < specie.images.length; e++) {
+			var oneImage = specie.images[e]
+		};*/
+	}
+	callback();
 };

@@ -1,7 +1,7 @@
 <ion-view title="{{oneItem.label}}">
 	<ion-content class="has-header">
 		<ion-slide-box class="images-slide">
-			<ion-slide ng-repeat="image in oneItem.images">
+			<ion-slide ng-repeat="image in oneItem.images.list">
 				<img ng-src="img/species/320/{{image.filename}}">
 				<div class="label">
 					<p class="description">{{image.imageDescription}}</p>
