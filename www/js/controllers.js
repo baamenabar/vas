@@ -66,4 +66,8 @@ angular.module('guiaVas.controllers', [])
 
 .controller('calugasCtrl', function($scope) {
 	
-});
+})
+/*
+.controller('mapaCtrl', function($scope) {
+	
+})*/;
