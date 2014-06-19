@@ -93,13 +93,17 @@ gulp.task('images',function(done) {
 });
 
 gulp.task('convert',function() {
-  vasConvert.convertCSV();
+  vasConvert.convertCSV(function(){
+    vasConvert.createThumbnails();
+  });
 });
 
 gulp.task('thumbs',function() {
-  vasConvert.createThumbnails(function() {
+  /*vasConvert.createThumbnails(function() {
     console.log('terminamos copiado de thumbs');
-    gulp.src('./src_data/imgs/thumbs/*.*')
+    
+  });*/
+  gulp.src('./src_data/imgs/thumbs/*.*')
     .pipe(imageResize({
       width:400,
       height:300,
@@ -111,8 +115,6 @@ gulp.task('thumbs',function() {
       progressive: true
     }))
     .pipe(gulp.dest('./www/img/species/thumbs/'));
-  });
-
 });
 
 gulp.task('terms',function() {

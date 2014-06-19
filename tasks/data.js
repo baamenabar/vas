@@ -134,6 +134,13 @@ var loadSpottingImages = function(imagesList, spotting, callback) {
 			return;
 		}
 		var $ = cheerio.load(html);
+		var author = $('.spotting-ava-text a');
+		var credit = '';
+		if(author.get().length){
+			credit = author.text();
+			console.log('The author is: ', credit);
+		}
+
 		var sselector = $('.photo-switcher-photo img');
 		if(!sselector.get().length){
 			console.log('there is only one image ');
@@ -148,7 +155,8 @@ var loadSpottingImages = function(imagesList, spotting, callback) {
 			//console.log('remoteUri is: '+remoteUri);
 			imagesList.list.push({
 				remote:remoteUri,
-				local:'pnd - '+imagesList.baseName+' - 0'+imagesList.list.length+'.jpg'
+				local:'pnd - '+imagesList.baseName+' - 0'+imagesList.list.length+'.jpg',
+				credit: credit
 			});
 		});
 		if (importImages) {
@@ -209,7 +217,7 @@ exports.createThumbnails = function(callback) {
 				console.log('Hubo un error asignando thumbnails',err);
 			}else{
 				convertTerms(function() {
-					fs.writeFile('./www/data/species-data-list.json', JSON.stringify(species, null, 4), console.log('wrote json file'));
+					fs.writeFile('./src_data/species-data-list.json', JSON.stringify(species, null, 4), console.log('wrote json file'));
 					callback();
 				});
 			}
@@ -227,7 +235,7 @@ var findAndAsignThumbnail = function(specie, callback){
 	var tList = [];
 	for(var i = 0; i < specie.images.list.length; i++){
 		tList.push({
-			credit:'Agustín Amenabar L.',
+			credit:specie.images.list[i].credit,
 			filename: specie.images.list[i].local,
 			imageDescription:''
 		});
@@ -237,7 +245,7 @@ var findAndAsignThumbnail = function(specie, callback){
 };
 
 exports.termsManipulation = function() {
-	fs.readFile('./www/data/species-data-list.json', 'utf8', function (err, data) {
+	fs.readFile('./src_data/species-data-list.json', 'utf8', function (err, data) {
 		if (err) {
 			console.log('Error: ' + err);
 			return;
@@ -246,7 +254,7 @@ exports.termsManipulation = function() {
 		species = JSON.parse(data);
 
 		convertTerms(function() {
-			fs.writeFile('./www/data/species-data-list.json', JSON.stringify(species, null, 4), console.log('wrote json file'));
+			fs.writeFile('./www/data/species-data-list.json', JSON.stringify(species, null, 4), console.log('wrote json file on www/data folder'));
 		});
 	});
 };
