@@ -1,4 +1,4 @@
-var Converter = require('csvtojson').core.Converter;//https://www.npmjs.org/package/csvtojson
+var Converter = require('csvtojson').core.Converter;// https://www.npmjs.org/package/csvtojson
 var fs=require('fs');
 var async = require('async');
 var cheerio = require('cheerio');
@@ -34,15 +34,16 @@ exports.convertCSV = function() {
 };
 
 var spottingToSpecie = function(spotting, callback){
+
 	console.log('begin parse of: '+spotting['Scientific Name']);
 	var newSpecie = false;
 	currSpecie = findInSpecies(spotting);
 	if(!currSpecie){
 		var binominal = spotting['Scientific Name'];
 		var taxa = binominal.split(' ');
-		console.log(binominal + 'not fount in list, creating new.');
+		console.log(binominal + ' not fount in list, creating new.');
 		currSpecie = {
-			_id: globalCount,
+			_id: globalCount.toString(),
 			template	: spotting.Category,
 			label 		: spotting['Common Name'],
 			sublabel	: binominal,
@@ -106,7 +107,6 @@ var spottingToSpecie = function(spotting, callback){
 	}
 
 //---------- import images
-
 	loadSpecieImages(currSpecie, function(){
 		if(newSpecie)species.push(currSpecie);
 		callback();
@@ -115,7 +115,8 @@ var spottingToSpecie = function(spotting, callback){
 
 var loadSpecieImages = function(specie, callback) {
 	//specie.images
-	async.eachSeries(specie.details.spottings, loadSpottingImages.bind(null, specie.images), function(err) {
+
+	loadSpottingImages(specie.images, specie.details.spottings[specie.details.spottings.length-1], function(err) {
 		console.log('now images has :'+specie.images.list.length, 'elements');		
 		callback();	
 	});
@@ -123,27 +124,41 @@ var loadSpecieImages = function(specie, callback) {
 
 var loadSpottingImages = function(imagesList, spotting, callback) {
 	//imagesList;
-	request('http://www.projectnoah.org/spottings/'+spotting.noahId, function(err, resp, html) {
+	var importImages = true;
+
+	var spottingUrl = 'http://www.projectnoah.org/spottings/'+spotting.noahId;
+	request(spottingUrl, function(err, resp, html) {
 		if(err){
-			return console.log('Error whie trying to load spotting page', err);
+			console.log('Error whie trying to load spotting page', err, 'skipping image');
+			callback();
+			return;
 		}
 		var $ = cheerio.load(html);
 		var sselector = $('.photo-switcher-photo img');
 		if(!sselector.get().length){
-			console.log('there is only one image, ');
+			console.log('there is only one image ');
 			sselector = $('#spotting_image');
+		}
+		if(!sselector.get().length){
+			console.log('No image found at: ',spottingUrl);
+			callback();
 		}
 		sselector.each(function(i,ele) {
 			var remoteUri = $(this).attr('src').split('=s')[0];
+			//console.log('remoteUri is: '+remoteUri);
 			imagesList.list.push({
 				remote:remoteUri,
 				local:'pnd - '+imagesList.baseName+' - 0'+imagesList.list.length+'.jpg'
 			});
 		});
-		async.eachSeries(imagesList.list, download, function(err){
-			console.log('all images for '+imagesList.baseName+' have been downloaded');
+		if (importImages) {
+			async.eachSeries(imagesList.list, download, function(err){
+				console.log(imagesList.list.length+' images for '+imagesList.baseName+' have been downloaded');
+				callback();
+			} );
+		}else{
 			callback();
-		} );
+		}
 	});
 };
 
@@ -244,9 +259,6 @@ var convertTerms = function(callback) {
 		}else if(specie.group === 'reptile'){
 			specie.subgroup = specie.group = 'reptilia';
 		}
-		/*for (var e = 0; e < specie.images.length; e++) {
-			var oneImage = specie.images[e]
-		};*/
 	}
 	callback();
 };
