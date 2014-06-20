@@ -9,22 +9,22 @@
             "baseName": "Acacia cavens",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Acacia cavens - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Acacia cavens - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Acacia cavens - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Acacia cavens - 03.jpg",
                     "imageDescription": ""
                 }
@@ -79,22 +79,22 @@
             "baseName": "Adesmia sp.",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Adesmia sp. - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Adesmia sp. - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Adesmia sp. - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Adesmia sp. - 03.jpg",
                     "imageDescription": ""
                 }
@@ -142,22 +142,22 @@
             "baseName": "Adiantum chilense hirsutum",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Adiantum chilense hirsutum - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Adiantum chilense hirsutum - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Adiantum chilense hirsutum - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Adiantum chilense hirsutum - 03.jpg",
                     "imageDescription": ""
                 }
@@ -184,7 +184,12 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://www.chileflora.com/Florachilena/FloraEnglish/HighResPages/EH0335.htm",
+                    "link": "Description and images of  ..."
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "42706137",
@@ -205,32 +210,32 @@
             "baseName": "Amsinckia calycina",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Amsinckia calycina - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Amsinckia calycina - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Amsinckia calycina - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Amsinckia calycina - 03.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Amsinckia calycina - 04.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Amsinckia calycina - 05.jpg",
                     "imageDescription": ""
                 }
@@ -257,7 +262,24 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://es.wikipedia.org/wiki/Amsinckia_calycina",
+                    "link": "Amsinckia calycina"
+                },
+                {
+                    "name": "http://www.chilebosque.cl/herb/amcaly.html",
+                    "link": "Amsinckia calycina - Hierbas y ..."
+                },
+                {
+                    "name": "http://en.wikipedia.org/wiki/Amsinckia_calycina",
+                    "link": "Amsinckia calycina"
+                },
+                {
+                    "name": "http://es.wikipedia.org/wiki/Amsinckia_calycina",
+                    "link": "Amsinckia calycina"
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "43530218",
@@ -284,22 +306,22 @@
             "baseName": "Anagallis arvensis",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Anagallis arvensis - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Anagallis arvensis - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Anagallis arvensis - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Anagallis arvensis - 03.jpg",
                     "imageDescription": ""
                 }
@@ -326,7 +348,16 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://en.wikipedia.org/wiki/Anagallis_foemina",
+                    "link": "Anagallis foemina"
+                },
+                {
+                    "name": "https://sites.google.com/site/efloraofindia/species/m---z/po/primulaceae/anagallis/anagallis-arvensis-ssp-foemina",
+                    "link": "Anagallis arvensis ssp. foemina - ..."
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "311756431",
@@ -347,17 +378,17 @@
             "baseName": "Anthemis sp.",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Anthemis sp. - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Anthemis sp. - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Anthemis sp. - 02.jpg",
                     "imageDescription": ""
                 }
@@ -384,7 +415,12 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "https://en.wikipedia.org/wiki/Anthemis",
+                    "link": "Anthemis"
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "43526231",
@@ -405,22 +441,22 @@
             "baseName": "Argemone sp.",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Argemone sp. - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Argemone sp. - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Argemone sp. - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Argemone sp. - 03.jpg",
                     "imageDescription": ""
                 }
@@ -447,7 +483,12 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://www.chileflora.com/Florachilena/FloraEnglish/HighResPages/EH0863.htm",
+                    "link": "Description and images of  ..."
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "42707167",
@@ -468,27 +509,27 @@
             "baseName": "Barbarea sp.",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Barbarea sp. - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Barbarea sp. - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Barbarea sp. - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Barbarea sp. - 03.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Barbarea sp. - 04.jpg",
                     "imageDescription": ""
                 }
@@ -536,22 +577,22 @@
             "baseName": "Calandrinia sp.",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Calandrinia sp. - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Calandrinia sp. - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Calandrinia sp. - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Calandrinia sp. - 03.jpg",
                     "imageDescription": ""
                 }
@@ -578,7 +619,12 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://www.chileflora.com/Florachilena/FloraEnglish/HighResPages/EH0551.htm",
+                    "link": "Description and images of  ..."
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "157326049",
@@ -599,7 +645,7 @@
             "baseName": "Capsella bursa-pastoris",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Capsella bursa-pastoris - 00.jpg",
                     "imageDescription": ""
                 }
@@ -626,7 +672,12 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://es.wikipedia.org/wiki/Capsella_divaricata",
+                    "link": "Capsella bursa-pastoris"
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "42339115",
@@ -647,22 +698,22 @@
             "baseName": "Carduelis barbata",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Carduelis barbata - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Carduelis barbata - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Carduelis barbata - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Carduelis barbata - 03.jpg",
                     "imageDescription": ""
                 }
@@ -689,7 +740,12 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://es.wikipedia.org/wiki/Carduelis_barbata",
+                    "link": "Carduelis barbata"
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "42449004",
@@ -710,17 +766,17 @@
             "baseName": "Carposcalis sp.",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Carposcalis sp. - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Carposcalis sp. - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Carposcalis sp. - 02.jpg",
                     "imageDescription": ""
                 }
@@ -768,32 +824,32 @@
             "baseName": "Cheilanthes hypoleuca",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Cheilanthes hypoleuca - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Cheilanthes hypoleuca - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Cheilanthes hypoleuca - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Cheilanthes hypoleuca - 03.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Cheilanthes hypoleuca - 04.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Cheilanthes hypoleuca - 05.jpg",
                     "imageDescription": ""
                 }
@@ -820,7 +876,20 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://floradechile.cl/ferns/species/achhypol.htm",
+                    "link": "Cheilanthes hypoleuca (Kunze) Mett."
+                },
+                {
+                    "name": "http://eol.org/pages/597536/overview",
+                    "link": "Woolly Lipfern - Cheilanthes ..."
+                },
+                {
+                    "name": "http://www.sib.gov.ar/ficha/PLANTAE*cheilanthes*hypoleuca",
+                    "link": "SIB | Cheilanthes hypoleuca"
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "166576003",
@@ -847,17 +916,17 @@
             "baseName": "Chrysididae",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Chrysididae - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Chrysididae - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Chrysididae - 02.jpg",
                     "imageDescription": ""
                 }
@@ -904,17 +973,17 @@
             "baseName": "Cistanthe sp.",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Cistanthe sp. - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Cistanthe sp. - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Cistanthe sp. - 02.jpg",
                     "imageDescription": ""
                 }
@@ -962,12 +1031,12 @@
             "baseName": "Clarkia tenella",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Clarkia tenella - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Clarkia tenella - 01.jpg",
                     "imageDescription": ""
                 }
@@ -994,7 +1063,12 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://mingaonline.uach.cl/scielo.php?pid=S0304-88022007000200029&script=sci_arttext",
+                    "link": "..."
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "328586021",
@@ -1015,17 +1089,17 @@
             "baseName": "Collembola sp.",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Collembola sp. - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Collembola sp. - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Collembola sp. - 02.jpg",
                     "imageDescription": ""
                 }
@@ -1073,32 +1147,32 @@
             "baseName": "Colliguaja odorifera",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Colliguaja odorifera - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Colliguaja odorifera - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Colliguaja odorifera - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Colliguaja odorifera - 03.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Colliguaja odorifera - 04.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Colliguaja odorifera - 05.jpg",
                     "imageDescription": ""
                 }
@@ -1126,7 +1200,20 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "https://es.wikipedia.org/wiki/Colliguaja_odorifera",
+                    "link": "Colliguaja odorifera"
+                },
+                {
+                    "name": "http://es.wikipedia.org/wiki/Colliguaja_odorifera",
+                    "link": "Colliguaja odorifera"
+                },
+                {
+                    "name": "http://especieschilenas.blogspot.com/2012/08/el-colliguay-colliguaja-odorifera.html",
+                    "link": "especies chilenas: El Colliguay ..."
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "43763118",
@@ -1153,27 +1240,27 @@
             "baseName": "Cryptantha sp.",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Cryptantha sp. - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Cryptantha sp. - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Cryptantha sp. - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Cryptantha sp. - 03.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Cryptantha sp. - 04.jpg",
                     "imageDescription": ""
                 }
@@ -1221,22 +1308,22 @@
             "baseName": "Dioscorea saxatilis",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Dioscorea saxatilis - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Dioscorea saxatilis - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Dioscorea saxatilis - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Dioscorea saxatilis - 03.jpg",
                     "imageDescription": ""
                 }
@@ -1263,7 +1350,12 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://www.chilebosque.cl/epiv/dioscorea_saxatilis.html",
+                    "link": "Dioscorea saxatilis - Papa ..."
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "240726047",
@@ -1284,17 +1376,17 @@
             "baseName": "Dischistus maculatus",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Dischistus maculatus - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Dischistus maculatus - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Dischistus maculatus - 02.jpg",
                     "imageDescription": ""
                 }
@@ -1321,7 +1413,16 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://eol.org/pages/55116/overview",
+                    "link": "Dischistus - Overview"
+                },
+                {
+                    "name": "http://www.flickr.com/photos/giaa/5216081483/",
+                    "link": "Dischistus maculatus Hall 1976 | ..."
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "36778018",
@@ -1342,22 +1443,22 @@
             "baseName": "Diuca diuca",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Diuca diuca - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Diuca diuca - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Diuca diuca - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Diuca diuca - 03.jpg",
                     "imageDescription": ""
                 }
@@ -1411,17 +1512,17 @@
             "baseName": "Echinopsis chiloensis",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Echinopsis chiloensis - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Echinopsis chiloensis - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Echinopsis chiloensis - 02.jpg",
                     "imageDescription": ""
                 }
@@ -1469,27 +1570,27 @@
             "baseName": "Eriopis connexa",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Eriopis connexa - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Eriopis connexa - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Eriopis connexa - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Eriopis connexa - 03.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Eriopis connexa - 04.jpg",
                     "imageDescription": ""
                 }
@@ -1516,7 +1617,16 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://www.coccinellidae.cl/paginasWebChile/PaginasOriginal/erioconnexa.php",
+                    "link": "Eriopis connexa chilensis ..."
+                },
+                {
+                    "name": "http://www.coccinellidae.cl/paginasWebChile/PaginasOriginal/erioconnexa.php",
+                    "link": "Eriopis connexa chilensis ..."
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "318396397",
@@ -1543,7 +1653,7 @@
             "baseName": "Erodium ciculatrium",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Erodium ciculatrium - 00.jpg",
                     "imageDescription": ""
                 }
@@ -1591,12 +1701,12 @@
             "baseName": "Eschscholzia californica",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Eschscholzia californica - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Eschscholzia californica - 01.jpg",
                     "imageDescription": ""
                 }
@@ -1644,42 +1754,42 @@
             "baseName": "Fumaria agraria",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Fumaria agraria - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Fumaria agraria - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Fumaria agraria - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Fumaria agraria - 03.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Fumaria agraria - 04.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Fumaria agraria - 05.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Fumaria agraria - 06.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Fumaria agraria - 07.jpg",
                     "imageDescription": ""
                 }
@@ -1706,7 +1816,24 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://es.wikipedia.org/wiki/Fumaria_agraria",
+                    "link": "Fumaria agraria"
+                },
+                {
+                    "name": "http://eol.org/pages/5474170/overview",
+                    "link": "Field Fumitory - Fumaria agraria - ..."
+                },
+                {
+                    "name": "http://www.chileflora.com/Florachilena/FloraEnglish/HighResPages/EH0500.htm",
+                    "link": "Description and images of  Fumaria ..."
+                },
+                {
+                    "name": "http://es.wikipedia.org/wiki/Fumaria_agraria",
+                    "link": "Fumaria agraria"
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "43530216",
@@ -1733,32 +1860,32 @@
             "baseName": "fungus",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - fungus - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - fungus - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - fungus - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - fungus - 03.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - fungus - 04.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - fungus - 05.jpg",
                     "imageDescription": ""
                 }
@@ -1818,12 +1945,12 @@
             "baseName": "Geositta sp.",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Geositta sp. - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Geositta sp. - 01.jpg",
                     "imageDescription": ""
                 }
@@ -1850,7 +1977,12 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://es.wikipedia.org/wiki/Geositta",
+                    "link": "Geositta"
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "38489520",
@@ -1871,12 +2003,12 @@
             "baseName": "Geranium berteroanum",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Geranium berteroanum - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Geranium berteroanum - 01.jpg",
                     "imageDescription": ""
                 }
@@ -1903,7 +2035,12 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://www.chileflora.com/Florachilena/FloraSpanish/HighResPages/SH0641.htm",
+                    "link": "Descripción e imágenes de Geranium ..."
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "42515033",
@@ -1924,32 +2061,32 @@
             "baseName": "Grammostola rosea",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Grammostola rosea - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Grammostola rosea - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Grammostola rosea - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Grammostola rosea - 03.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Grammostola rosea - 04.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Grammostola rosea - 05.jpg",
                     "imageDescription": ""
                 }
@@ -1977,7 +2114,16 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://en.wikipedia.org/wiki/Chilean_rose_tarantula",
+                    "link": "Chilean rose tarantula"
+                },
+                {
+                    "name": "http://en.wikipedia.org/wiki/Chilean_rose_tarantula",
+                    "link": "Chilean rose tarantula"
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "157476080",
@@ -2004,17 +2150,17 @@
             "baseName": "Helenium aromaticum",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Helenium aromaticum - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Helenium aromaticum - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Helenium aromaticum - 02.jpg",
                     "imageDescription": ""
                 }
@@ -2041,7 +2187,16 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://de.wikipedia.org/wiki/Helenium_aromaticum",
+                    "link": "Helenium aromaticum – Wikipedia"
+                },
+                {
+                    "name": "http://floradechile.cl/dicotyle/species/chearoma.htm",
+                    "link": "Helenium aromaticum (Hook.) Bailey"
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "326686010",
@@ -2062,17 +2217,17 @@
             "baseName": "Heteronemiidae",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Heteronemiidae - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Heteronemiidae - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Heteronemiidae - 02.jpg",
                     "imageDescription": ""
                 }
@@ -2119,22 +2274,22 @@
             "baseName": "Homalocarpus dichotomus",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Homalocarpus dichotomus - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Homalocarpus dichotomus - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Homalocarpus dichotomus - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Homalocarpus dichotomus - 03.jpg",
                     "imageDescription": ""
                 }
@@ -2161,7 +2316,16 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "https://es.wikipedia.org/wiki/Homalocarpus",
+                    "link": "Homalocarpus"
+                },
+                {
+                    "name": "http://floradechile.cl/dicotyle/species/uhodicho.htm",
+                    "link": "Homalocarpus dichotomus (Poepp. ex ..."
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "43690055",
@@ -2182,12 +2346,12 @@
             "baseName": "Hylephila faschiolata",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Hylephila faschiolata - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Hylephila faschiolata - 01.jpg",
                     "imageDescription": ""
                 }
@@ -2235,12 +2399,12 @@
             "baseName": "Hylephila sp.",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Hylephila sp. - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Hylephila sp. - 01.jpg",
                     "imageDescription": ""
                 }
@@ -2267,7 +2431,16 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://en.wikipedia.org/wiki/Skipper_(butterfly)",
+                    "link": "Skipper (butterfly)"
+                },
+                {
+                    "name": "http://www.butterfliesofamerica.com/L/hylephila_fasciolata_specimens.htm",
+                    "link": "Hylephila fasciolata (pinned ..."
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "9925812",
@@ -2288,7 +2461,7 @@
             "baseName": "Ichneumonidae",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Ichneumonidae - 00.jpg",
                     "imageDescription": ""
                 }
@@ -2335,7 +2508,7 @@
             "baseName": "Isepeolus luctuosus",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Isepeolus luctuosus - 00.jpg",
                     "imageDescription": ""
                 }
@@ -2362,7 +2535,12 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://abejasdechile.blogspot.com/2012/04/isepeolus-luctuosus.html",
+                    "link": "Abejas de Chile: Isepeolus ..."
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "239266110",
@@ -2383,17 +2561,17 @@
             "baseName": "Lamium amplexicaule",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Lamium amplexicaule - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Lamium amplexicaule - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Lamium amplexicaule - 02.jpg",
                     "imageDescription": ""
                 }
@@ -2420,7 +2598,20 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://en.wikipedia.org/wiki/Lamium_amplexicaule",
+                    "link": "Lamium amplexicaule"
+                },
+                {
+                    "name": "http://eol.org/pages/579592/overview",
+                    "link": "Henbit Dead-nettle (Lamium ..."
+                },
+                {
+                    "name": "http://www.luontoportti.com/suomi/es/kukkakasvit/ortiga-mansa",
+                    "link": "Ortiga mansa, Lamium amplexicaule ..."
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "231166020",
@@ -2441,27 +2632,27 @@
             "baseName": "Leucheria cerberoana",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Leucheria cerberoana - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Leucheria cerberoana - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Leucheria cerberoana - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Leucheria cerberoana - 03.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Leucheria cerberoana - 04.jpg",
                     "imageDescription": ""
                 }
@@ -2488,7 +2679,16 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://eol.org/pages/5117539/overview",
+                    "link": "Leucheria cerberoana - Information ..."
+                },
+                {
+                    "name": "http://floradechile.cl/dicotyle/species/alecerbe.htm",
+                    "link": "Leucheria cerberoana J.Rémy"
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "322586021",
@@ -2509,22 +2709,22 @@
             "baseName": "Leucocoryne ixioides",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Leucocoryne ixioides - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Leucocoryne ixioides - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Leucocoryne ixioides - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Leucocoryne ixioides - 03.jpg",
                     "imageDescription": ""
                 }
@@ -2551,7 +2751,12 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://floradechile.cl/monocoty/species/aleixioi.htm",
+                    "link": "Leucocoryne ixioides (Hook.) Lindl."
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "162106018",
@@ -2572,17 +2777,17 @@
             "baseName": "Liliaceae",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Liliaceae - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Liliaceae - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Liliaceae - 02.jpg",
                     "imageDescription": ""
                 }
@@ -2629,12 +2834,12 @@
             "baseName": "Liolaemus fuscus",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Liolaemus fuscus - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Liolaemus fuscus - 01.jpg",
                     "imageDescription": ""
                 }
@@ -2661,7 +2866,16 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://en.wikipedia.org/wiki/Liolaemus_fuscus",
+                    "link": "Liolaemus fuscus"
+                },
+                {
+                    "name": "http://www.atlasherpetozoos.cl/Reptiles/LFuscus.html",
+                    "link": "Liolaemus fuscus"
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "12782749",
@@ -2682,27 +2896,27 @@
             "baseName": "Liolaemus lemniscatus",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Liolaemus lemniscatus - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Liolaemus lemniscatus - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Liolaemus lemniscatus - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Liolaemus lemniscatus - 03.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Liolaemus lemniscatus - 04.jpg",
                     "imageDescription": ""
                 }
@@ -2729,7 +2943,16 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://es.wikipedia.org/wiki/Liolaemus_lemniscatus",
+                    "link": "Liolaemus lemniscatus"
+                },
+                {
+                    "name": "http://www.mma.gob.cl/clasificacionespecies/fichas8proceso/fichas_pac/Liolaemus_lemniscatus_P08_corregida.pdf",
+                    "link": "..."
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "12982691",
@@ -2750,17 +2973,17 @@
             "baseName": "Lithraea caustica",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Lithraea caustica - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Lithraea caustica - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Lithraea caustica - 02.jpg",
                     "imageDescription": ""
                 }
@@ -2787,7 +3010,16 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://es.wikipedia.org/wiki/Lithraea_caustica",
+                    "link": "Lithraea caustica"
+                },
+                {
+                    "name": "http://en.wikipedia.org/wiki/Lithraea_caustica",
+                    "link": "Lithraea caustica"
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "310706080",
@@ -2814,32 +3046,32 @@
             "baseName": "Loasa placei",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Loasa placei - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Loasa placei - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Loasa placei - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Loasa placei - 03.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Loasa placei - 04.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Loasa placei - 05.jpg",
                     "imageDescription": ""
                 }
@@ -2867,7 +3099,20 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://floradechile.cl/dicotyle/species/lloplace.htm",
+                    "link": "Loasa placei Lindl."
+                },
+                {
+                    "name": "http://en.wikipedia.org/wiki/Loasa",
+                    "link": "Loasa"
+                },
+                {
+                    "name": "http://floradechile.cl/dicotyle/species/lloplace.htm",
+                    "link": "Loasa placei Lindl."
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "37948466",
@@ -2894,17 +3139,17 @@
             "baseName": "Loasa tricolor",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Loasa tricolor - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Loasa tricolor - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Loasa tricolor - 02.jpg",
                     "imageDescription": ""
                 }
@@ -2931,7 +3176,16 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://en.wikipedia.org/wiki/Loasa",
+                    "link": "Loasa"
+                },
+                {
+                    "name": "http://floradechile.cl/dicotyle/species/llotrico.htm",
+                    "link": "Loasa tricolor Ker-Gawl."
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "14469064",
@@ -2952,42 +3206,42 @@
             "baseName": "Loasa triloba",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Loasa triloba - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Loasa triloba - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Loasa triloba - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Loasa triloba - 03.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Loasa triloba - 04.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Loasa triloba - 05.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Loasa triloba - 06.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Loasa triloba - 07.jpg",
                     "imageDescription": ""
                 }
@@ -3015,7 +3269,24 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://floradechile.cl/dicotyle/species/llotrilo.htm",
+                    "link": "Loasa triloba Juss."
+                },
+                {
+                    "name": "http://floradechile.cl/dicotyle/species/llotrilo.htm",
+                    "link": "Loasa triloba Juss."
+                },
+                {
+                    "name": "http://eol.org/pages/5740671/overview",
+                    "link": "Loasa triloba - Overview"
+                },
+                {
+                    "name": "http://www.chileflora.com/Florachilena/FloraEnglish/HighResPages/EH0572.htm",
+                    "link": "Description and images of  Loasa ..."
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "157166023",
@@ -3048,22 +3319,22 @@
             "baseName": "Lycosidae",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Lycosidae - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Lycosidae - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Lycosidae - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Lycosidae - 03.jpg",
                     "imageDescription": ""
                 }
@@ -3110,17 +3381,17 @@
             "baseName": "Marrubium vulgare",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Marrubium vulgare - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Marrubium vulgare - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Marrubium vulgare - 02.jpg",
                     "imageDescription": ""
                 }
@@ -3147,7 +3418,12 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://es.wikipedia.org/wiki/Marrubium_vulgare",
+                    "link": "Marrubium vulgare"
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "37696592",
@@ -3168,12 +3444,12 @@
             "baseName": "Milvago chimango",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Milvago chimango - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Milvago chimango - 01.jpg",
                     "imageDescription": ""
                 }
@@ -3200,7 +3476,12 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://es.wikipedia.org/wiki/Milvago_chimango",
+                    "link": "Milvago chimango"
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "42706015",
@@ -3221,7 +3502,7 @@
             "baseName": "Mimus thenca",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Mimus thenca - 00.jpg",
                     "imageDescription": ""
                 }
@@ -3269,22 +3550,22 @@
             "baseName": "Montiopsis sp.",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Montiopsis sp. - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Montiopsis sp. - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Montiopsis sp. - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Montiopsis sp. - 03.jpg",
                     "imageDescription": ""
                 }
@@ -3311,7 +3592,12 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://es.wikipedia.org/wiki/Montiopsis",
+                    "link": "Montiopsis"
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "161486068",
@@ -3332,17 +3618,17 @@
             "baseName": "Moscharia pinnatifida",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Moscharia pinnatifida - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Moscharia pinnatifida - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Moscharia pinnatifida - 02.jpg",
                     "imageDescription": ""
                 }
@@ -3396,27 +3682,27 @@
             "baseName": "Nicotiana acuminata",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Nicotiana acuminata - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Nicotiana acuminata - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Nicotiana acuminata - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Nicotiana acuminata - 03.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Nicotiana acuminata - 04.jpg",
                     "imageDescription": ""
                 }
@@ -3443,7 +3729,16 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "https://en.wikipedia.org/wiki/Nicotiana_acuminata",
+                    "link": "Nicotiana acuminata"
+                },
+                {
+                    "name": "http://www.chileflora.com/Florachilena/FloraSpanish/HighResPages/SH0199.htm",
+                    "link": "Descripción e imágenes de ..."
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "43745043",
@@ -3464,32 +3759,32 @@
             "baseName": "Olsynium junceum",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Olsynium junceum - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Olsynium junceum - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Olsynium junceum - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Olsynium junceum - 03.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Olsynium junceum - 04.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Olsynium junceum - 05.jpg",
                     "imageDescription": ""
                 }
@@ -3517,7 +3812,16 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://www.chilebosque.cl/foro/viewtopic.php?f=5&t=4290",
+                    "link": "Foro Chilebosque • Ver Tema - ..."
+                },
+                {
+                    "name": "http://www.chilebosque.cl/foro/viewtopic.php?f=5&t=4290",
+                    "link": "Foro Chilebosque • Ver Tema - ..."
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "243816059",
@@ -3550,17 +3854,17 @@
             "baseName": "Oxalis perdicaria",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Oxalis perdicaria - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Oxalis perdicaria - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Oxalis perdicaria - 02.jpg",
                     "imageDescription": ""
                 }
@@ -3587,7 +3891,16 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://eol.org/pages/486262/overview",
+                    "link": "West Indian Woodsorrel - Oxalis ..."
+                },
+                {
+                    "name": "http://floradechile.cl/dicotyle/species/ooxperdi.htm",
+                    "link": "Oxalis perdicaria (Molina) Bertero"
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "37928162",
@@ -3608,17 +3921,17 @@
             "baseName": "Parabuteo unicinctus",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Parabuteo unicinctus - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Parabuteo unicinctus - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Parabuteo unicinctus - 02.jpg",
                     "imageDescription": ""
                 }
@@ -3645,7 +3958,16 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://en.wikipedia.org/wiki/Harris%27s_Hawk",
+                    "link": "Harris's Hawk"
+                },
+                {
+                    "name": "http://www.avesdechile.cl/316.htm",
+                    "link": "Peuco - AVES DE CHILE"
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "37727052",
@@ -3666,32 +3988,32 @@
             "baseName": "Pasithea coerulea",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Pasithea coerulea - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Pasithea coerulea - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Pasithea coerulea - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Pasithea coerulea - 03.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Pasithea coerulea - 04.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Pasithea coerulea - 05.jpg",
                     "imageDescription": ""
                 }
@@ -3718,7 +4040,16 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://museo.florachilena.cl/Niv_tax/Angiospermas/Ordenes/Asparagales/Anthericaceae/Pasithea%20caerulea/Pasithea%20caerulea.htm",
+                    "link": "Pasithea caerulea - AZULILLO"
+                },
+                {
+                    "name": "http://museo.florachilena.cl/Niv_tax/Angiospermas/Ordenes/Asparagales/Anthericaceae/Pasithea%20caerulea/Pasithea%20caerulea.htm",
+                    "link": "Pasithea caerulea - AZULILLO"
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "311756433",
@@ -3745,27 +4076,27 @@
             "baseName": "Phacelia brachyantha",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Phacelia brachyantha - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Phacelia brachyantha - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Phacelia brachyantha - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Phacelia brachyantha - 03.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Phacelia brachyantha - 04.jpg",
                     "imageDescription": ""
                 }
@@ -3792,7 +4123,16 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://eol.org/pages/5689623/overview",
+                    "link": "Phacelia brachyantha - Overview"
+                },
+                {
+                    "name": "http://www.chileflora.com/Florachilena/FloraSpanish/HighResPages/SH1082.htm",
+                    "link": "Descripción e imágenes de Phacelia ..."
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "43561003",
@@ -3813,22 +4153,22 @@
             "baseName": "Phrygilus patagonicus",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Phrygilus patagonicus - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Phrygilus patagonicus - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Phrygilus patagonicus - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Phrygilus patagonicus - 03.jpg",
                     "imageDescription": ""
                 }
@@ -3855,7 +4195,12 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://es.wikipedia.org/wiki/Phrygilus_patagonicus",
+                    "link": "Phrygilus patagonicus"
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "42359007",
@@ -3876,12 +4221,12 @@
             "baseName": "Phytotoma rara",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Phytotoma rara - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Phytotoma rara - 01.jpg",
                     "imageDescription": ""
                 }
@@ -3908,7 +4253,12 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://es.wikipedia.org/wiki/Phytotoma_rara",
+                    "link": "Phytotoma rara"
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "42552003",
@@ -3929,42 +4279,42 @@
             "baseName": "Placea arzae",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Placea arzae - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Placea arzae - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Placea arzae - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Placea arzae - 03.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Placea arzae - 04.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Placea arzae - 05.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Placea arzae - 06.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Placea arzae - 07.jpg",
                     "imageDescription": ""
                 }
@@ -3993,7 +4343,24 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://eol.org/pages/1081506/overview",
+                    "link": "Placea arzae - Information on ..."
+                },
+                {
+                    "name": "http://www.chileflora.com/Florachilena/FloraEnglish/HighResPages/EH0857.htm",
+                    "link": "Description and images of  Placea ..."
+                },
+                {
+                    "name": "http://eol.org/pages/1081506/overview",
+                    "link": "Placea arzae - Overview"
+                },
+                {
+                    "name": "http://www.chileflora.com/Florachilena/FloraEnglish/HighResPages/EH0857.htm",
+                    "link": "Description and images of  Placea ..."
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "226606112",
@@ -4026,17 +4393,17 @@
             "baseName": "Podanthus mitiqui",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Podanthus mitiqui - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Podanthus mitiqui - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Podanthus mitiqui - 02.jpg",
                     "imageDescription": ""
                 }
@@ -4063,7 +4430,12 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://especieschilenas.blogspot.com/2011/10/el-mitique-podanthus-mitiqui.html",
+                    "link": "especies chilenas: El Mitique ..."
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "229486041",
@@ -4084,12 +4456,12 @@
             "baseName": "Pompilidae",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Pompilidae - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Pompilidae - 01.jpg",
                     "imageDescription": ""
                 }
@@ -4136,7 +4508,7 @@
             "baseName": "Puya sp.",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Puya sp. - 00.jpg",
                     "imageDescription": ""
                 }
@@ -4184,32 +4556,32 @@
             "baseName": "Quillaja saponaria",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Quillaja saponaria - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Quillaja saponaria - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Quillaja saponaria - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Quillaja saponaria - 03.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Quillaja saponaria - 04.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Quillaja saponaria - 05.jpg",
                     "imageDescription": ""
                 }
@@ -4236,7 +4608,24 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://en.wikipedia.org/wiki/Quillaja_saponaria",
+                    "link": "Quillaja saponaria"
+                },
+                {
+                    "name": "http://es.wikipedia.org/wiki/Quillaja_saponaria",
+                    "link": "Quillaja saponaria"
+                },
+                {
+                    "name": "http://en.wikipedia.org/wiki/Quillaja_saponaria",
+                    "link": "Quillaja saponaria"
+                },
+                {
+                    "name": "http://es.wikipedia.org/wiki/Quillaja_saponaria",
+                    "link": "Quillaja saponaria"
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "38173033",
@@ -4263,22 +4652,22 @@
             "baseName": "Schizanthus pinnatus",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Schizanthus pinnatus - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Schizanthus pinnatus - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Schizanthus pinnatus - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Schizanthus pinnatus - 03.jpg",
                     "imageDescription": ""
                 }
@@ -4305,7 +4694,12 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "https://es.wikipedia.org/wiki/Schizanthus_pinnatus",
+                    "link": "Schizanthus pinnatus"
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "43821069",
@@ -4326,17 +4720,17 @@
             "baseName": "Sephanoides sephaniodes",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Sephanoides sephaniodes - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Sephanoides sephaniodes - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Sephanoides sephaniodes - 02.jpg",
                     "imageDescription": ""
                 }
@@ -4384,22 +4778,22 @@
             "baseName": "Silybum marianum",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Silybum marianum - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Silybum marianum - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Silybum marianum - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Silybum marianum - 03.jpg",
                     "imageDescription": ""
                 }
@@ -4426,7 +4820,16 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://en.wikipedia.org/wiki/Silybum_marianum",
+                    "link": "Silybum marianum"
+                },
+                {
+                    "name": "http://floradvenadechile.blogspot.com/2008/06/cardo-blanco-silybum-mariuanum-l-gaertn.html",
+                    "link": "Flora Advena de Chile: Cardo ..."
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "27771005",
@@ -4447,42 +4850,42 @@
             "baseName": "Solanum ligustrinum",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Solanum ligustrinum - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Solanum ligustrinum - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Solanum ligustrinum - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Solanum ligustrinum - 03.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Solanum ligustrinum - 04.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Solanum ligustrinum - 05.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Solanum ligustrinum - 06.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Solanum ligustrinum - 07.jpg",
                     "imageDescription": ""
                 }
@@ -4536,32 +4939,32 @@
             "baseName": "Stellaria chilensis",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Stellaria chilensis - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Stellaria chilensis - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Stellaria chilensis - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Stellaria chilensis - 03.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Stellaria chilensis - 04.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Stellaria chilensis - 05.jpg",
                     "imageDescription": ""
                 }
@@ -4616,17 +5019,17 @@
             "baseName": "Stereum hirsutum",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Stereum hirsutum - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Stereum hirsutum - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Stereum hirsutum - 02.jpg",
                     "imageDescription": ""
                 }
@@ -4674,17 +5077,17 @@
             "baseName": "Sturnella loyca",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Sturnella loyca - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Sturnella loyca - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Sturnella loyca - 02.jpg",
                     "imageDescription": ""
                 }
@@ -4711,7 +5114,16 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://es.wikipedia.org/wiki/Sturnella_loyca",
+                    "link": "Sturnella loyca"
+                },
+                {
+                    "name": "http://en.wikipedia.org/wiki/Long-tailed_Meadowlark",
+                    "link": "Long-tailed Meadowlark"
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "37850002",
@@ -4732,42 +5144,42 @@
             "baseName": "Syrphidae",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Syrphidae - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Syrphidae - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Syrphidae - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Syrphidae - 03.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Syrphidae - 04.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Syrphidae - 05.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Syrphidae - 06.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Syrphidae - 07.jpg",
                     "imageDescription": ""
                 }
@@ -4826,32 +5238,32 @@
             "baseName": "Talguenea quinquinervia",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Talguenea quinquinervia - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Talguenea quinquinervia - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Talguenea quinquinervia - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Talguenea quinquinervia - 03.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Talguenea quinquinervia - 04.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Talguenea quinquinervia - 05.jpg",
                     "imageDescription": ""
                 }
@@ -4905,7 +5317,7 @@
             "baseName": "Tatochila sp.",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Tatochila sp. - 00.jpg",
                     "imageDescription": ""
                 }
@@ -4953,12 +5365,12 @@
             "baseName": "Tatochila theodice theodice",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Tatochila theodice theodice - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Tatochila theodice theodice - 01.jpg",
                     "imageDescription": ""
                 }
@@ -4985,7 +5397,16 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://es.wikipedia.org/wiki/Tatochila_theodice",
+                    "link": "Tatochila theodice"
+                },
+                {
+                    "name": "http://micra.cl/web/tatochila-theodice-theodice/",
+                    "link": "Tatochila theodice theodice - ..."
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "231066063",
@@ -5006,7 +5427,7 @@
             "baseName": "Teloschistes chrysophthalmus",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Teloschistes chrysophthalmus - 00.jpg",
                     "imageDescription": ""
                 }
@@ -5054,22 +5475,22 @@
             "baseName": "Troglodytes aedon",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Troglodytes aedon - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Troglodytes aedon - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Troglodytes aedon - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Troglodytes aedon - 03.jpg",
                     "imageDescription": ""
                 }
@@ -5096,7 +5517,12 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://es.wikipedia.org/wiki/Troglodytes_aedon",
+                    "link": "Troglodytes aedon"
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "42471007",
@@ -5117,17 +5543,17 @@
             "baseName": "Tropaeolum tricolor",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Tropaeolum tricolor - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Tropaeolum tricolor - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Tropaeolum tricolor - 02.jpg",
                     "imageDescription": ""
                 }
@@ -5154,7 +5580,16 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://en.wikipedia.org/wiki/Tropaeolum_tricolor",
+                    "link": "Tropaeolum tricolor"
+                },
+                {
+                    "name": "http://museo.florachilena.cl/Niv_tax/Angiospermas/Ordenes/Brassicales/Tropaeolaceae/Tropaeolum/tricolor/Tropaeolum%20tricolor.htm",
+                    "link": "Tropaeolum tricolor - SOLDADITO"
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "243836047",
@@ -5175,7 +5610,7 @@
             "baseName": "Turdus falcklandii",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Turdus falcklandii - 00.jpg",
                     "imageDescription": ""
                 }
@@ -5202,7 +5637,16 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://en.wikipedia.org/wiki/Austral_Thrush",
+                    "link": "Austral Thrush"
+                },
+                {
+                    "name": "http://www.avesdechile.cl/168.htm",
+                    "link": "Zorzal - AVES DE CHILE"
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "37080039",
@@ -5223,12 +5667,12 @@
             "baseName": "Urtica urens",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Urtica urens - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Urtica urens - 01.jpg",
                     "imageDescription": ""
                 }
@@ -5276,12 +5720,12 @@
             "baseName": "Vanessa carye",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Vanessa carye - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Vanessa carye - 01.jpg",
                     "imageDescription": ""
                 }
@@ -5336,17 +5780,17 @@
             "baseName": "Veronica persica",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Veronica persica - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Veronica persica - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Veronica persica - 02.jpg",
                     "imageDescription": ""
                 }
@@ -5373,7 +5817,16 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://en.wikipedia.org/wiki/Veronica_persica",
+                    "link": "Veronica persica"
+                },
+                {
+                    "name": "http://es.wikipedia.org/wiki/Veronica_persica",
+                    "link": "Veronica persica"
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "14392056",
@@ -5394,17 +5847,17 @@
             "baseName": "Vicia sp.",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Vicia sp. - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Vicia sp. - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Vicia sp. - 02.jpg",
                     "imageDescription": ""
                 }
@@ -5431,7 +5884,12 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://www.chileflora.com/Florachilena/FloraEnglish/HighResPages/EH1397.htm",
+                    "link": "Description and images of  Vicia ..."
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "325236016",
@@ -5452,27 +5910,27 @@
             "baseName": "Xolmis pyrope",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Xolmis pyrope - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Xolmis pyrope - 01.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Xolmis pyrope - 02.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Xolmis pyrope - 03.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Xolmis pyrope - 04.jpg",
                     "imageDescription": ""
                 }
@@ -5499,7 +5957,16 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://en.wikipedia.org/wiki/Fire-eyed_Diucon",
+                    "link": "Fire-eyed Diucon"
+                },
+                {
+                    "name": "http://avesvivenchile.blogspot.com/2008/03/diucn.html",
+                    "link": "Las  Aves  que Viven  en  Chile: ..."
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "16954344",
@@ -5520,12 +5987,12 @@
             "baseName": "Zenaida auriculata",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Zenaida auriculata - 00.jpg",
                     "imageDescription": ""
                 },
                 {
-                    "credit": "Agustín Amenabar L.",
+                    "credit": "Agustín Amenabar L",
                     "filename": "pnd - Zenaida auriculata - 01.jpg",
                     "imageDescription": ""
                 }
@@ -5552,7 +6019,16 @@
             "conservationStatuses": [],
             "descripted": "",
             "synonymum": [],
-            "sources": [],
+            "sources": [
+                {
+                    "name": "http://en.wikipedia.org/wiki/Eared_Dove",
+                    "link": "Eared Dove"
+                },
+                {
+                    "name": "http://es.wikipedia.org/wiki/Zenaida_auriculata",
+                    "link": "Zenaida auriculata"
+                }
+            ],
             "spottings": [
                 {
                     "noahId": "246696015",

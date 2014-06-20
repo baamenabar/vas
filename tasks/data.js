@@ -116,14 +116,14 @@ var spottingToSpecie = function(spotting, callback){
 var loadSpecieImages = function(specie, callback) {
 	//specie.images
 
-	loadSpottingImages(specie.images, specie.details.spottings[specie.details.spottings.length-1], function(err) {
+	loadSpottingImages(specie, specie.details.spottings[specie.details.spottings.length-1], function(err) {
 		console.log('now images has :'+specie.images.list.length, 'elements');		
 		callback();	
 	});
 };
 
-var loadSpottingImages = function(imagesList, spotting, callback) {
-	//imagesList;
+var loadSpottingImages = function(theSpecie, spotting, callback) {
+	var imagesList = theSpecie.images;
 	var importImages = true;
 
 	var spottingUrl = 'http://www.projectnoah.org/spottings/'+spotting.noahId;
@@ -135,7 +135,19 @@ var loadSpottingImages = function(imagesList, spotting, callback) {
 		}
 		var $ = cheerio.load(html);
 		var author = $('.spotting-ava-text a');
+		var selSources = $('.reference li a');
 		var credit = '';
+		var sources = theSpecie.details.sources;
+
+		if (selSources.get().length) {
+			selSources.each(function(i,ele) {
+				sources.push({
+					link:$(this).attr('href'),
+					name:$(this).text()
+				});
+			});
+		}
+
 		if(author.get().length){
 			credit = author.text();
 			console.log('The author is: ', credit);
@@ -270,3 +282,9 @@ var convertTerms = function(callback) {
 	}
 	callback();
 };
+
+/*
+
+Clearly I need to polish my coding practices, this module does too many things
+
+*/

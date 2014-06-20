@@ -93,28 +93,42 @@ gulp.task('images',function(done) {
 });
 
 gulp.task('convert',function() {
+  /*
+    this task will load a CSV file and convert it to JSON 
+    it will agregate all spottings of one species in one definition
+    it will also read a project noah ID and scrape additional info and images from each spotting
+  */
   vasConvert.convertCSV(function(){
     vasConvert.createThumbnails();
   });
 });
 
-gulp.task('thumbs',function() {
-  /*vasConvert.createThumbnails(function() {
+gulp.task('thumbsCreate',function() {
+  /*
+    This task will pick the first image of a specie and set it as the thumbnail
+  */
+  vasConvert.createThumbnails(function() {
     console.log('terminamos copiado de thumbs');
-    
-  });*/
+  });
+});
+
+gulp.task('thumbs',function() {
+  /*
+    This task will crop the thumbnails in the src_data folder and save them in the www/data folder.
+  */
   gulp.src('./src_data/imgs/thumbs/*.*')
     .pipe(imageResize({
       width:400,
       height:300,
       crop : true,
-      //imageMagick:true,
+      //imageMagick:true, //imageMagick gave me some issues, graphicsMagick worked better (for windows download the executable for .NET and it will work perfectly with node).
       quality:0.7
     }))
     .pipe(imageMin({
       progressive: true
     }))
-    .pipe(gulp.dest('./www/img/species/thumbs/'));
+    .pipe(gulp.dest('./www/img/species/thumbs/'))
+    .on('end',done);
 });
 
 gulp.task('terms',function() {
