@@ -1142,78 +1142,71 @@
         "template": "plant",
         "label": "Colliguai",
         "sublabel": "Colliguaja odorifera",
-        "searchText": "arbusto; shrub; red; rojo; nativocerro manquehue",
+        "searchText": "arbusto; shrub; red; rojo; nativo; cerro manquehue",
         "images": {
             "baseName": "Colliguaja odorifera",
             "list": [
                 {
-                    "credit": "Agustín Amenabar L",
-                    "filename": "pnd - Colliguaja odorifera - 00.jpg",
-                    "imageDescription": ""
-                },
-                {
-                    "credit": "Agustín Amenabar L",
-                    "filename": "pnd - Colliguaja odorifera - 01.jpg",
-                    "imageDescription": ""
-                },
-                {
-                    "credit": "Agustín Amenabar L",
-                    "filename": "pnd - Colliguaja odorifera - 02.jpg",
-                    "imageDescription": ""
-                },
-                {
-                    "credit": "Agustín Amenabar L",
-                    "filename": "pnd - Colliguaja odorifera - 03.jpg",
-                    "imageDescription": ""
-                },
-                {
-                    "credit": "Agustín Amenabar L",
-                    "filename": "pnd - Colliguaja odorifera - 04.jpg",
-                    "imageDescription": ""
-                },
-                {
-                    "credit": "Agustín Amenabar L",
-                    "filename": "pnd - Colliguaja odorifera - 05.jpg",
-                    "imageDescription": ""
-                }
+			"credit" : "Agustín Amenabar L.",
+			"filename" : "Colliguaja odorifera - Colliguay (6).jpg",
+			"imageDescription" : "Colliguay en Flor"
+		},
+		{
+			"credit" : "Agustín Amenabar L.",
+			"filename" : "Colliguaja odorifera - Colliguay (2).jpg",
+			"imageDescription" : "Hojas, flores y frutos de Colliguay"
+		},
+		{
+			"credit" : "Agustín Amenabar L.",
+			"filename" : "Colliguaja odorifera - Colliguay (1).jpg",
+			"imageDescription" : "Agallas de Colliguay"
+		},
+		{
+			"credit" : "Agustín Amenabar L.",
+			"filename" : "Colliguaja odorifera - Colliguay (8).jpg",
+			"imageDescription" : "Hábito, individuo Colliguay"
+		},
+		{
+			"credit" : "Agustín Amenabar L.",
+			"filename" : "Colliguaja odorifera - Colliguay (5).jpg",
+			"imageDescription" : "Flores y hojas de Colliguay"
+		},
+		{
+			"credit" : "Agustín Amenabar L.",
+			"filename" : "Colliguaja odorifera - Colliguay (4).jpg",
+			"imageDescription" : "Semilla tricoca"
+		}
             ]
         },
         "thumbnail": "pnd - Colliguaja odorifera - 00.jpg",
         "group": "plant",
         "subgroup": "plant",
         "details": {
-            "genus": "Colliguaja",
-            "specie": "odorifera",
-            "commonNames": [
-                "Colliguai",
-                "Colliguay"
-            ],
-            "biology": "Superior taxa: MagnoliopsidaEuphorbiaceaeHippomaneae<br>\nEs un arbusto siempreverde de hasta 2 m. La corteza es café-pardo y se desprende fácilmenteliberando látex de color blanco si se lo tala. Sus hojas son pecioladasde color verde clarooblongas a elípticasopuestasde ápice redondeadomucronado o agudo. Los bordes son aserrados y glandulosos. Las medidas de la lámina son de 15 a 45 mm de longitudcon un ancho de 8 a 20 mm.\n<br>\nPosee inflorescencias terminales unisexuales en tonos de amarillo a rojizo. Las flores femeninas muestran un estigma trífidosiendo más gruesas que las masculinasestas últimas contienen de 8 a 12 estambresy se ubican en lo más alto de la espiga. Su fruto es una cápsula tricoca con un diámetro 20 mm. Al terminar de madurarse abre violentamentelanzando las semillas que contenía su interior a varios metros de distanciaevitando de esta manera la competencia con la planta madre.<br>\nSus flores masculinas en ocasiones degeneran en agallas producidas por insectos parásitos que depositan sus huevos en ellas.\n<br>\nSu corona radical posee una inflamación como protección del tallo contra la destrucción del fuegollamada lignotúber. La corona contiene yemas de las cuáles nuevos tallos pueden brotar,y una suficiente provisión de nutrientes para apoyar un período de crecimiento en la ausencia de fotosíntesis.",
-            "identifyingCharacteristics": "",
-            "use": "",
-            "flower": [],
-            "fruit": [],
-            "etymology": "",
-            "distribution": "",
-            "habitat": "Esta especie arbustiva se la encuentra en terrenos pedregosos y áridosexpuestos al solen el bosque esclerófilo hasta los 1200 msnm.<br>\nEs una especie endémica de Chilecreciendo desde Antofagasta hasta Linares. Cuenta con registros en las siguientes regiones: Región de AntofagastaRegión de AtacamaRegión de CoquimboRegión de ValparaísoRegión Metropolitana de SantiagoRegión del Libertador General Bernardo O'Higgins,hasta la Región del Maule.",
-            "nativeStatus": "",
-            "conservationStatuses": [],
-            "descripted": "",
-            "synonymum": [],
-            "sources": [
-                {
-                    "name": "https://es.wikipedia.org/wiki/Colliguaja_odorifera",
-                    "link": "Colliguaja odorifera"
-                },
-                {
-                    "name": "http://es.wikipedia.org/wiki/Colliguaja_odorifera",
-                    "link": "Colliguaja odorifera"
-                },
-                {
-                    "name": "http://especieschilenas.blogspot.com/2012/08/el-colliguay-colliguaja-odorifera.html",
-                    "link": "especies chilenas: El Colliguay ..."
-                }
-            ],
+            "genus" : "Colliguaja",
+		"specie": "odorifera",
+		"commonNames" : ["Colliguay"],
+		"biology" : "Es un arbusto siempreverde de hasta 2 m. La corteza es café-pardo y se desprende fácilmente, liberando látex de color blanco si se lo tala. Sus hojas son pecioladas, de color verde claro, oblongas a elípticas, opuestas, de ápice redondeado, mucronado o agudo. Los bordes son aserrados y glandulosos. Las medidas de la lámina son de 15 a 45 mm de longitud, con un ancho de 8 a 20 mm.<br>Posee inflorescencias terminales unisexuales en tonos de amarillo a rojizo. Las flores femeninas muestran un estigma trífido, siendo más gruesas que las masculinas, estas últimas contienen de 8 a 12 estambres, y se ubican en lo más alto de la espiga. Su fruto es una cápsula tricoca con un diámetro 20 mm. Al terminar de madurar, se abre violentamente, lanzando las semillas que contenía su interior a varios metros de distancia, evitando de esta manera la competencia con la planta madre.<br>Su corona radical posee una inflamación como protección del tallo contra la destrucción del fuego, llamada lignotúber. La corona contiene yemas de las cuáles nuevos tallos pueden brotar, y una suficiente provisión de nutrientes para apoyar un período de crecimiento en la ausencia de fotosíntesis.",
+		"identifyingCharacteristics" : "Hojas ovaladas de borde serreado.",
+		"use": "Ornamental. En medicina popular se utiliza contra el dolor de muelas. La corteza se utiliza como jabón.",
+		"flower":[5,6,7,8,9,10,11,12],
+		"fruit":[1,7,8,9,10,11,12],
+		"etymology": "<strong>Colliguaja</strong>, nombre indígena de la planta. <strong>Odorifera</strong>, debido a la fragancia que expele la madera",
+		"distribution" : "Endémico de Chile y crece entre Antofagasta y Linares",
+		"habitat" : "Habita sitios pedregosos y áridos, hasta los 1.200 m s.n.m.",
+		"nativeStatus" : "Endémico a Chile",
+		"conservationStatuses" : ["LC"],
+		"descripted" : "Juan Ignacio Molina, 1810",
+		"synonymum":["Colliguaja triquetra","Colliguaja obtusa", "Croton colliguay"],
+		"sources": [
+			{
+				"name":"Wikipedia",
+				"link":"http://es.wikipedia.org/wiki/Colliguaja_odorifera"
+			},
+			{
+				"name":"Enciclopedia de la Flora Chilena",
+				"link":"http://museo.florachilena.cl/Niv_tax/Angiospermas/Ordenes/Malpighiales/Euphorbiaceae/Colliguaja/Colliguaja%20odorifera/Colliguaja%20odorifera.htm"
+			}
+		],
             "spottings": [
                 {
                     "noahId": "43763118",

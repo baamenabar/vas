@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg height="529" onload="init(evt)" width="700" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<g id="demis background" opacity="0.5" transform="translate(0,0)">
+		<image height="529" id="background map 1" opacity="1" width="700" x="0" xlink:href="http://www2.demis.nl/wms/wms.asp?version=1.1.0&amp;wms=WorldMap&amp;request=GetMap&amp;srs=EPSG:4326&amp;bbox=-70.5835477,-33.3627499,-70.5631605,-33.3498047&amp;WIDTH=700&amp;HEIGHT=529&amp;format=PNG&amp;transparent=FALSE&amp;exceptions=INIMAGE&amp;wrapdateline=TRUE&amp;layers=Bathymetry,Countries,Topography,Builtup+areas,Coastlines,Waterbodies,Rivers,Streams,Highways,Roads,Railroads,Trails,Hillshading,Borders,Settlements,Cities,Airports" y="0" />
+	</g>
+	<g id="Tramo inferior (t1) track" opacity="1.00">
+		<line fill="none" id="t1 p1" stroke="#ccc600" stroke-width="3" x1="287.6827" x2="290.0889" y1="137.8521" y2="139.0379" />
+		<line fill="none" id="t1 p2" stroke="#ccca00" stroke-width="3" x1="290.0889" x2="291.5624" y1="139.0379" y2="141.6703" />
+		<line fill="none" id="t1 p3" stroke="#ccc600" stroke-width="3" x1="291.5624" x2="294.5095" y1="141.6703" y2="143.4253" />
+		<line fill="none" id="t1 p4" stroke="#ccbe00" stroke-width="3" x1="294.5095" x2="308.4059" y1="143.4253" y2="153.3578" />
+		<line fill="none" id="t1 p5" stroke="#ccaa00" stroke-width="3" x1="308.4059" x2="313.3435" y1="153.3578" y2="153.9614" />
+		<line fill="none" id="t1 p6" stroke="#cca800" stroke-width="3" x1="313.3435" x2="313.6651" y1="153.9614" y2="154.8326" />
+		<line fill="none" id="t1 p7" stroke="#cc9f00" stroke-width="3" x1="313.6651" x2="317.3489" y1="154.8326" y2="159.2200" />
+		<line fill="none" id="t1 p8" stroke="#cc8b00" stroke-width="3" x1="317.3489" x2="318.8224" y1="159.2200" y2="163.6074" />
+		<line fill="none" id="t1 p9" stroke="#cc7900" stroke-width="3" x1="318.8224" x2="317.3489" y1="163.6074" y2="162.7299" />
+		<line fill="none" id="t1 p10" stroke="#cc6c00" stroke-width="3" x1="317.3489" x2="323.2429" y1="162.7299" y2="164.4849" />
+		<line fill="none" id="t1 p11" stroke="#cc6000" stroke-width="3" x1="323.2429" x2="332.8207" y1="164.4849" y2="169.7498" />
+		<line fill="none" id="t1 p12" stroke="#cc5800" stroke-width="3" x1="332.8207" x2="346.8191" y1="169.7498" y2="182.0346" />
+		<line fill="none" id="t1 p13" stroke="#cc5400" stroke-width="3" x1="346.8191" x2="350.5029" y1="182.0346" y2="193.4419" />
+		<line fill="none" id="t1 p14" stroke="#cc3f00" stroke-width="3" x1="350.5029" x2="351.2396" y1="193.4419" y2="198.7068" />
+		<line fill="none" id="t1 p15" stroke="#cc3b00" stroke-width="3" x1="351.2396" x2="355.8059" y1="198.7068" y2="202.2005" />
+		<line fill="none" id="t1 p16" stroke="#cc3900" stroke-width="3" x1="355.8059" x2="356.7244" y1="202.2005" y2="204.7066" />
+		<line fill="none" id="t1 p17" stroke="#cc3700" stroke-width="3" x1="356.7244" x2="357.8704" y1="204.7066" y2="209.2366" />
+		<line fill="none" id="t1 p18" stroke="#cc2f00" stroke-width="3" x1="357.8704" x2="362.2910" y1="209.2366" y2="218.0114" />
+		<line fill="none" id="t1 p19" stroke="#cc2900" stroke-width="3" x1="362.2910" x2="368.1850" y1="218.0114" y2="225.0313" />
+		<line fill="none" id="t1 p20" stroke="#cc1900" stroke-width="3" x1="368.1850" x2="369.6585" y1="225.0313" y2="225.9088" />
+		<line fill="none" id="t1 p21" stroke="#cc1900" stroke-width="3" x1="369.6585" x2="376.2893" y1="225.9088" y2="231.1737" />
+		<line fill="none" id="t1 p22" stroke="#cc0e00" stroke-width="3" x1="376.2893" x2="385.8671" y1="231.1737" y2="235.5611" />
+		<line fill="none" id="t1 p23" stroke="#cc0a00" stroke-width="3" x1="385.8671" x2="394.4400" y1="235.5611" y2="246.1087" />
+		<line fill="none" id="t1 p24" stroke="#cc0e00" stroke-width="3" x1="394.4400" x2="392.8439" y1="246.1087" y2="254.3840" />
+		<line fill="none" id="t1 p25" stroke="#cc0400" stroke-width="3" x1="392.8439" x2="389.3396" y1="254.3840" y2="267.0382" />
+		<line fill="none" id="t1 p26" stroke="#cc0000" stroke-width="3" x1="389.3396" x2="397.0917" y1="267.0382" y2="275.9534" />
+		<line fill="none" id="t1 p27" stroke="#cc0000" stroke-width="3" x1="397.0917" x2="401.0882" y1="275.9534" y2="286.7095" />
+		<line fill="none" id="t1 p28" stroke="#cc0000" stroke-width="3" x1="401.0882" x2="405.0338" y1="286.7095" y2="301.7518" />
+		<line fill="none" id="t1 p29" stroke="#cc0000" stroke-width="3" x1="405.0338" x2="410.6019" y1="301.7518" y2="311.7039" />
+		<line fill="none" id="t1 p30" stroke="#cc0000" stroke-width="3" x1="410.6019" x2="407.6657" y1="311.7039" y2="328.6192" />
+		<line fill="none" id="t1 p31" stroke="#cc0000" stroke-width="3" x1="407.6657" x2="406.2532" y1="328.6192" y2="338.0195" />
+		<line fill="none" id="t1 p32" stroke="#cc0000" stroke-width="3" x1="406.2532" x2="424.1130" y1="338.0195" y2="346.5493" />
+		<line fill="none" id="t1 p33" stroke="#cc0000" stroke-width="3" x1="424.1130" x2="441.4019" y1="346.5493" y2="358.2826" />
+		<line fill="none" id="t1 p34" stroke="#cc0000" stroke-width="3" x1="441.4019" x2="469.9281" y1="358.2826" y2="358.4943" />
+		<line fill="none" id="t1 p35" stroke="#cc0000" stroke-width="3" x1="469.9281" x2="487.4443" y1="358.4943" y2="367.0040" />
+		<line fill="none" id="t1 p36" stroke="#cc0000" stroke-width="3" x1="487.4443" x2="502.9617" y1="367.0040" y2="373.3944" />
+		<line fill="none" id="t1 p37" stroke="#cc0000" stroke-width="3" x1="502.9617" x2="523.5598" y1="373.3944" y2="380.8396" />
+		<line fill="none" id="t1 p38" stroke="#cc0000" stroke-width="3" x1="523.5598" x2="536.8463" y1="380.8396" y2="384.8966" />
+		<line fill="none" id="t1 p39" stroke="#cc0000" stroke-width="3" x1="536.8463" x2="560.7913" y1="384.8966" y2="394.6578" />
+		<line fill="none" id="t1 p40" stroke="#cc0000" stroke-width="3" x1="560.7913" x2="585.3462" y1="394.6578" y2="406.6325" />
+		<line fill="none" id="t1 p41" stroke="#cc0000" stroke-width="3" x1="585.3462" x2="611.7048" y1="406.6325" y2="420.0698" />
+		<line fill="none" id="t1 p42" stroke="#cc0000" stroke-width="3" x1="611.7048" x2="621.5593" y1="420.0698" y2="423.9769" />
+		<line fill="none" id="t1 p43" stroke="#cc0000" stroke-width="3" x1="621.5593" x2="629.7804" y1="423.9769" y2="439.1308" />
+		<line fill="none" id="t1 p44" stroke="#cc0000" stroke-width="3" x1="629.7804" x2="630.1613" y1="439.1308" y2="439.7033" />
+		<line fill="none" id="t1 p45" stroke="#cc0000" stroke-width="3" x1="630.1613" x2="630.6822" y1="439.7033" y2="441.2007" />
+		<line fill="none" id="t1 p46" stroke="#cc0000" stroke-width="3" x1="630.6822" x2="631.1203" y1="441.2007" y2="442.0845" />
+		<line fill="none" id="t1 p47" stroke="#cc0000" stroke-width="3" x1="631.1203" x2="639.1909" y1="442.0845" y2="461.9116" />
+		<line fill="none" id="t1 p48" stroke="#cc0000" stroke-width="3" x1="639.1909" x2="639.9978" y1="461.9116" y2="463.0879" />
+		<line fill="none" id="t1 p49" stroke="#cc0000" stroke-width="3" x1="639.9978" x2="647.8760" y1="463.0879" y2="480.0474" />
+		<line fill="none" id="t1 p50" stroke="#cc0000" stroke-width="3" x1="647.8760" x2="652.9721" y1="480.0474" y2="488.4964" />
+		<line fill="none" id="t1 p51" stroke="#cc0000" stroke-width="3" x1="652.9721" x2="660.0000" y1="488.4964" y2="489.3766" />
+	</g>
+	<g id="Tramo inferior (t1) label" opacity="1" transform="translate(0,0)" x="289.6827" y="137.8521">		<text fill="#000000" font-family="Verdana" font-size="10" id="Tramo inferior (t1) name" opacity="1" text-anchor="middle" x="289.6827" y="137.8521">Tramo inferior
+		</text>
+	</g>
+	<g id="Tramo superior (t2) track" opacity="1.00">
+		<line fill="none" id="t2 p1" stroke="#c400cc" stroke-width="3" x1="40.0000" x2="44.3210" y1="44.3224" y2="41.0510" />
+		<line fill="none" id="t2 p2" stroke="#c800cc" stroke-width="3" x1="44.3210" x2="58.5487" y1="41.0510" y2="40.3161" />
+		<line fill="none" id="t2 p3" stroke="#c800cc" stroke-width="3" x1="58.5487" x2="64.7379" y1="40.3161" y2="40.4424" />
+		<line fill="none" id="t2 p4" stroke="#c800cc" stroke-width="3" x1="64.7379" x2="68.9497" y1="40.4424" y2="41.1568" />
+		<line fill="none" id="t2 p5" stroke="#c800cc" stroke-width="3" x1="68.9497" x2="79.4923" y1="41.1568" y2="40.0000" />
+		<line fill="none" id="t2 p6" stroke="#ca00cc" stroke-width="3" x1="79.4923" x2="88.4296" y1="40.0000" y2="44.1348" />
+		<line fill="none" id="t2 p7" stroke="#c800cc" stroke-width="3" x1="88.4296" x2="94.1693" y1="44.1348" y2="45.2562" />
+		<line fill="none" id="t2 p8" stroke="#ca00cc" stroke-width="3" x1="94.1693" x2="97.2511" y1="45.2562" y2="46.5110" />
+		<line fill="none" id="t2 p9" stroke="#ca00cc" stroke-width="3" x1="97.2511" x2="99.3706" y1="46.5110" y2="48.3654" />
+		<line fill="none" id="t2 p10" stroke="#cc00cc" stroke-width="3" x1="99.3706" x2="100.2500" y1="48.3654" y2="49.4342" />
+		<line fill="none" id="t2 p11" stroke="#c800cc" stroke-width="3" x1="100.2500" x2="101.9332" y1="49.4342" y2="50.6503" />
+		<line fill="none" id="t2 p12" stroke="#c800cc" stroke-width="3" x1="101.9332" x2="103.5559" y1="50.6503" y2="51.0590" />
+		<line fill="none" id="t2 p13" stroke="#c400cc" stroke-width="3" x1="103.5559" x2="104.0920" y1="51.0590" y2="51.8556" />
+		<line fill="none" id="t2 p14" stroke="#bc00cc" stroke-width="3" x1="104.0920" x2="104.2404" y1="51.8556" y2="51.5890" />
+		<line fill="none" id="t2 p15" stroke="#ad00cc" stroke-width="3" x1="104.2404" x2="104.4266" y1="51.5890" y2="52.1670" />
+		<line fill="none" id="t2 p16" stroke="#9d00cc" stroke-width="3" x1="104.4266" x2="105.1633" y1="52.1670" y2="51.2895" />
+		<line fill="none" id="t2 p17" stroke="#9700cc" stroke-width="3" x1="105.1633" x2="106.6368" y1="51.2895" y2="51.2895" />
+		<line fill="none" id="t2 p18" stroke="#9100cc" stroke-width="3" x1="106.6368" x2="106.6368" y1="51.2895" y2="50.4120" />
+		<line fill="none" id="t2 p19" stroke="#8f00cc" stroke-width="3" x1="106.6368" x2="108.1104" y1="50.4120" y2="50.4120" />
+		<line fill="none" id="t2 p20" stroke="#8900cc" stroke-width="3" x1="108.1104" x2="109.5839" y1="50.4120" y2="50.4120" />
+		<line fill="none" id="t2 p21" stroke="#8000cc" stroke-width="3" x1="109.5839" x2="110.3206" y1="50.4120" y2="49.5345" />
+		<line fill="none" id="t2 p22" stroke="#7e00cc" stroke-width="3" x1="110.3206" x2="111.7941" y1="49.5345" y2="50.4120" />
+		<line fill="none" id="t2 p23" stroke="#7c00cc" stroke-width="3" x1="111.7941" x2="112.5309" y1="50.4120" y2="51.2895" />
+		<line fill="none" id="t2 p24" stroke="#7600cc" stroke-width="3" x1="112.5309" x2="114.0044" y1="51.2895" y2="53.0445" />
+		<line fill="none" id="t2 p25" stroke="#7600cc" stroke-width="3" x1="114.0044" x2="114.7412" y1="53.0445" y2="53.0445" />
+		<line fill="none" id="t2 p26" stroke="#6a00cc" stroke-width="3" x1="114.7412" x2="116.2147" y1="53.0445" y2="53.0445" />
+		<line fill="none" id="t2 p27" stroke="#6200cc" stroke-width="3" x1="116.2147" x2="116.9514" y1="53.0445" y2="53.9219" />
+		<line fill="none" id="t2 p28" stroke="#5e00cc" stroke-width="3" x1="116.9514" x2="118.4249" y1="53.9219" y2="55.6769" />
+		<line fill="none" id="t2 p29" stroke="#5500cc" stroke-width="3" x1="118.4249" x2="119.1617" y1="55.6769" y2="55.6769" />
+		<line fill="none" id="t2 p30" stroke="#4f00cc" stroke-width="3" x1="119.1617" x2="120.6352" y1="55.6769" y2="56.5544" />
+		<line fill="none" id="t2 p31" stroke="#4d00cc" stroke-width="3" x1="120.6352" x2="122.8455" y1="56.5544" y2="55.6769" />
+		<line fill="none" id="t2 p32" stroke="#4500cc" stroke-width="3" x1="122.8455" x2="123.5822" y1="55.6769" y2="57.4319" />
+		<line fill="none" id="t2 p33" stroke="#3d00cc" stroke-width="3" x1="123.5822" x2="125.0557" y1="57.4319" y2="56.5544" />
+		<line fill="none" id="t2 p34" stroke="#3700cc" stroke-width="3" x1="125.0557" x2="126.5292" y1="56.5544" y2="55.6769" />
+		<line fill="none" id="t2 p35" stroke="#3500cc" stroke-width="3" x1="126.5292" x2="128.0027" y1="55.6769" y2="55.6769" />
+		<line fill="none" id="t2 p36" stroke="#2d00cc" stroke-width="3" x1="128.0027" x2="130.2130" y1="55.6769" y2="56.5544" />
+		<line fill="none" id="t2 p37" stroke="#2d00cc" stroke-width="3" x1="130.2130" x2="130.9498" y1="56.5544" y2="57.4319" />
+		<line fill="none" id="t2 p38" stroke="#2d00cc" stroke-width="3" x1="130.9498" x2="130.2130" y1="57.4319" y2="56.5544" />
+		<line fill="none" id="t2 p39" stroke="#2b00cc" stroke-width="3" x1="130.2130" x2="132.4233" y1="56.5544" y2="59.1868" />
+		<line fill="none" id="t2 p40" stroke="#1e00cc" stroke-width="3" x1="132.4233" x2="133.8968" y1="59.1868" y2="59.1868" />
+		<line fill="none" id="t2 p41" stroke="#1600cc" stroke-width="3" x1="133.8968" x2="135.3703" y1="59.1868" y2="60.0643" />
+		<line fill="none" id="t2 p42" stroke="#0e00cc" stroke-width="3" x1="135.3703" x2="136.1071" y1="60.0643" y2="61.8193" />
+		<line fill="none" id="t2 p43" stroke="#0a00cc" stroke-width="3" x1="136.1071" x2="138.3173" y1="61.8193" y2="64.4518" />
+		<line fill="none" id="t2 p44" stroke="#0400cc" stroke-width="3" x1="138.3173" x2="139.7908" y1="64.4518" y2="66.2067" />
+		<line fill="none" id="t2 p45" stroke="#0004cc" stroke-width="3" x1="139.7908" x2="140.5276" y1="66.2067" y2="67.9617" />
+		<line fill="none" id="t2 p46" stroke="#0007cc" stroke-width="3" x1="140.5276" x2="142.0011" y1="67.9617" y2="70.5941" />
+		<line fill="none" id="t2 p47" stroke="#0007cc" stroke-width="3" x1="142.0011" x2="142.7379" y1="70.5941" y2="73.2266" />
+		<line fill="none" id="t2 p48" stroke="#000fcc" stroke-width="3" x1="142.7379" x2="144.2114" y1="73.2266" y2="74.9816" />
+		<line fill="none" id="t2 p49" stroke="#0013cc" stroke-width="3" x1="144.2114" x2="147.1584" y1="74.9816" y2="76.7365" />
+		<line fill="none" id="t2 p50" stroke="#001bcc" stroke-width="3" x1="147.1584" x2="149.3687" y1="76.7365" y2="76.7365" />
+		<line fill="none" id="t2 p51" stroke="#0023cc" stroke-width="3" x1="149.3687" x2="152.3157" y1="76.7365" y2="78.4915" />
+		<line fill="none" id="t2 p52" stroke="#002bcc" stroke-width="3" x1="152.3157" x2="153.7892" y1="78.4915" y2="81.1239" />
+		<line fill="none" id="t2 p53" stroke="#0031cc" stroke-width="3" x1="153.7892" x2="155.9995" y1="81.1239" y2="80.2465" />
+		<line fill="none" id="t2 p54" stroke="#003acc" stroke-width="3" x1="155.9995" x2="158.2097" y1="80.2465" y2="81.1239" />
+		<line fill="none" id="t2 p55" stroke="#0040cc" stroke-width="3" x1="158.2097" x2="159.6832" y1="81.1239" y2="81.1239" />
+		<line fill="none" id="t2 p56" stroke="#0044cc" stroke-width="3" x1="159.6832" x2="162.6303" y1="81.1239" y2="79.3690" />
+		<line fill="none" id="t2 p57" stroke="#0050cc" stroke-width="3" x1="162.6303" x2="164.1038" y1="79.3690" y2="77.6140" />
+		<line fill="none" id="t2 p58" stroke="#0056cc" stroke-width="3" x1="164.1038" x2="165.5773" y1="77.6140" y2="77.6140" />
+		<line fill="none" id="t2 p59" stroke="#005acc" stroke-width="3" x1="165.5773" x2="167.7875" y1="77.6140" y2="78.4915" />
+		<line fill="none" id="t2 p60" stroke="#0060cc" stroke-width="3" x1="167.7875" x2="168.5243" y1="78.4915" y2="77.6140" />
+		<line fill="none" id="t2 p61" stroke="#0063cc" stroke-width="3" x1="168.5243" x2="169.2610" y1="77.6140" y2="76.7365" />
+		<line fill="none" id="t2 p62" stroke="#0065cc" stroke-width="3" x1="169.2610" x2="172.9448" y1="76.7365" y2="77.6140" />
+		<line fill="none" id="t2 p63" stroke="#006fcc" stroke-width="3" x1="172.9448" x2="174.4183" y1="77.6140" y2="77.6140" />
+		<line fill="none" id="t2 p64" stroke="#0071cc" stroke-width="3" x1="174.4183" x2="176.6286" y1="77.6140" y2="77.6140" />
+		<line fill="none" id="t2 p65" stroke="#0077cc" stroke-width="3" x1="176.6286" x2="178.8389" y1="77.6140" y2="78.4915" />
+		<line fill="none" id="t2 p66" stroke="#0081cc" stroke-width="3" x1="178.8389" x2="180.3124" y1="78.4915" y2="79.3690" />
+		<line fill="none" id="t2 p67" stroke="#0085cc" stroke-width="3" x1="180.3124" x2="182.5226" y1="79.3690" y2="80.2465" />
+		<line fill="none" id="t2 p68" stroke="#008bcc" stroke-width="3" x1="182.5226" x2="185.4697" y1="80.2465" y2="80.2465" />
+		<line fill="none" id="t2 p69" stroke="#008fcc" stroke-width="3" x1="185.4697" x2="188.4167" y1="80.2465" y2="80.2465" />
+		<line fill="none" id="t2 p70" stroke="#0094cc" stroke-width="3" x1="188.4167" x2="189.8902" y1="80.2465" y2="81.1239" />
+		<line fill="none" id="t2 p71" stroke="#0094cc" stroke-width="3" x1="189.8902" x2="191.3637" y1="81.1239" y2="80.2465" />
+		<line fill="none" id="t2 p72" stroke="#0096cc" stroke-width="3" x1="191.3637" x2="192.8372" y1="80.2465" y2="79.3690" />
+		<line fill="none" id="t2 p73" stroke="#009ecc" stroke-width="3" x1="192.8372" x2="195.0475" y1="79.3690" y2="80.2465" />
+		<line fill="none" id="t2 p74" stroke="#00a8cc" stroke-width="3" x1="195.0475" x2="195.7842" y1="80.2465" y2="80.2465" />
+		<line fill="none" id="t2 p75" stroke="#00accc" stroke-width="3" x1="195.7842" x2="197.2578" y1="80.2465" y2="81.1239" />
+		<line fill="none" id="t2 p76" stroke="#00b8cc" stroke-width="3" x1="197.2578" x2="198.7313" y1="81.1239" y2="82.0014" />
+		<line fill="none" id="t2 p77" stroke="#00c1cc" stroke-width="3" x1="198.7313" x2="200.9415" y1="82.0014" y2="82.8789" />
+		<line fill="none" id="t2 p78" stroke="#00c5cc" stroke-width="3" x1="200.9415" x2="202.4150" y1="82.8789" y2="82.8789" />
+		<line fill="none" id="t2 p79" stroke="#00cccb" stroke-width="3" x1="202.4150" x2="205.3621" y1="82.8789" y2="84.6339" />
+		<line fill="none" id="t2 p80" stroke="#00ccc5" stroke-width="3" x1="205.3621" x2="206.8356" y1="84.6339" y2="85.5114" />
+		<line fill="none" id="t2 p81" stroke="#00ccc1" stroke-width="3" x1="206.8356" x2="206.8356" y1="85.5114" y2="85.5114" />
+		<line fill="none" id="t2 p82" stroke="#00ccc1" stroke-width="3" x1="206.8356" x2="207.5723" y1="85.5114" y2="83.7564" />
+		<line fill="none" id="t2 p83" stroke="#00ccbb" stroke-width="3" x1="207.5723" x2="209.0458" y1="83.7564" y2="82.8789" />
+		<line fill="none" id="t2 p84" stroke="#00ccb3" stroke-width="3" x1="209.0458" x2="209.7826" y1="82.8789" y2="83.7564" />
+		<line fill="none" id="t2 p85" stroke="#00ccad" stroke-width="3" x1="209.7826" x2="211.9929" y1="83.7564" y2="83.7564" />
+		<line fill="none" id="t2 p86" stroke="#00cca4" stroke-width="3" x1="211.9929" x2="214.9399" y1="83.7564" y2="84.6339" />
+		<line fill="none" id="t2 p87" stroke="#00cc9a" stroke-width="3" x1="214.9399" x2="214.2031" y1="84.6339" y2="86.3889" />
+		<line fill="none" id="t2 p88" stroke="#00cc96" stroke-width="3" x1="214.2031" x2="214.9399" y1="86.3889" y2="87.2663" />
+		<line fill="none" id="t2 p89" stroke="#00cc90" stroke-width="3" x1="214.9399" x2="214.9399" y1="87.2663" y2="88.1438" />
+		<line fill="none" id="t2 p90" stroke="#00cc8c" stroke-width="3" x1="214.9399" x2="215.6766" y1="88.1438" y2="88.1438" />
+		<line fill="none" id="t2 p91" stroke="#00cc86" stroke-width="3" x1="215.6766" x2="216.4212" y1="88.1438" y2="87.9639" />
+		<line fill="none" id="t2 p92" stroke="#00cc7b" stroke-width="3" x1="216.4212" x2="217.4087" y1="87.9639" y2="87.4631" />
+		<line fill="none" id="t2 p93" stroke="#00cc79" stroke-width="3" x1="217.4087" x2="219.0430" y1="87.4631" y2="86.9420" />
+		<line fill="none" id="t2 p94" stroke="#00cc71" stroke-width="3" x1="219.0430" x2="222.8901" y1="86.9420" y2="85.6530" />
+		<line fill="none" id="t2 p95" stroke="#00cc6d" stroke-width="3" x1="222.8901" x2="227.2043" y1="85.6530" y2="88.4082" />
+		<line fill="none" id="t2 p96" stroke="#00cc6d" stroke-width="3" x1="227.2043" x2="230.8283" y1="88.4082" y2="90.4717" />
+		<line fill="none" id="t2 p97" stroke="#00cc5f" stroke-width="3" x1="230.8283" x2="234.0918" y1="90.4717" y2="93.8508" />
+		<line fill="none" id="t2 p98" stroke="#00cc59" stroke-width="3" x1="234.0918" x2="238.7559" y1="93.8508" y2="95.6204" />
+		<line fill="none" id="t2 p99" stroke="#65cc00" stroke-width="3" x1="238.7559" x2="249.3058" y1="95.6204" y2="100.7514" />
+		<line fill="none" id="t2 p100" stroke="#61cc00" stroke-width="3" x1="249.3058" x2="250.8722" y1="100.7514" y2="106.1752" />
+		<line fill="none" id="t2 p101" stroke="#61cc00" stroke-width="3" x1="250.8722" x2="257.7784" y1="106.1752" y2="110.7060" />
+		<line fill="none" id="t2 p102" stroke="#61cc00" stroke-width="3" x1="257.7784" x2="263.4655" y1="110.7060" y2="108.4866" />
+		<line fill="none" id="t2 p103" stroke="#65cc00" stroke-width="3" x1="263.4655" x2="270.8250" y1="108.4866" y2="112.4374" />
+		<line fill="none" id="t2 p104" stroke="#6ccc00" stroke-width="3" x1="270.8250" x2="283.0126" y1="112.4374" y2="121.0793" />
+		<line fill="none" id="t2 p105" stroke="#70cc00" stroke-width="3" x1="283.0126" x2="285.1682" y1="121.0793" y2="122.3069" />
+		<line fill="none" id="t2 p106" stroke="#7ecc00" stroke-width="3" x1="285.1682" x2="287.1404" y1="122.3069" y2="126.1506" />
+		<line fill="none" id="t2 p107" stroke="#84cc00" stroke-width="3" x1="287.1404" x2="288.2526" y1="126.1506" y2="131.4794" />
+		<line fill="none" id="t2 p108" stroke="#86cc00" stroke-width="3" x1="288.2526" x2="286.0551" y1="131.4794" y2="133.1163" />
+		<line fill="none" id="t2 p109" stroke="#8acc00" stroke-width="3" x1="286.0551" x2="287.0510" y1="133.1163" y2="135.6762" />
+		<line fill="none" id="t2 p110" stroke="#9fcc00" stroke-width="3" x1="287.0510" x2="286.2218" y1="135.6762" y2="136.6236" />
+		<line fill="none" id="t2 p111" stroke="#a1cc00" stroke-width="3" x1="286.2218" x2="286.8425" y1="136.6236" y2="137.5101" />
+		<line fill="none" id="t2 p112" stroke="#a5cc00" stroke-width="3" x1="286.8425" x2="287.1419" y1="137.5101" y2="138.1604" />
+		<line fill="none" id="t2 p113" stroke="#abcc00" stroke-width="3" x1="287.1419" x2="287.8787" y1="138.1604" y2="138.1604" />
+	</g>
+	<g id="Tramo superior (t2) label" opacity="1" transform="translate(0,0)" x="42" y="44.3224">		<text fill="#000000" font-family="Verdana" font-size="10" id="Tramo superior (t2) name" opacity="1" text-anchor="middle" x="42" y="44.3224">Tramo superior
+		</text>
+	</g>
+	<g id="Waypoints">
+		<circle cx="366.1963" cy="223.5368" fill="#000000" fill-opacity="0" id="Puerta reja (w1) marker" r="3" stroke="#000000" stroke-opacity="1" stroke-width="1.0" />
+		<g id="Puerta reja (w1) label" transform="translate(0,0)" x="361.1963" y="223.5368">			<text fill="#000000" font-family="Verdana" font-size="10" id="Puerta reja (w1) name" opacity="1" text-anchor="end" x="361.1963" y="223.5368">Puerta reja
+			</text>			<text fill="#000000" font-family="Verdana" font-size="7.5" id="Puerta reja (w1) desc" opacity="1" text-anchor="end" x="361.1963" y="233.5368">23-11-2009
+			</text>
+		</g>
+		<circle cx="99.3215" cy="48.4600" fill="#000000" fill-opacity="0" id="Rocas (w2) marker" r="3" stroke="#000000" stroke-opacity="1" stroke-width="1.0" />
+		<g id="Rocas (w2) label" transform="translate(0,0)" x="104.3215" y="48.46">			<text fill="#000000" font-family="Verdana" font-size="10" id="Rocas (w2) name" opacity="1" text-anchor="start" x="104.3215" y="48.46">Rocas
+			</text>
+		</g>
+		<circle cx="38.6717" cy="44.3863" fill="#000000" fill-opacity="0" id="Cumbre Manquehue (w3) marker" r="3" stroke="#000000" stroke-opacity="1" stroke-width="1.0" />
+		<g id="Cumbre Manquehue (w3) label" transform="translate(0,0)" x="43.6717" y="44.3863">			<text fill="#000000" font-family="Verdana" font-size="10" id="Cumbre Manquehue (w3) name" opacity="1" text-anchor="start" x="43.6717" y="44.3863">Cumbre Manquehue
+			</text>
+		</g>
+		<circle cx="621.4376" cy="423.8461" fill="#000000" fill-opacity="0" id="Claro (w4) marker" r="3" stroke="#000000" stroke-opacity="1" stroke-width="1.0" />
+		<g id="Claro (w4) label" transform="translate(0,0)" x="616.4376" y="423.8461">			<text fill="#000000" font-family="Verdana" font-size="10" id="Claro (w4) name" opacity="1" text-anchor="end" x="616.4376" y="423.8461">Claro
+			</text>			<text fill="#000000" font-family="Verdana" font-size="7.5" id="Claro (w4) desc" opacity="1" text-anchor="end" x="616.4376" y="433.8461">23-11-2009
+			</text>
+		</g>
+	</g>
+	<g id="Legend" onmousedown="trackGroup(evt,'Legend',1)" onmousemove="moveGroup(evt,'Legend')" onmouseup="trackGroup(evt,'Legend',0)" transform="translate(0,0)" x="6" y="515.376585094872">		<text fill="#cc0000" font-family="Verdana" font-size="10" id="legend label 1" text-anchor="start" x="6" y="515.376585094872">1207.1
+		</text>		<text fill="#98cc00" font-family="Verdana" font-size="10" id="legend label 2" text-anchor="start" x="6" y="505.376585094872">1315.1
+		</text>		<text fill="#00cc67" font-family="Verdana" font-size="10" id="legend label 3" text-anchor="start" x="6" y="495.376585094872">1423.1
+		</text>		<text fill="#0034cc" font-family="Verdana" font-size="10" id="legend label 4" text-anchor="start" x="6" y="485.376585094872">1531.2
+		</text>		<text fill="#cc00cc" font-family="Verdana" font-size="10" id="legend label 5" text-anchor="start" x="6" y="475.376585094872">1639.2
+		</text>		<text fill="#000000" font-family="Verdana" font-size="10" id="legend header" onmouseout="highlight('Legend',0)" onmouseover="highlight('Legend',1)" text-anchor="start" x="6" y="463.376585094872">Elevation (m)
+		</text>
+	</g>
+	<g id="Scale" onmousedown="trackGroup(evt,'Scale',1)" onmousemove="moveGroup(evt,'Scale')" onmouseout="highlight('Scale',0)" onmouseover="highlight('Scale',1)" onmouseup="trackGroup(evt,'Scale',0)" transform="translate(0,0)" x="350" y="264.688292547436">
+		<line fill="none" id="scale_line" stroke="#000000" stroke-width="1" x1="165.704846897706" x2="534.295153102294" y1="511.376585094872" y2="511.376585094872" />
+		<line fill="none" id="scale_end1" stroke="#000000" stroke-width="1" x1="165.704846897706" x2="165.704846897706" y1="509.376585094872" y2="513.376585094872" />
+		<line fill="none" id="scale_end2" stroke="#000000" stroke-width="1" x1="534.295153102294" x2="534.295153102294" y1="509.376585094872" y2="513.376585094872" />		<text fill="#000000" font-family="Verdana" font-size="10" id="scale_text" text-anchor="middle" x="350" y="509.376585094872">1 km
+		</text>
+	</g>
+	<g id="Logo" onmousedown="trackGroup(evt,'Logo',1)" onmousemove="moveGroup(evt,'Logo')" onmouseout="highlight('Logo',0)" onmouseover="highlight('Logo',1)" onmouseup="trackGroup(evt,'Logo',0)" transform="translate(0,0)" x="350" y="526.376585094872">
+		<rect fill="#FFFFFF" height="11" id="logo box" opacity="0.6" width="160" x="270" y="517.376585094872" />
+		<a target="_blank" xlink:href="http://www.gpsvisualizer.com/">			<text fill="#000000" font-family="Verdana" font-size="9" id="logo_text" text-anchor="middle" transform="translate(350,526.376585094872) rotate(0) translate(-350,-526.376585094872)" x="350" y="526.376585094872">created by GPSVisualizer.com
+			</text>
+		</a>
+	</g>
+	<g id="Title" onmousedown="trackGroup(evt,'Title',1)" onmousemove="moveGroup(evt,'Title')" onmouseout="highlight('Title',0)" onmouseover="highlight('Title',1)" onmouseup="trackGroup(evt,'Title',0)" transform="translate(0,0)" x="350" y="18.75">		<text fill="#000000" font-family="Verdana" font-size="15" id="Title text 1" text-anchor="middle" x="350" y="18.75">Manquehue desde Lo Curro
+		</text>
+	</g>
+	<rect fill="none" height="528" id="image_boundary" opacity="0" stroke="#000000" stroke-width="1" width="699" x="0.5" y="0.5" /><!-- debugging stuff:
+ --><!-- key = 20140717131146-28248
+ --><!-- min. altitude = 1207.073
+ --><!-- max. altitude = 1639.185
+ --><!-- colorize min = 1207.073
+ --><!-- colorize max = 1639.185
+ --><!-- colorize range = 432.112
+ --><!-- upper left (data) = -33.3507828907536,-70.5823827200823
+ --><!-- lower right (data) = -33.3617717824835,-70.5643254963577
+ --><!-- upper left (drawing) = -33.3498047452877,-70.5835477022581
+ --><!-- lower right (drawing) = -33.3627499279494,-70.563160514182
+ --><!-- center = -33.3562773366186,-70.57335410822
+ --><!-- width,height (pixels) = 700,529.376585094872
+ --><!-- width,height (degrees) = 0.0203871880761426,0.0129451826617242
+ --><!-- scale = 7716, resolution = 2.722 m/pixel
+ --><!-- map = http://www2.demis.nl/wms/wms.asp?version=1.1.0&wms=WorldMap&request=GetMap&srs=EPSG:4326&bbox=-70.5835477,-33.3627499,-70.5631605,-33.3498047&WIDTH=700&HEIGHT=529&format=PNG&transparent=FALSE&exceptions=INIMAGE&wrapdateline=TRUE&layers=Bathymetry,Countries,Topography,Builtup+areas,Coastlines,Waterbodies,Rivers,Streams,Highways,Roads,Railroads,Trails,Hillshading,Borders,Settlements,Cities,Airports
+ --><!-- backgrounds = http://www.gpsvisualizer.com/backgrounds?max_dimension=700&margin=0&mw=-70.5835477022581&me=-70.563160514182&ms=-33.3627499279494&mn=-33.3498047452877&submitted=1
+ --><!-- e-mail = 
+ --><!-- 
+	Generated using the Perl SVG Module V2.49
+	by Ronan Oger
+	Info: http://www.roitsystems.com/
+ -->
+</svg>

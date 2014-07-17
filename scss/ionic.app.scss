@@ -31,6 +31,7 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
 
 // Include all of Ionic
 @import "www/lib/ionic/scss/ionic";
+@import "fonts";
 
 
 // Overwriting of Ionic styles 
@@ -73,6 +74,7 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
 		margin-top: 3.333%;
 		max-width: 250px;
 		padding:0;
+		font-family: "open_sans", Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	}
 	img{
 		width: 100%;
@@ -180,7 +182,7 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
 	}
 }
 
-@media (min-width: 280px) {
+@media (min-width: 300px) {
 	.lista-calugas{
 		.button{
 			width: 30%;//3
@@ -190,7 +192,7 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
 	}
 }
 
-@media (min-width: 350px) {
+@media (min-width: 450px) {
 	.lista-calugas{
 		.button{
 			width: 22.5%;//4
